@@ -1,4 +1,4 @@
-## Insolvencia (Ley de Segunda Oportunidad) en España desde 2021**
+## Insolvencia (Ley de Segunda Oportunidad) en España desde 2021
 
 **Propósito**: Este proyecto busca analizar la situación de la insolvencia en España, a partir de 2021, para generar un dashboard interactivo (Google Looker Studio) que apoye la toma de decisiones en despachos especializados en liquidación de deudas.
 El objetivo principal es identificar tendencias, perfiles y patrones que permitan a estos despachos:
