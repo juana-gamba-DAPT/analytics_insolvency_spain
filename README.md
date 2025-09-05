@@ -1,4 +1,4 @@
-**Insolvencia (Ley de Segunda Oportunidad) en España desde 2021**
+## Insolvencia (Ley de Segunda Oportunidad) en España desde 2021**
 
 **Propósito**: Este proyecto busca analizar la situación de la insolvencia en España, a partir de 2021, para generar un dashboard interactivo (Google Looker Studio) que apoye la toma de decisiones en despachos especializados en liquidación de deudas.
 El objetivo principal es identificar tendencias, perfiles y patrones que permitan a estos despachos:
@@ -14,16 +14,15 @@ Tiempos medios de resolución judicial (fuente CGPJ).
 Evolución temporal de los concursos y de la Ley de Segunda Oportunidad (2021–2025T2).
 
 ## Datos
-- **Registradores de España**:
-Registradores de España (EPC1–EPC6): bases trimestrales con información desde 2021T1 hasta 2025T2.
+- **Registradores de España**: bases trimestrales con información desde 2021T1 hasta 2025T2.
 EPC1: sociedades concursadas.
 EPC2: personas físicas concursadas.
 EPC3: tipo de procedimiento.
 EPC4: tipo de concurso (ordinario/especial/sin masa).
 EPC5: número de empleados.
 EPC6: volumen de negocio y antigüedad.
-CGPJ: duración media de procesos judiciales.
-INE / Banco de España: indicadores macroeconómicos de referencia (PIB, paro, tipos de interés).
+- CGPJ: duración media de procesos judiciales.
+- INE / Banco de España: indicadores macroeconómicos de referencia (PIB, paro, tipos de interés).
 
 👉 Nota: de momento, los datos centrales son los de los Registradores. Las demás fuentes están consideradas para enriquecer el análisis más adelante.
 
