@@ -45,6 +45,14 @@ Visualizaciones iniciales (tipos de concursos, distribución geográfica, evoluc
 - Distribución por empleados, volumen de negocio y antigüedad.
 - Variación interanual.
 
+## Recursos adicionales
+
+- 📊 [Dashboard en Looker Studio](https://lookerstudio.google.com/reporting/2608eeec-c38e-4568-a832-eead923c14f4)  
+- 📝 [Presentación del proyecto (Canva)](https://www.canva.com/design/DAGxAKuIEq0/BThCJo9v71uinsS6AgVOCg/edit?utm_content=DAGxAKuIEq0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- 📌 [Tablero de trabajo en Trello](https://trello.com/invite/b/68a70e0e7bb56f6c4b04fee6/ATTI02f529c449a418e3512e72153557fb87710CAC33/liquideudaproject)  
+- 📂 [Otros](https://drive.google.com/xxxx)  
+
+
 ## Requisitos
 -Python 3.10+
 -Librerías: pandas, numpy, matplotlib, seaborn, jupyter
@@ -55,7 +63,7 @@ Visualizaciones iniciales (tipos de concursos, distribución geográfica, evoluc
 Proyecto desarrollado como primer trabajo de Data Analyst:
 
 - Nombre: Juana Gabriela Gamba
-- LinkedIn: [linkedin](https://www.linkedin.com/in/gabrielagambap-industrialengineer/)  
+- LinkedIn: [gabrielagambap](https://www.linkedin.com/in/gabrielagambap-industrialengineer/)  
 - Email: juana.gabriela21@gmail.com  
 
 **Licencia**
