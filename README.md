@@ -50,11 +50,14 @@ Visualizaciones iniciales (tipos de concursos, distribución geográfica, evoluc
 -Librerías: pandas, numpy, matplotlib, seaborn, jupyter
 -Google Looker Studio para el dashboard
 
-👩‍💻 Autor
+
+**👩‍💻 Autor**
 Proyecto desarrollado como primer trabajo de Data Analyst:
+
 - Nombre: Juana Gabriela Gamba
 - LinkedIn: [linkedin](https://www.linkedin.com/in/gabrielagambap-industrialengineer/)  
 - Email: juana.gabriela21@gmail.com  
 
-📜 Licencia
+**Licencia**
+
 Este proyecto se distribuye bajo la licencia MIT
