@@ -1,0 +1,2235 @@
+﻿Unnamed: 0,PJ,Comunidad/Provincia,Total,T_Voluntario,T_Necesario,T_Consecutivo,Unnamed: 6,C_Ordinario,C_Especial,C_Sin Masa,Filename,prov_limpia,comunidad_autonoma_manual
+0,fisica,Andalucía,199,22,0,177,,177,4,18,2021_1T.xlsx,andalucia,
+1,fisica,Almería,14,1,0,13,,13,0,1,2021_1T.xlsx,almeria,Andalucia
+2,fisica,Cádiz,27,4,0,23,,23,1,3,2021_1T.xlsx,cadiz,Andalucia
+3,fisica,Córdoba,15,5,0,10,,11,0,4,2021_1T.xlsx,cordoba,Andalucia
+4,fisica,Granada,17,1,0,16,,14,1,2,2021_1T.xlsx,granada,Andalucia
+5,fisica,Huelva,8,1,0,7,,8,0,0,2021_1T.xlsx,huelva,Andalucia
+6,fisica,Jaén,13,1,0,12,,12,0,1,2021_1T.xlsx,jaen,Andalucia
+7,fisica,Málaga,21,6,0,15,,19,0,2,2021_1T.xlsx,malaga,Andalucia
+8,fisica,Sevilla,84,3,0,81,,77,2,5,2021_1T.xlsx,sevilla,Andalucia
+9,fisica,Aragón,102,20,0,82,,77,0,25,2021_1T.xlsx,aragon,
+10,fisica,Huesca,18,9,0,9,,13,0,5,2021_1T.xlsx,huesca,Aragon
+11,fisica,Teruel,6,3,0,3,,6,0,0,2021_1T.xlsx,teruel,Aragon
+12,fisica,Zaragoza,78,8,0,70,,58,0,20,2021_1T.xlsx,zaragoza,Aragon
+13,fisica,Asturias,74,22,5,47,,55,0,19,2021_1T.xlsx,asturias,Asturias
+14,fisica,"Balears, Illes",38,12,0,26,,36,1,1,2021_1T.xlsx,balears illes,Baleares
+15,fisica,Canarias,91,23,0,68,,75,2,14,2021_1T.xlsx,canarias,
+16,fisica,Las Palmas de Gran Canaria,50,16,0,34,,39,0,11,2021_1T.xlsx,las palmas de gran canaria,
+17,fisica,Santa Cruz de Tenerife,41,7,0,34,,36,2,3,2021_1T.xlsx,santa cruz de tenerife,Canarias
+18,fisica,Cantabria,4,4,0,0,,4,0,0,2021_1T.xlsx,cantabria,Cantabria
+19,fisica,Castilla y León,77,24,0,53,,58,1,18,2021_1T.xlsx,castilla y leon,
+20,fisica,Ávila,7,1,0,6,,3,0,4,2021_1T.xlsx,avila,Castilla y Leon
+21,fisica,Burgos,6,0,0,6,,6,0,0,2021_1T.xlsx,burgos,Castilla y Leon
+22,fisica,León,12,3,0,9,,12,0,0,2021_1T.xlsx,leon,Castilla y Leon
+23,fisica,Palencia,0,0,0,0,,0,0,0,2021_1T.xlsx,palencia,Castilla y Leon
+24,fisica,Salamanca,18,5,0,13,,13,0,5,2021_1T.xlsx,salamanca,Castilla y Leon
+25,fisica,Segovia,7,2,0,5,,7,0,0,2021_1T.xlsx,segovia,Castilla y Leon
+26,fisica,Soria,4,0,0,4,,4,0,0,2021_1T.xlsx,soria,Castilla y Leon
+27,fisica,Valladolid,23,13,0,10,,13,1,9,2021_1T.xlsx,valladolid,Castilla y Leon
+28,fisica,Zamora,0,0,0,0,,0,0,0,2021_1T.xlsx,zamora,Castilla y Leon
+29,fisica,Castilla-La Mancha,62,18,0,44,,33,0,29,2021_1T.xlsx,castilla la mancha,
+30,fisica,Albacete,7,3,0,4,,5,0,2,2021_1T.xlsx,albacete,Castilla La Mancha
+31,fisica,Ciudad Real,7,5,0,2,,0,0,7,2021_1T.xlsx,ciudad real,Castilla La Mancha
+32,fisica,Cuenca,2,0,0,2,,0,0,2,2021_1T.xlsx,cuenca,Castilla La Mancha
+33,fisica,Guadalajara,31,3,0,28,,17,0,14,2021_1T.xlsx,guadalajara,Castilla La Mancha
+34,fisica,Toledo,15,7,0,8,,11,0,4,2021_1T.xlsx,toledo,Castilla La Mancha
+35,fisica,Cataluña,755,49,0,706,,737,6,12,2021_1T.xlsx,cataluna,
+36,fisica,Barcelona,612,38,0,574,,603,4,5,2021_1T.xlsx,barcelona,Cataluña
+37,fisica,Girona,48,1,0,47,,45,0,3,2021_1T.xlsx,girona,Cataluña
+38,fisica,Lleida,46,7,0,39,,44,0,2,2021_1T.xlsx,lleida,Cataluña
+39,fisica,Tarragona,49,3,0,46,,45,2,2,2021_1T.xlsx,tarragona,Cataluña
+40,fisica,Comunitat Valenciana,241,108,0,133,,217,4,20,2021_1T.xlsx,comunitat valenciana,
+41,fisica,Alicante,74,24,0,50,,59,0,15,2021_1T.xlsx,alicante,Valencia
+42,fisica,Castellón,21,15,0,6,,19,2,0,2021_1T.xlsx,castellon,Valencia
+43,fisica,Valencia,146,69,0,77,,139,2,5,2021_1T.xlsx,valencia,Valencia
+44,fisica,Extremadura,8,3,0,5,,5,0,3,2021_1T.xlsx,extremadura,
+45,fisica,Badajoz,4,0,0,4,,2,0,2,2021_1T.xlsx,badajoz,Extremadura
+46,fisica,Cáceres,4,3,0,1,,3,0,1,2021_1T.xlsx,caceres,Extremadura
+47,fisica,Galicia,66,23,0,43,,53,0,13,2021_1T.xlsx,galicia,
+48,fisica,A Coruña,30,10,0,20,,21,0,9,2021_1T.xlsx,a coruna,Galicia
+49,fisica,Lugo,11,1,0,10,,11,0,0,2021_1T.xlsx,lugo,Galicia
+50,fisica,Ourense,1,1,0,0,,1,0,0,2021_1T.xlsx,ourense,Galicia
+51,fisica,Pontevedra,24,11,0,13,,20,0,4,2021_1T.xlsx,pontevedra,Galicia
+52,fisica,Madrid,202,16,0,186,,161,3,38,2021_1T.xlsx,madrid,Madrid
+53,fisica,Murcia,45,9,1,35,,45,0,0,2021_1T.xlsx,murcia,Murcia
+54,fisica,Navarra,12,4,0,8,,11,0,1,2021_1T.xlsx,navarra,Navarra
+55,fisica,Pais Vasco,45,30,0,15,,29,0,16,2021_1T.xlsx,pais vasco,
+56,fisica,Araba/Álava,7,5,0,2,,7,0,0,2021_1T.xlsx,araba alava,Pais Vasco
+57,fisica,Bizkaia,21,16,0,5,,10,0,11,2021_1T.xlsx,bizkaia,Pais Vasco
+58,fisica,Gipuzkoa,17,9,0,8,,12,0,5,2021_1T.xlsx,gipuzkoa,Pais Vasco
+59,fisica,La Rioja,13,0,0,13,,4,0,9,2021_1T.xlsx,la rioja,La Rioja
+60,fisica,Ceuta y Melilla,6,4,1,1,,3,0,3,2021_1T.xlsx,ceuta y melilla,
+61,fisica,Ceuta,5,3,1,1,,2,0,3,2021_1T.xlsx,ceuta,Ceuta
+62,fisica,Melilla,1,1,0,0,,1,0,0,2021_1T.xlsx,melilla,Melilla
+63,empresas,Andalucía,120,119,1,0,,43,36,41,2021_1T.xlsx,andalucia,
+64,empresas,Almería,8,8,0,0,,0,5,3,2021_1T.xlsx,almeria,Andalucia
+65,empresas,Cádiz,11,11,0,0,,5,0,6,2021_1T.xlsx,cadiz,Andalucia
+66,empresas,Córdoba,12,12,0,0,,1,2,9,2021_1T.xlsx,cordoba,Andalucia
+67,empresas,Granada,6,6,0,0,,3,1,2,2021_1T.xlsx,granada,Andalucia
+68,empresas,Huelva,4,4,0,0,,2,0,2,2021_1T.xlsx,huelva,Andalucia
+69,empresas,Jaén,7,7,0,0,,6,1,0,2021_1T.xlsx,jaen,Andalucia
+70,empresas,Málaga,38,37,1,0,,5,23,10,2021_1T.xlsx,malaga,Andalucia
+71,empresas,Sevilla,34,34,0,0,,21,4,9,2021_1T.xlsx,sevilla,Andalucia
+72,empresas,Aragón,56,56,0,0,,22,7,27,2021_1T.xlsx,aragon,
+73,empresas,Huesca,9,9,0,0,,4,5,0,2021_1T.xlsx,huesca,Aragon
+74,empresas,Teruel,4,4,0,0,,3,0,1,2021_1T.xlsx,teruel,Aragon
+75,empresas,Zaragoza,43,43,0,0,,15,2,26,2021_1T.xlsx,zaragoza,Aragon
+76,empresas,Asturias,28,27,0,1,,9,1,18,2021_1T.xlsx,asturias,Asturias
+77,empresas,"Balears, Illes",49,48,1,0,,34,2,13,2021_1T.xlsx,balears illes,Baleares
+78,empresas,Canarias,38,37,1,0,,13,4,21,2021_1T.xlsx,canarias,
+79,empresas,Las Palmas de Gran Canaria,29,28,1,0,,11,3,15,2021_1T.xlsx,las palmas de gran canaria,
+80,empresas,Santa Cruz de Tenerife,9,9,0,0,,2,1,6,2021_1T.xlsx,santa cruz de tenerife,Canarias
+81,empresas,Cantabria,11,11,0,0,,4,0,7,2021_1T.xlsx,cantabria,Cantabria
+82,empresas,Castilla y León,41,36,0,5,,13,5,23,2021_1T.xlsx,castilla y leon,
+83,empresas,Ávila,4,4,0,0,,1,3,0,2021_1T.xlsx,avila,Castilla y Leon
+84,empresas,Burgos,3,3,0,0,,1,0,2,2021_1T.xlsx,burgos,Castilla y Leon
+85,empresas,León,7,4,0,3,,3,0,4,2021_1T.xlsx,leon,Castilla y Leon
+86,empresas,Palencia,2,2,0,0,,0,0,2,2021_1T.xlsx,palencia,Castilla y Leon
+87,empresas,Salamanca,6,6,0,0,,1,1,4,2021_1T.xlsx,salamanca,Castilla y Leon
+88,empresas,Segovia,3,3,0,0,,0,0,3,2021_1T.xlsx,segovia,Castilla y Leon
+89,empresas,Soria,3,1,0,2,,3,0,0,2021_1T.xlsx,soria,Castilla y Leon
+90,empresas,Valladolid,10,10,0,0,,1,1,8,2021_1T.xlsx,valladolid,Castilla y Leon
+91,empresas,Zamora,3,3,0,0,,3,0,0,2021_1T.xlsx,zamora,Castilla y Leon
+92,empresas,Castilla-La Mancha,35,33,0,2,,13,0,22,2021_1T.xlsx,castilla la mancha,
+93,empresas,Albacete,12,12,0,0,,2,0,10,2021_1T.xlsx,albacete,Castilla La Mancha
+94,empresas,Ciudad Real,3,3,0,0,,1,0,2,2021_1T.xlsx,ciudad real,Castilla La Mancha
+95,empresas,Cuenca,2,2,0,0,,0,0,2,2021_1T.xlsx,cuenca,Castilla La Mancha
+96,empresas,Guadalajara,3,3,0,0,,1,0,2,2021_1T.xlsx,guadalajara,Castilla La Mancha
+97,empresas,Toledo,15,13,0,2,,9,0,6,2021_1T.xlsx,toledo,Castilla La Mancha
+98,empresas,Cataluña,401,391,6,4,,165,3,233,2021_1T.xlsx,cataluna,
+99,empresas,Barcelona,355,346,5,4,,141,2,212,2021_1T.xlsx,barcelona,Cataluña
+100,empresas,Girona,22,22,0,0,,9,0,13,2021_1T.xlsx,girona,Cataluña
+101,empresas,Lleida,6,6,0,0,,2,1,3,2021_1T.xlsx,lleida,Cataluña
+102,empresas,Tarragona,18,17,1,0,,13,0,5,2021_1T.xlsx,tarragona,Cataluña
+103,empresas,Comunitat Valenciana,227,225,0,2,,51,19,157,2021_1T.xlsx,comunitat valenciana,
+104,empresas,Alicante,64,64,0,0,,16,14,34,2021_1T.xlsx,alicante,Valencia
+105,empresas,Castellón,18,16,0,2,,8,3,7,2021_1T.xlsx,castellon,Valencia
+106,empresas,Valencia,145,145,0,0,,27,2,116,2021_1T.xlsx,valencia,Valencia
+107,empresas,Extremadura,10,10,0,0,,6,0,4,2021_1T.xlsx,extremadura,
+108,empresas,Badajoz,8,8,0,0,,5,0,3,2021_1T.xlsx,badajoz,Extremadura
+109,empresas,Cáceres,2,2,0,0,,1,0,1,2021_1T.xlsx,caceres,Extremadura
+110,empresas,Galicia,57,57,0,0,,45,0,12,2021_1T.xlsx,galicia,
+111,empresas,A Coruña,24,24,0,0,,14,0,10,2021_1T.xlsx,a coruna,Galicia
+112,empresas,Lugo,12,12,0,0,,12,0,0,2021_1T.xlsx,lugo,Galicia
+113,empresas,Ourense,4,4,0,0,,4,0,0,2021_1T.xlsx,ourense,Galicia
+114,empresas,Pontevedra,17,17,0,0,,15,0,2,2021_1T.xlsx,pontevedra,Galicia
+115,empresas,Madrid,270,258,8,4,,67,26,177,2021_1T.xlsx,madrid,Madrid
+116,empresas,Murcia,20,20,0,0,,17,0,3,2021_1T.xlsx,murcia,Murcia
+117,empresas,Navarra,6,6,0,0,,4,0,2,2021_1T.xlsx,navarra,Navarra
+118,empresas,Pais Vasco,95,95,0,0,,30,4,61,2021_1T.xlsx,pais vasco,
+119,empresas,Araba/Álava,7,7,0,0,,3,1,3,2021_1T.xlsx,araba alava,Pais Vasco
+120,empresas,Bizkaia,64,64,0,0,,21,2,41,2021_1T.xlsx,bizkaia,Pais Vasco
+121,empresas,Gipuzkoa,24,24,0,0,,6,1,17,2021_1T.xlsx,gipuzkoa,Pais Vasco
+122,,La Rioja,5,5,0,0,,3,0,2,2021_1T.xlsx,la rioja,La Rioja
+123,,Ceuta y Melilla,1,1,0,0,,1,0,0,2021_1T.xlsx,ceuta y melilla,
+124,fisica,Andalucía,200,27,0,173,,179,3,18,2021_2T.xlsx,andalucia,
+125,fisica,Almería,21,0,0,21,,20,0,1,2021_2T.xlsx,almeria,Andalucia
+126,fisica,Cádiz,8,0,0,8,,7,0,1,2021_2T.xlsx,cadiz,Andalucia
+127,fisica,Córdoba,15,0,0,15,,11,0,4,2021_2T.xlsx,cordoba,Andalucia
+128,fisica,Granada,22,5,0,17,,18,3,1,2021_2T.xlsx,granada,Andalucia
+129,fisica,Huelva,12,0,0,12,,12,0,0,2021_2T.xlsx,huelva,Andalucia
+130,fisica,Jaén,9,4,0,5,,8,0,1,2021_2T.xlsx,jaen,Andalucia
+131,fisica,Málaga,39,4,0,35,,36,0,3,2021_2T.xlsx,malaga,Andalucia
+132,fisica,Sevilla,74,14,0,60,,67,0,7,2021_2T.xlsx,sevilla,Andalucia
+133,fisica,Aragón,79,5,1,73,,52,0,27,2021_2T.xlsx,aragon,
+134,fisica,Huesca,2,1,0,1,,1,0,1,2021_2T.xlsx,huesca,Aragon
+135,fisica,Teruel,6,1,0,5,,5,0,1,2021_2T.xlsx,teruel,Aragon
+136,fisica,Zaragoza,71,3,1,67,,46,0,25,2021_2T.xlsx,zaragoza,Aragon
+137,fisica,Asturias,68,26,4,38,,46,0,22,2021_2T.xlsx,asturias,Asturias
+138,fisica,"Balears, Illes",41,23,0,18,,41,0,0,2021_2T.xlsx,balears illes,Baleares
+139,fisica,Canarias,77,16,0,61,,63,1,13,2021_2T.xlsx,canarias,
+140,fisica,Las Palmas de Gran Canaria,49,7,0,42,,37,0,12,2021_2T.xlsx,las palmas de gran canaria,
+141,fisica,Santa Cruz de Tenerife,28,9,0,19,,26,1,1,2021_2T.xlsx,santa cruz de tenerife,Canarias
+142,fisica,Cantabria,6,6,0,0,,6,0,0,2021_2T.xlsx,cantabria,Cantabria
+143,fisica,Castilla y León,71,24,0,47,,58,0,13,2021_2T.xlsx,castilla y leon,
+144,fisica,Ávila,3,2,0,1,,3,0,0,2021_2T.xlsx,avila,Castilla y Leon
+145,fisica,Burgos,6,3,0,3,,6,0,0,2021_2T.xlsx,burgos,Castilla y Leon
+146,fisica,León,16,5,0,11,,15,0,1,2021_2T.xlsx,leon,Castilla y Leon
+147,fisica,Palencia,0,0,0,0,,0,0,0,2021_2T.xlsx,palencia,Castilla y Leon
+148,fisica,Salamanca,11,3,0,8,,6,0,5,2021_2T.xlsx,salamanca,Castilla y Leon
+149,fisica,Segovia,2,1,0,1,,2,0,0,2021_2T.xlsx,segovia,Castilla y Leon
+150,fisica,Soria,5,0,0,5,,5,0,0,2021_2T.xlsx,soria,Castilla y Leon
+151,fisica,Valladolid,22,10,0,12,,18,0,4,2021_2T.xlsx,valladolid,Castilla y Leon
+152,fisica,Zamora,6,0,0,6,,3,0,3,2021_2T.xlsx,zamora,Castilla y Leon
+153,fisica,Castilla-La Mancha,57,16,0,41,,32,0,25,2021_2T.xlsx,castilla la mancha,
+154,fisica,Albacete,13,1,0,12,,7,0,6,2021_2T.xlsx,albacete,Castilla La Mancha
+155,fisica,Ciudad Real,4,3,0,1,,1,0,3,2021_2T.xlsx,ciudad real,Castilla La Mancha
+156,fisica,Cuenca,0,0,0,0,,0,0,0,2021_2T.xlsx,cuenca,Castilla La Mancha
+157,fisica,Guadalajara,20,7,0,13,,6,0,14,2021_2T.xlsx,guadalajara,Castilla La Mancha
+158,fisica,Toledo,20,5,0,15,,18,0,2,2021_2T.xlsx,toledo,Castilla La Mancha
+159,fisica,Cataluña,712,50,0,662,,689,1,22,2021_2T.xlsx,cataluna,
+160,fisica,Barcelona,558,37,0,521,,543,0,15,2021_2T.xlsx,barcelona,Cataluña
+161,fisica,Girona,48,5,0,43,,47,0,1,2021_2T.xlsx,girona,Cataluña
+162,fisica,Lleida,46,6,0,40,,44,1,1,2021_2T.xlsx,lleida,Cataluña
+163,fisica,Tarragona,60,2,0,58,,55,0,5,2021_2T.xlsx,tarragona,Cataluña
+164,fisica,Comunitat Valenciana,262,112,1,149,,244,4,14,2021_2T.xlsx,comunitat valenciana,
+165,fisica,Alicante,84,37,0,47,,78,0,6,2021_2T.xlsx,alicante,Valencia
+166,fisica,Castellón,23,10,0,13,,21,2,0,2021_2T.xlsx,castellon,Valencia
+167,fisica,Valencia,155,65,1,89,,145,2,8,2021_2T.xlsx,valencia,Valencia
+168,fisica,Extremadura,14,7,0,7,,14,0,0,2021_2T.xlsx,extremadura,
+169,fisica,Badajoz,8,5,0,3,,8,0,0,2021_2T.xlsx,badajoz,Extremadura
+170,fisica,Cáceres,6,2,0,4,,6,0,0,2021_2T.xlsx,caceres,Extremadura
+171,fisica,Galicia,95,43,1,51,,81,0,14,2021_2T.xlsx,galicia,
+172,fisica,A Coruña,32,15,1,16,,23,0,9,2021_2T.xlsx,a coruna,Galicia
+173,fisica,Lugo,17,8,0,9,,17,0,0,2021_2T.xlsx,lugo,Galicia
+174,fisica,Ourense,10,7,0,3,,10,0,0,2021_2T.xlsx,ourense,Galicia
+175,fisica,Pontevedra,36,13,0,23,,31,0,5,2021_2T.xlsx,pontevedra,Galicia
+176,fisica,Madrid,252,25,1,226,,212,2,38,2021_2T.xlsx,madrid,Madrid
+177,fisica,Murcia,61,21,0,40,,55,0,6,2021_2T.xlsx,murcia,Murcia
+178,fisica,Navarra,14,12,0,2,,13,0,1,2021_2T.xlsx,navarra,Navarra
+179,fisica,Pais Vasco,44,31,0,13,,38,0,6,2021_2T.xlsx,pais vasco,
+180,fisica,Araba/Álava,9,9,0,0,,9,0,0,2021_2T.xlsx,araba alava,Pais Vasco
+181,fisica,Bizkaia,23,15,0,8,,19,0,4,2021_2T.xlsx,bizkaia,Pais Vasco
+182,fisica,Gipuzkoa,12,7,0,5,,10,0,2,2021_2T.xlsx,gipuzkoa,Pais Vasco
+183,fisica,La Rioja,11,1,0,10,,3,0,8,2021_2T.xlsx,la rioja,La Rioja
+184,fisica,Ceuta y Melilla,4,1,0,3,,3,0,1,2021_2T.xlsx,ceuta y melilla,
+185,fisica,Ceuta,4,1,0,3,,3,0,1,2021_2T.xlsx,ceuta,Ceuta
+186,fisica,Melilla,0,0,0,0,,0,0,0,2021_2T.xlsx,melilla,Melilla
+187,empresas,Andalucía,103,99,3,1,,49,22,32,2021_2T.xlsx,andalucia,
+188,empresas,Almería,10,10,0,0,,1,7,2,2021_2T.xlsx,almeria,Andalucia
+189,empresas,Cádiz,11,11,0,0,,5,1,5,2021_2T.xlsx,cadiz,Andalucia
+190,empresas,Córdoba,5,4,0,1,,1,1,3,2021_2T.xlsx,cordoba,Andalucia
+191,empresas,Granada,13,11,2,0,,8,2,3,2021_2T.xlsx,granada,Andalucia
+192,empresas,Huelva,8,8,0,0,,3,0,5,2021_2T.xlsx,huelva,Andalucia
+193,empresas,Jaén,2,2,0,0,,1,0,1,2021_2T.xlsx,jaen,Andalucia
+194,empresas,Málaga,22,21,1,0,,8,10,4,2021_2T.xlsx,malaga,Andalucia
+195,empresas,Sevilla,32,32,0,0,,22,1,9,2021_2T.xlsx,sevilla,Andalucia
+196,empresas,Aragón,38,37,0,1,,15,4,19,2021_2T.xlsx,aragon,
+197,empresas,Huesca,7,7,0,0,,5,0,2,2021_2T.xlsx,huesca,Aragon
+198,empresas,Teruel,5,4,0,1,,3,1,1,2021_2T.xlsx,teruel,Aragon
+199,empresas,Zaragoza,26,26,0,0,,7,3,16,2021_2T.xlsx,zaragoza,Aragon
+200,empresas,Asturias,25,25,0,0,,7,2,16,2021_2T.xlsx,asturias,Asturias
+201,empresas,"Balears, Illes",30,30,0,0,,20,1,9,2021_2T.xlsx,balears illes,Baleares
+202,empresas,Canarias,31,31,0,0,,18,0,13,2021_2T.xlsx,canarias,
+203,empresas,Las Palmas de Gran Canaria,17,17,0,0,,9,0,8,2021_2T.xlsx,las palmas de gran canaria,
+204,empresas,Santa Cruz de Tenerife,14,14,0,0,,9,0,5,2021_2T.xlsx,santa cruz de tenerife,Canarias
+205,empresas,Cantabria,10,10,0,0,,2,0,8,2021_2T.xlsx,cantabria,Cantabria
+206,empresas,Castilla y León,39,38,0,1,,19,3,17,2021_2T.xlsx,castilla y leon,
+207,empresas,Ávila,2,2,0,0,,1,0,1,2021_2T.xlsx,avila,Castilla y Leon
+208,empresas,Burgos,9,9,0,0,,7,0,2,2021_2T.xlsx,burgos,Castilla y Leon
+209,empresas,León,3,2,0,1,,2,0,1,2021_2T.xlsx,leon,Castilla y Leon
+210,empresas,Palencia,4,4,0,0,,4,0,0,2021_2T.xlsx,palencia,Castilla y Leon
+211,empresas,Salamanca,4,4,0,0,,0,1,3,2021_2T.xlsx,salamanca,Castilla y Leon
+212,empresas,Segovia,1,1,0,0,,0,0,1,2021_2T.xlsx,segovia,Castilla y Leon
+213,empresas,Soria,2,2,0,0,,2,0,0,2021_2T.xlsx,soria,Castilla y Leon
+214,empresas,Valladolid,10,10,0,0,,2,2,6,2021_2T.xlsx,valladolid,Castilla y Leon
+215,empresas,Zamora,4,4,0,0,,1,0,3,2021_2T.xlsx,zamora,Castilla y Leon
+216,empresas,Castilla-La Mancha,31,28,1,2,,12,1,18,2021_2T.xlsx,castilla la mancha,
+217,empresas,Albacete,8,8,0,0,,2,0,6,2021_2T.xlsx,albacete,Castilla La Mancha
+218,empresas,Ciudad Real,4,3,1,0,,1,0,3,2021_2T.xlsx,ciudad real,Castilla La Mancha
+219,empresas,Cuenca,3,3,0,0,,1,0,2,2021_2T.xlsx,cuenca,Castilla La Mancha
+220,empresas,Guadalajara,4,4,0,0,,1,0,3,2021_2T.xlsx,guadalajara,Castilla La Mancha
+221,empresas,Toledo,12,10,0,2,,7,1,4,2021_2T.xlsx,toledo,Castilla La Mancha
+222,empresas,Cataluña,331,323,5,3,,120,7,204,2021_2T.xlsx,cataluna,
+223,empresas,Barcelona,274,267,4,3,,88,4,182,2021_2T.xlsx,barcelona,Cataluña
+224,empresas,Girona,22,22,0,0,,12,3,7,2021_2T.xlsx,girona,Cataluña
+225,empresas,Lleida,9,9,0,0,,5,0,4,2021_2T.xlsx,lleida,Cataluña
+226,empresas,Tarragona,26,25,1,0,,15,0,11,2021_2T.xlsx,tarragona,Cataluña
+227,empresas,Comunitat Valenciana,176,173,1,2,,41,25,110,2021_2T.xlsx,comunitat valenciana,
+228,empresas,Alicante,54,54,0,0,,11,15,28,2021_2T.xlsx,alicante,Valencia
+229,empresas,Castellón,11,11,0,0,,8,0,3,2021_2T.xlsx,castellon,Valencia
+230,empresas,Valencia,111,108,1,2,,22,10,79,2021_2T.xlsx,valencia,Valencia
+231,empresas,Extremadura,13,13,0,0,,9,0,4,2021_2T.xlsx,extremadura,
+232,empresas,Badajoz,9,9,0,0,,7,0,2,2021_2T.xlsx,badajoz,Extremadura
+233,empresas,Cáceres,4,4,0,0,,2,0,2,2021_2T.xlsx,caceres,Extremadura
+234,empresas,Galicia,48,46,2,0,,37,0,11,2021_2T.xlsx,galicia,
+235,empresas,A Coruña,17,17,0,0,,11,0,6,2021_2T.xlsx,a coruna,Galicia
+236,empresas,Lugo,6,6,0,0,,6,0,0,2021_2T.xlsx,lugo,Galicia
+237,empresas,Ourense,4,4,0,0,,3,0,1,2021_2T.xlsx,ourense,Galicia
+238,empresas,Pontevedra,21,19,2,0,,17,0,4,2021_2T.xlsx,pontevedra,Galicia
+239,empresas,Madrid,345,344,1,0,,54,13,278,2021_2T.xlsx,madrid,Madrid
+240,empresas,Murcia,25,21,2,2,,18,0,7,2021_2T.xlsx,murcia,Murcia
+241,empresas,Navarra,7,7,0,0,,4,0,3,2021_2T.xlsx,navarra,Navarra
+242,empresas,Pais Vasco,66,65,0,1,,28,3,35,2021_2T.xlsx,pais vasco,
+243,empresas,Araba/Álava,10,10,0,0,,3,0,7,2021_2T.xlsx,araba alava,Pais Vasco
+244,empresas,Bizkaia,32,31,0,1,,17,3,12,2021_2T.xlsx,bizkaia,Pais Vasco
+245,empresas,Gipuzkoa,24,24,0,0,,8,0,16,2021_2T.xlsx,gipuzkoa,Pais Vasco
+246,,La Rioja,5,5,0,0,,4,0,1,2021_2T.xlsx,la rioja,La Rioja
+247,,Ceuta y Melilla,0,0,0,0,,0,0,0,2021_2T.xlsx,ceuta y melilla,
+248,fisica,Andalucía,154,20,0,134,,138,0,16,2021_3T.xlsx,andalucia,
+249,fisica,Almería,19,2,0,17,,17,0,2,2021_3T.xlsx,almeria,Andalucia
+250,fisica,Cádiz,23,2,0,21,,21,0,2,2021_3T.xlsx,cadiz,Andalucia
+251,fisica,Córdoba,9,0,0,9,,7,0,2,2021_3T.xlsx,cordoba,Andalucia
+252,fisica,Granada,21,2,0,19,,19,0,2,2021_3T.xlsx,granada,Andalucia
+253,fisica,Huelva,2,0,0,2,,2,0,0,2021_3T.xlsx,huelva,Andalucia
+254,fisica,Jaén,7,0,0,7,,5,0,2,2021_3T.xlsx,jaen,Andalucia
+255,fisica,Málaga,22,8,0,14,,20,0,2,2021_3T.xlsx,malaga,Andalucia
+256,fisica,Sevilla,51,6,0,45,,47,0,4,2021_3T.xlsx,sevilla,Andalucia
+257,fisica,Aragón,68,13,0,55,,45,0,23,2021_3T.xlsx,aragon,
+258,fisica,Huesca,9,4,0,5,,8,0,1,2021_3T.xlsx,huesca,Aragon
+259,fisica,Teruel,6,0,0,6,,4,0,2,2021_3T.xlsx,teruel,Aragon
+260,fisica,Zaragoza,53,9,0,44,,33,0,20,2021_3T.xlsx,zaragoza,Aragon
+261,fisica,Asturias,42,19,0,23,,18,0,24,2021_3T.xlsx,asturias,Asturias
+262,fisica,"Balears, Illes",31,16,0,15,,28,0,3,2021_3T.xlsx,balears illes,Baleares
+263,fisica,Canarias,71,12,0,59,,55,1,15,2021_3T.xlsx,canarias,
+264,fisica,Las Palmas de Gran Canaria,48,5,0,43,,32,1,15,2021_3T.xlsx,las palmas de gran canaria,
+265,fisica,Santa Cruz de Tenerife,23,7,0,16,,23,0,0,2021_3T.xlsx,santa cruz de tenerife,Canarias
+266,fisica,Cantabria,13,8,0,5,,13,0,0,2021_3T.xlsx,cantabria,Cantabria
+267,fisica,Castilla y León,51,21,0,30,,38,0,13,2021_3T.xlsx,castilla y leon,
+268,fisica,Ávila,0,0,0,0,,0,0,0,2021_3T.xlsx,avila,Castilla y Leon
+269,fisica,Burgos,6,2,0,4,,6,0,0,2021_3T.xlsx,burgos,Castilla y Leon
+270,fisica,León,15,9,0,6,,14,0,1,2021_3T.xlsx,leon,Castilla y Leon
+271,fisica,Palencia,0,0,0,0,,0,0,0,2021_3T.xlsx,palencia,Castilla y Leon
+272,fisica,Salamanca,10,4,0,6,,2,0,8,2021_3T.xlsx,salamanca,Castilla y Leon
+273,fisica,Segovia,3,1,0,2,,3,0,0,2021_3T.xlsx,segovia,Castilla y Leon
+274,fisica,Soria,1,0,0,1,,1,0,0,2021_3T.xlsx,soria,Castilla y Leon
+275,fisica,Valladolid,16,5,0,11,,12,0,4,2021_3T.xlsx,valladolid,Castilla y Leon
+276,fisica,Zamora,0,0,0,0,,0,0,0,2021_3T.xlsx,zamora,Castilla y Leon
+277,fisica,Castilla-La Mancha,31,7,1,23,,14,0,17,2021_3T.xlsx,castilla la mancha,
+278,fisica,Albacete,7,0,1,6,,2,0,5,2021_3T.xlsx,albacete,Castilla La Mancha
+279,fisica,Ciudad Real,1,1,0,0,,0,0,1,2021_3T.xlsx,ciudad real,Castilla La Mancha
+280,fisica,Cuenca,1,0,0,1,,0,0,1,2021_3T.xlsx,cuenca,Castilla La Mancha
+281,fisica,Guadalajara,13,1,0,12,,7,0,6,2021_3T.xlsx,guadalajara,Castilla La Mancha
+282,fisica,Toledo,9,5,0,4,,5,0,4,2021_3T.xlsx,toledo,Castilla La Mancha
+283,fisica,Cataluña,578,32,0,546,,544,4,30,2021_3T.xlsx,cataluna,
+284,fisica,Barcelona,451,22,0,429,,423,3,25,2021_3T.xlsx,barcelona,Cataluña
+285,fisica,Girona,49,6,0,43,,47,0,2,2021_3T.xlsx,girona,Cataluña
+286,fisica,Lleida,37,2,0,35,,37,0,0,2021_3T.xlsx,lleida,Cataluña
+287,fisica,Tarragona,41,2,0,39,,37,1,3,2021_3T.xlsx,tarragona,Cataluña
+288,fisica,Comunitat Valenciana,181,66,0,115,,175,0,6,2021_3T.xlsx,comunitat valenciana,
+289,fisica,Alicante,36,10,0,26,,34,0,2,2021_3T.xlsx,alicante,Valencia
+290,fisica,Castellón,29,20,0,9,,29,0,0,2021_3T.xlsx,castellon,Valencia
+291,fisica,Valencia,116,36,0,80,,112,0,4,2021_3T.xlsx,valencia,Valencia
+292,fisica,Extremadura,11,4,0,7,,11,0,0,2021_3T.xlsx,extremadura,
+293,fisica,Badajoz,7,4,0,3,,7,0,0,2021_3T.xlsx,badajoz,Extremadura
+294,fisica,Cáceres,4,0,0,4,,4,0,0,2021_3T.xlsx,caceres,Extremadura
+295,fisica,Galicia,61,21,2,38,,49,0,12,2021_3T.xlsx,galicia,
+296,fisica,A Coruña,31,8,1,22,,23,0,8,2021_3T.xlsx,a coruna,Galicia
+297,fisica,Lugo,5,3,0,2,,5,0,0,2021_3T.xlsx,lugo,Galicia
+298,fisica,Ourense,5,4,1,0,,4,0,1,2021_3T.xlsx,ourense,Galicia
+299,fisica,Pontevedra,20,6,0,14,,17,0,3,2021_3T.xlsx,pontevedra,Galicia
+300,fisica,Madrid,176,20,1,155,,153,1,22,2021_3T.xlsx,madrid,Madrid
+301,fisica,Murcia,47,20,1,26,,43,0,4,2021_3T.xlsx,murcia,Murcia
+302,fisica,Navarra,16,6,0,10,,10,0,6,2021_3T.xlsx,navarra,Navarra
+303,fisica,Pais Vasco,33,25,0,8,,25,0,8,2021_3T.xlsx,pais vasco,
+304,fisica,Araba/Álava,8,6,0,2,,8,0,0,2021_3T.xlsx,araba alava,Pais Vasco
+305,fisica,Bizkaia,20,15,0,5,,16,0,4,2021_3T.xlsx,bizkaia,Pais Vasco
+306,fisica,Gipuzkoa,5,4,0,1,,1,0,4,2021_3T.xlsx,gipuzkoa,Pais Vasco
+307,fisica,La Rioja,14,2,0,12,,8,0,6,2021_3T.xlsx,la rioja,La Rioja
+308,fisica,Ceuta y Melilla,1,1,0,0,,0,0,1,2021_3T.xlsx,ceuta y melilla,
+309,fisica,Ceuta,1,1,0,0,,0,0,1,2021_3T.xlsx,ceuta,Ceuta
+310,fisica,Melilla,0,0,0,0,,0,0,0,2021_3T.xlsx,melilla,Melilla
+311,empresas,Andalucía,75,74,0,1,,35,12,28,2021_3T.xlsx,andalucia,
+312,empresas,Almería,10,10,0,0,,0,2,8,2021_3T.xlsx,almeria,Andalucia
+313,empresas,Cádiz,6,6,0,0,,3,0,3,2021_3T.xlsx,cadiz,Andalucia
+314,empresas,Córdoba,6,6,0,0,,0,2,4,2021_3T.xlsx,cordoba,Andalucia
+315,empresas,Granada,5,4,0,1,,5,0,0,2021_3T.xlsx,granada,Andalucia
+316,empresas,Huelva,4,4,0,0,,1,0,3,2021_3T.xlsx,huelva,Andalucia
+317,empresas,Jaén,3,3,0,0,,1,0,2,2021_3T.xlsx,jaen,Andalucia
+318,empresas,Málaga,19,19,0,0,,8,8,3,2021_3T.xlsx,malaga,Andalucia
+319,empresas,Sevilla,22,22,0,0,,17,0,5,2021_3T.xlsx,sevilla,Andalucia
+320,empresas,Aragón,28,27,0,1,,13,1,14,2021_3T.xlsx,aragon,
+321,empresas,Huesca,1,1,0,0,,1,0,0,2021_3T.xlsx,huesca,Aragon
+322,empresas,Teruel,1,0,0,1,,1,0,0,2021_3T.xlsx,teruel,Aragon
+323,empresas,Zaragoza,26,26,0,0,,11,1,14,2021_3T.xlsx,zaragoza,Aragon
+324,empresas,Asturias,10,10,0,0,,4,1,5,2021_3T.xlsx,asturias,Asturias
+325,empresas,"Balears, Illes",21,21,0,0,,11,3,7,2021_3T.xlsx,balears illes,Baleares
+326,empresas,Canarias,29,28,1,0,,14,4,11,2021_3T.xlsx,canarias,
+327,empresas,Las Palmas de Gran Canaria,20,19,1,0,,10,4,6,2021_3T.xlsx,las palmas de gran canaria,
+328,empresas,Santa Cruz de Tenerife,9,9,0,0,,4,0,5,2021_3T.xlsx,santa cruz de tenerife,Canarias
+329,empresas,Cantabria,4,4,0,0,,1,0,3,2021_3T.xlsx,cantabria,Cantabria
+330,empresas,Castilla y León,34,34,0,0,,15,3,16,2021_3T.xlsx,castilla y leon,
+331,empresas,Ávila,1,1,0,0,,0,0,1,2021_3T.xlsx,avila,Castilla y Leon
+332,empresas,Burgos,3,3,0,0,,3,0,0,2021_3T.xlsx,burgos,Castilla y Leon
+333,empresas,León,4,4,0,0,,2,0,2,2021_3T.xlsx,leon,Castilla y Leon
+334,empresas,Palencia,3,3,0,0,,2,0,1,2021_3T.xlsx,palencia,Castilla y Leon
+335,empresas,Salamanca,6,6,0,0,,2,3,1,2021_3T.xlsx,salamanca,Castilla y Leon
+336,empresas,Segovia,1,1,0,0,,0,0,1,2021_3T.xlsx,segovia,Castilla y Leon
+337,empresas,Soria,1,1,0,0,,1,0,0,2021_3T.xlsx,soria,Castilla y Leon
+338,empresas,Valladolid,15,15,0,0,,5,0,10,2021_3T.xlsx,valladolid,Castilla y Leon
+339,empresas,Zamora,0,0,0,0,,0,0,0,2021_3T.xlsx,zamora,Castilla y Leon
+340,empresas,Castilla-La Mancha,37,36,0,1,,11,1,25,2021_3T.xlsx,castilla la mancha,
+341,empresas,Albacete,6,6,0,0,,2,0,4,2021_3T.xlsx,albacete,Castilla La Mancha
+342,empresas,Ciudad Real,7,7,0,0,,1,0,6,2021_3T.xlsx,ciudad real,Castilla La Mancha
+343,empresas,Cuenca,6,6,0,0,,2,0,4,2021_3T.xlsx,cuenca,Castilla La Mancha
+344,empresas,Guadalajara,4,4,0,0,,0,0,4,2021_3T.xlsx,guadalajara,Castilla La Mancha
+345,empresas,Toledo,14,13,0,1,,6,1,7,2021_3T.xlsx,toledo,Castilla La Mancha
+346,empresas,Cataluña,237,231,1,5,,64,6,166,2021_3T.xlsx,cataluna,
+347,empresas,Barcelona,198,194,1,3,,51,2,144,2021_3T.xlsx,barcelona,Cataluña
+348,empresas,Girona,17,17,0,0,,8,1,8,2021_3T.xlsx,girona,Cataluña
+349,empresas,Lleida,11,9,0,2,,1,0,10,2021_3T.xlsx,lleida,Cataluña
+350,empresas,Tarragona,11,11,0,0,,4,3,4,2021_3T.xlsx,tarragona,Cataluña
+351,empresas,Comunitat Valenciana,146,144,1,1,,38,8,100,2021_3T.xlsx,comunitat valenciana,
+352,empresas,Alicante,44,44,0,0,,11,8,25,2021_3T.xlsx,alicante,Valencia
+353,empresas,Castellón,20,20,0,0,,11,0,9,2021_3T.xlsx,castellon,Valencia
+354,empresas,Valencia,82,80,1,1,,16,0,66,2021_3T.xlsx,valencia,Valencia
+355,empresas,Extremadura,8,8,0,0,,3,0,5,2021_3T.xlsx,extremadura,
+356,empresas,Badajoz,5,5,0,0,,2,0,3,2021_3T.xlsx,badajoz,Extremadura
+357,empresas,Cáceres,3,3,0,0,,1,0,2,2021_3T.xlsx,caceres,Extremadura
+358,empresas,Galicia,39,39,0,0,,33,0,6,2021_3T.xlsx,galicia,
+359,empresas,A Coruña,15,15,0,0,,11,0,4,2021_3T.xlsx,a coruna,Galicia
+360,empresas,Lugo,7,7,0,0,,7,0,0,2021_3T.xlsx,lugo,Galicia
+361,empresas,Ourense,3,3,0,0,,3,0,0,2021_3T.xlsx,ourense,Galicia
+362,empresas,Pontevedra,14,14,0,0,,12,0,2,2021_3T.xlsx,pontevedra,Galicia
+363,empresas,Madrid,205,200,4,1,,42,8,155,2021_3T.xlsx,madrid,Madrid
+364,empresas,Murcia,16,16,0,0,,13,0,3,2021_3T.xlsx,murcia,Murcia
+365,empresas,Navarra,6,6,0,0,,2,1,3,2021_3T.xlsx,navarra,Navarra
+366,empresas,Pais Vasco,51,51,0,0,,13,4,34,2021_3T.xlsx,pais vasco,
+367,empresas,Araba/Álava,5,5,0,0,,0,0,5,2021_3T.xlsx,araba alava,Pais Vasco
+368,empresas,Bizkaia,22,22,0,0,,5,2,15,2021_3T.xlsx,bizkaia,Pais Vasco
+369,empresas,Gipuzkoa,24,24,0,0,,8,2,14,2021_3T.xlsx,gipuzkoa,Pais Vasco
+370,,La Rioja,7,6,1,0,,3,0,4,2021_3T.xlsx,la rioja,La Rioja
+371,,Ceuta y Melilla,1,1,0,0,,0,0,1,2021_3T.xlsx,ceuta y melilla,
+372,fisica,Andalucía,241,30,0,211,,208,4,29,2021_4T.xlsx,andalucia,
+373,fisica,Almería,26,5,0,21,,24,1,1,2021_4T.xlsx,almeria,Andalucia
+374,fisica,Cádiz,26,0,0,26,,22,0,4,2021_4T.xlsx,cadiz,Andalucia
+375,fisica,Córdoba,29,1,0,28,,27,0,2,2021_4T.xlsx,cordoba,Andalucia
+376,fisica,Granada,19,4,0,15,,18,1,0,2021_4T.xlsx,granada,Andalucia
+377,fisica,Huelva,3,0,0,3,,3,0,0,2021_4T.xlsx,huelva,Andalucia
+378,fisica,Jaén,21,1,0,20,,17,0,4,2021_4T.xlsx,jaen,Andalucia
+379,fisica,Málaga,46,8,0,38,,32,0,14,2021_4T.xlsx,malaga,Andalucia
+380,fisica,Sevilla,71,11,0,60,,65,2,4,2021_4T.xlsx,sevilla,Andalucia
+381,fisica,Aragón,67,10,0,57,,35,1,31,2021_4T.xlsx,aragon,
+382,fisica,Huesca,6,2,0,4,,3,0,3,2021_4T.xlsx,huesca,Aragon
+383,fisica,Teruel,1,0,0,1,,1,0,0,2021_4T.xlsx,teruel,Aragon
+384,fisica,Zaragoza,60,8,0,52,,31,1,28,2021_4T.xlsx,zaragoza,Aragon
+385,fisica,Asturias,58,26,0,32,,27,0,31,2021_4T.xlsx,asturias,Asturias
+386,fisica,"Balears, Illes",30,22,0,8,,29,1,0,2021_4T.xlsx,balears illes,Baleares
+387,fisica,Canarias,93,18,0,75,,68,1,24,2021_4T.xlsx,canarias,
+388,fisica,Las Palmas de Gran Canaria,53,10,0,43,,32,0,21,2021_4T.xlsx,las palmas de gran canaria,
+389,fisica,Santa Cruz de Tenerife,40,8,0,32,,36,1,3,2021_4T.xlsx,santa cruz de tenerife,Canarias
+390,fisica,Cantabria,11,8,1,2,,10,0,1,2021_4T.xlsx,cantabria,Cantabria
+391,fisica,Castilla y León,76,31,1,44,,56,0,20,2021_4T.xlsx,castilla y leon,
+392,fisica,Ávila,4,1,0,3,,3,0,1,2021_4T.xlsx,avila,Castilla y Leon
+393,fisica,Burgos,9,5,0,4,,9,0,0,2021_4T.xlsx,burgos,Castilla y Leon
+394,fisica,León,17,6,0,11,,10,0,7,2021_4T.xlsx,leon,Castilla y Leon
+395,fisica,Palencia,0,0,0,0,,0,0,0,2021_4T.xlsx,palencia,Castilla y Leon
+396,fisica,Salamanca,7,2,0,5,,5,0,2,2021_4T.xlsx,salamanca,Castilla y Leon
+397,fisica,Segovia,7,6,0,1,,7,0,0,2021_4T.xlsx,segovia,Castilla y Leon
+398,fisica,Soria,1,1,0,0,,1,0,0,2021_4T.xlsx,soria,Castilla y Leon
+399,fisica,Valladolid,28,10,1,17,,18,0,10,2021_4T.xlsx,valladolid,Castilla y Leon
+400,fisica,Zamora,3,0,0,3,,3,0,0,2021_4T.xlsx,zamora,Castilla y Leon
+401,fisica,Castilla-La Mancha,58,19,0,39,,22,1,35,2021_4T.xlsx,castilla la mancha,
+402,fisica,Albacete,9,3,0,6,,3,0,6,2021_4T.xlsx,albacete,Castilla La Mancha
+403,fisica,Ciudad Real,16,7,0,9,,3,0,13,2021_4T.xlsx,ciudad real,Castilla La Mancha
+404,fisica,Cuenca,2,0,0,2,,0,0,2,2021_4T.xlsx,cuenca,Castilla La Mancha
+405,fisica,Guadalajara,24,4,0,20,,11,1,12,2021_4T.xlsx,guadalajara,Castilla La Mancha
+406,fisica,Toledo,7,5,0,2,,5,0,2,2021_4T.xlsx,toledo,Castilla La Mancha
+407,fisica,Cataluña,754,46,0,708,,712,3,39,2021_4T.xlsx,cataluna,
+408,fisica,Barcelona,594,37,0,557,,567,3,24,2021_4T.xlsx,barcelona,Cataluña
+409,fisica,Girona,82,4,0,78,,76,0,6,2021_4T.xlsx,girona,Cataluña
+410,fisica,Lleida,29,1,0,28,,29,0,0,2021_4T.xlsx,lleida,Cataluña
+411,fisica,Tarragona,49,4,0,45,,40,0,9,2021_4T.xlsx,tarragona,Cataluña
+412,fisica,Comunitat Valenciana,252,90,3,159,,226,3,23,2021_4T.xlsx,comunitat valenciana,
+413,fisica,Alicante,47,22,2,23,,40,2,5,2021_4T.xlsx,alicante,Valencia
+414,fisica,Castellón,29,11,1,17,,27,0,2,2021_4T.xlsx,castellon,Valencia
+415,fisica,Valencia,176,57,0,119,,159,1,16,2021_4T.xlsx,valencia,Valencia
+416,fisica,Extremadura,13,8,0,5,,10,0,3,2021_4T.xlsx,extremadura,
+417,fisica,Badajoz,8,6,0,2,,7,0,1,2021_4T.xlsx,badajoz,Extremadura
+418,fisica,Cáceres,5,2,0,3,,3,0,2,2021_4T.xlsx,caceres,Extremadura
+419,fisica,Galicia,78,37,0,41,,63,0,15,2021_4T.xlsx,galicia,
+420,fisica,A Coruña,24,8,0,16,,17,0,7,2021_4T.xlsx,a coruna,Galicia
+421,fisica,Lugo,13,8,0,5,,13,0,0,2021_4T.xlsx,lugo,Galicia
+422,fisica,Ourense,7,5,0,2,,6,0,1,2021_4T.xlsx,ourense,Galicia
+423,fisica,Pontevedra,34,16,0,18,,27,0,7,2021_4T.xlsx,pontevedra,Galicia
+424,fisica,Madrid,260,31,1,228,,210,3,45,2021_4T.xlsx,madrid,Madrid
+425,fisica,Murcia,40,30,0,10,,36,0,4,2021_4T.xlsx,murcia,Murcia
+426,fisica,Navarra,26,8,0,18,,16,0,10,2021_4T.xlsx,navarra,Navarra
+427,fisica,Pais Vasco,54,38,0,16,,38,0,16,2021_4T.xlsx,pais vasco,
+428,fisica,Araba/Álava,6,5,0,1,,6,0,0,2021_4T.xlsx,araba alava,Pais Vasco
+429,fisica,Bizkaia,33,23,0,10,,26,0,7,2021_4T.xlsx,bizkaia,Pais Vasco
+430,fisica,Gipuzkoa,15,10,0,5,,6,0,9,2021_4T.xlsx,gipuzkoa,Pais Vasco
+431,fisica,La Rioja,8,1,0,7,,0,0,8,2021_4T.xlsx,la rioja,La Rioja
+432,fisica,Ceuta y Melilla,1,1,0,0,,1,0,0,2021_4T.xlsx,ceuta y melilla,
+433,fisica,Ceuta,1,1,0,0,,1,0,0,2021_4T.xlsx,ceuta,Ceuta
+434,fisica,Melilla,0,0,0,0,,0,0,0,2021_4T.xlsx,melilla,Melilla
+435,empresas,Andalucía,116,113,0,3,,61,20,35,2021_4T.xlsx,andalucia,
+436,empresas,Almería,12,12,0,0,,0,7,5,2021_4T.xlsx,almeria,Andalucia
+437,empresas,Cádiz,24,23,0,1,,16,1,7,2021_4T.xlsx,cadiz,Andalucia
+438,empresas,Córdoba,10,9,0,1,,3,5,2,2021_4T.xlsx,cordoba,Andalucia
+439,empresas,Granada,9,9,0,0,,6,1,2,2021_4T.xlsx,granada,Andalucia
+440,empresas,Huelva,5,4,0,1,,1,0,4,2021_4T.xlsx,huelva,Andalucia
+441,empresas,Jaén,8,8,0,0,,6,2,0,2021_4T.xlsx,jaen,Andalucia
+442,empresas,Málaga,17,17,0,0,,10,3,4,2021_4T.xlsx,malaga,Andalucia
+443,empresas,Sevilla,31,31,0,0,,19,1,11,2021_4T.xlsx,sevilla,Andalucia
+444,empresas,Aragón,33,33,0,0,,15,1,17,2021_4T.xlsx,aragon,
+445,empresas,Huesca,5,5,0,0,,4,1,0,2021_4T.xlsx,huesca,Aragon
+446,empresas,Teruel,6,6,0,0,,4,0,2,2021_4T.xlsx,teruel,Aragon
+447,empresas,Zaragoza,22,22,0,0,,7,0,15,2021_4T.xlsx,zaragoza,Aragon
+448,empresas,Asturias,19,19,0,0,,5,3,11,2021_4T.xlsx,asturias,Asturias
+449,empresas,"Balears, Illes",16,16,0,0,,8,1,7,2021_4T.xlsx,balears illes,Baleares
+450,empresas,Canarias,27,27,0,0,,12,1,14,2021_4T.xlsx,canarias,
+451,empresas,Las Palmas de Gran Canaria,17,17,0,0,,7,1,9,2021_4T.xlsx,las palmas de gran canaria,
+452,empresas,Santa Cruz de Tenerife,10,10,0,0,,5,0,5,2021_4T.xlsx,santa cruz de tenerife,Canarias
+453,empresas,Cantabria,11,11,0,0,,2,0,9,2021_4T.xlsx,cantabria,Cantabria
+454,empresas,Castilla y León,26,26,0,0,,9,4,13,2021_4T.xlsx,castilla y leon,
+455,empresas,Ávila,2,2,0,0,,1,0,1,2021_4T.xlsx,avila,Castilla y Leon
+456,empresas,Burgos,5,5,0,0,,3,0,2,2021_4T.xlsx,burgos,Castilla y Leon
+457,empresas,León,5,5,0,0,,1,3,1,2021_4T.xlsx,leon,Castilla y Leon
+458,empresas,Palencia,2,2,0,0,,2,0,0,2021_4T.xlsx,palencia,Castilla y Leon
+459,empresas,Salamanca,2,2,0,0,,0,1,1,2021_4T.xlsx,salamanca,Castilla y Leon
+460,empresas,Segovia,1,1,0,0,,1,0,0,2021_4T.xlsx,segovia,Castilla y Leon
+461,empresas,Soria,2,2,0,0,,1,0,1,2021_4T.xlsx,soria,Castilla y Leon
+462,empresas,Valladolid,7,7,0,0,,0,0,7,2021_4T.xlsx,valladolid,Castilla y Leon
+463,empresas,Zamora,0,0,0,0,,0,0,0,2021_4T.xlsx,zamora,Castilla y Leon
+464,empresas,Castilla-La Mancha,32,31,0,1,,17,1,14,2021_4T.xlsx,castilla la mancha,
+465,empresas,Albacete,8,8,0,0,,5,1,2,2021_4T.xlsx,albacete,Castilla La Mancha
+466,empresas,Ciudad Real,6,6,0,0,,2,0,4,2021_4T.xlsx,ciudad real,Castilla La Mancha
+467,empresas,Cuenca,2,2,0,0,,1,0,1,2021_4T.xlsx,cuenca,Castilla La Mancha
+468,empresas,Guadalajara,3,3,0,0,,2,0,1,2021_4T.xlsx,guadalajara,Castilla La Mancha
+469,empresas,Toledo,13,12,0,1,,7,0,6,2021_4T.xlsx,toledo,Castilla La Mancha
+470,empresas,Cataluña,278,276,0,2,,87,8,183,2021_4T.xlsx,cataluna,
+471,empresas,Barcelona,242,241,0,1,,68,8,166,2021_4T.xlsx,barcelona,Cataluña
+472,empresas,Girona,16,16,0,0,,7,0,9,2021_4T.xlsx,girona,Cataluña
+473,empresas,Lleida,8,7,0,1,,5,0,3,2021_4T.xlsx,lleida,Cataluña
+474,empresas,Tarragona,12,12,0,0,,7,0,5,2021_4T.xlsx,tarragona,Cataluña
+475,empresas,Comunitat Valenciana,175,171,0,4,,59,14,102,2021_4T.xlsx,comunitat valenciana,
+476,empresas,Alicante,53,51,0,2,,21,13,19,2021_4T.xlsx,alicante,Valencia
+477,empresas,Castellón,27,26,0,1,,14,0,13,2021_4T.xlsx,castellon,Valencia
+478,empresas,Valencia,95,94,0,1,,24,1,70,2021_4T.xlsx,valencia,Valencia
+479,empresas,Extremadura,16,16,0,0,,10,0,6,2021_4T.xlsx,extremadura,
+480,empresas,Badajoz,10,10,0,0,,6,0,4,2021_4T.xlsx,badajoz,Extremadura
+481,empresas,Cáceres,6,6,0,0,,4,0,2,2021_4T.xlsx,caceres,Extremadura
+482,empresas,Galicia,43,41,0,2,,30,2,11,2021_4T.xlsx,galicia,
+483,empresas,A Coruña,23,23,0,0,,14,2,7,2021_4T.xlsx,a coruna,Galicia
+484,empresas,Lugo,8,8,0,0,,8,0,0,2021_4T.xlsx,lugo,Galicia
+485,empresas,Ourense,3,2,0,1,,2,0,1,2021_4T.xlsx,ourense,Galicia
+486,empresas,Pontevedra,9,8,0,1,,6,0,3,2021_4T.xlsx,pontevedra,Galicia
+487,empresas,Madrid,264,258,2,4,,67,6,191,2021_4T.xlsx,madrid,Madrid
+488,empresas,Murcia,17,17,0,0,,9,3,5,2021_4T.xlsx,murcia,Murcia
+489,empresas,Navarra,13,13,0,0,,6,1,6,2021_4T.xlsx,navarra,Navarra
+490,empresas,Pais Vasco,63,62,1,0,,40,1,22,2021_4T.xlsx,pais vasco,
+491,empresas,Araba/Álava,6,6,0,0,,4,0,2,2021_4T.xlsx,araba alava,Pais Vasco
+492,empresas,Bizkaia,42,41,1,0,,28,1,13,2021_4T.xlsx,bizkaia,Pais Vasco
+493,empresas,Gipuzkoa,15,15,0,0,,8,0,7,2021_4T.xlsx,gipuzkoa,Pais Vasco
+494,,La Rioja,0,0,0,0,,0,0,0,2021_4T.xlsx,la rioja,La Rioja
+495,,Ceuta y Melilla,1,1,0,0,,1,0,0,2021_4T.xlsx,ceuta y melilla,
+496,fisica,Andalucía,244,37,1,206,,213,3,28,2022_1T.xlsx,andalucia,
+497,fisica,Almería,15,3,0,12,,14,1,0,2022_1T.xlsx,almeria,Andalucia
+498,fisica,Cádiz,32,6,0,26,,31,0,1,2022_1T.xlsx,cadiz,Andalucia
+499,fisica,Córdoba,13,3,0,10,,12,0,1,2022_1T.xlsx,cordoba,Andalucia
+500,fisica,Granada,29,3,1,25,,24,1,4,2022_1T.xlsx,granada,Andalucia
+501,fisica,Huelva,9,1,0,8,,9,0,0,2022_1T.xlsx,huelva,Andalucia
+502,fisica,Jaén,15,3,0,12,,14,0,1,2022_1T.xlsx,jaen,Andalucia
+503,fisica,Málaga,32,2,0,30,,28,0,4,2022_1T.xlsx,malaga,Andalucia
+504,fisica,Sevilla,99,16,0,83,,81,1,17,2022_1T.xlsx,sevilla,Andalucia
+505,fisica,Aragón,97,11,0,86,,54,0,43,2022_1T.xlsx,aragon,
+506,fisica,Huesca,15,6,0,9,,8,0,7,2022_1T.xlsx,huesca,Aragon
+507,fisica,Teruel,2,0,0,2,,1,0,1,2022_1T.xlsx,teruel,Aragon
+508,fisica,Zaragoza,80,5,0,75,,45,0,35,2022_1T.xlsx,zaragoza,Aragon
+509,fisica,Asturias,67,27,1,39,,31,0,36,2022_1T.xlsx,asturias,Asturias
+510,fisica,"Balears, Illes",49,30,0,19,,47,0,2,2022_1T.xlsx,balears illes,Baleares
+511,fisica,Canarias,79,7,0,72,,59,2,18,2022_1T.xlsx,canarias,
+512,fisica,Las Palmas de Gran Canaria,39,4,0,35,,31,1,7,2022_1T.xlsx,las palmas de gran canaria,
+513,fisica,Santa Cruz de Tenerife,40,3,0,37,,28,1,11,2022_1T.xlsx,santa cruz de tenerife,Canarias
+514,fisica,Cantabria,16,12,0,4,,16,0,0,2022_1T.xlsx,cantabria,Cantabria
+515,fisica,Castilla y León,58,18,1,39,,37,0,21,2022_1T.xlsx,castilla y leon,
+516,fisica,Ávila,6,1,0,5,,3,0,3,2022_1T.xlsx,avila,Castilla y Leon
+517,fisica,Burgos,7,1,0,6,,4,0,3,2022_1T.xlsx,burgos,Castilla y Leon
+518,fisica,León,11,5,0,6,,10,0,1,2022_1T.xlsx,leon,Castilla y Leon
+519,fisica,Palencia,0,0,0,0,,0,0,0,2022_1T.xlsx,palencia,Castilla y Leon
+520,fisica,Salamanca,11,0,1,10,,3,0,8,2022_1T.xlsx,salamanca,Castilla y Leon
+521,fisica,Segovia,2,1,0,1,,2,0,0,2022_1T.xlsx,segovia,Castilla y Leon
+522,fisica,Soria,1,0,0,1,,1,0,0,2022_1T.xlsx,soria,Castilla y Leon
+523,fisica,Valladolid,20,10,0,10,,14,0,6,2022_1T.xlsx,valladolid,Castilla y Leon
+524,fisica,Zamora,0,0,0,0,,0,0,0,2022_1T.xlsx,zamora,Castilla y Leon
+525,fisica,Castilla-La Mancha,45,5,0,40,,20,0,25,2022_1T.xlsx,castilla la mancha,
+526,fisica,Albacete,14,2,0,12,,9,0,5,2022_1T.xlsx,albacete,Castilla La Mancha
+527,fisica,Ciudad Real,4,0,0,4,,0,0,4,2022_1T.xlsx,ciudad real,Castilla La Mancha
+528,fisica,Cuenca,2,0,0,2,,1,0,1,2022_1T.xlsx,cuenca,Castilla La Mancha
+529,fisica,Guadalajara,13,0,0,13,,1,0,12,2022_1T.xlsx,guadalajara,Castilla La Mancha
+530,fisica,Toledo,12,3,0,9,,9,0,3,2022_1T.xlsx,toledo,Castilla La Mancha
+531,fisica,Cataluña,825,63,0,762,,771,7,47,2022_1T.xlsx,cataluna,
+532,fisica,Barcelona,641,42,0,599,,601,6,34,2022_1T.xlsx,barcelona,Cataluña
+533,fisica,Girona,59,5,0,54,,53,0,6,2022_1T.xlsx,girona,Cataluña
+534,fisica,Lleida,64,9,0,55,,64,0,0,2022_1T.xlsx,lleida,Cataluña
+535,fisica,Tarragona,61,7,0,54,,53,1,7,2022_1T.xlsx,tarragona,Cataluña
+536,fisica,Comunitat Valenciana,315,127,1,187,,267,2,46,2022_1T.xlsx,comunitat valenciana,
+537,fisica,Alicante,97,44,0,53,,77,1,19,2022_1T.xlsx,alicante,Valencia
+538,fisica,Castellón,46,15,1,30,,43,0,3,2022_1T.xlsx,castellon,Valencia
+539,fisica,Valencia,172,68,0,104,,147,1,24,2022_1T.xlsx,valencia,Valencia
+540,fisica,Extremadura,7,5,0,2,,6,0,1,2022_1T.xlsx,extremadura,
+541,fisica,Badajoz,5,3,0,2,,4,0,1,2022_1T.xlsx,badajoz,Extremadura
+542,fisica,Cáceres,2,2,0,0,,2,0,0,2022_1T.xlsx,caceres,Extremadura
+543,fisica,Galicia,93,36,0,57,,72,0,21,2022_1T.xlsx,galicia,
+544,fisica,A Coruña,37,12,0,25,,25,0,12,2022_1T.xlsx,a coruna,Galicia
+545,fisica,Lugo,18,5,0,13,,17,0,1,2022_1T.xlsx,lugo,Galicia
+546,fisica,Ourense,9,6,0,3,,5,0,4,2022_1T.xlsx,ourense,Galicia
+547,fisica,Pontevedra,29,13,0,16,,25,0,4,2022_1T.xlsx,pontevedra,Galicia
+548,fisica,Madrid,319,43,0,276,,264,0,55,2022_1T.xlsx,madrid,Madrid
+549,fisica,Murcia,66,41,0,25,,56,0,10,2022_1T.xlsx,murcia,Murcia
+550,fisica,Navarra,24,12,0,12,,13,0,11,2022_1T.xlsx,navarra,Navarra
+551,fisica,Pais Vasco,52,41,1,10,,29,0,23,2022_1T.xlsx,pais vasco,
+552,fisica,Araba/Álava,7,4,0,3,,7,0,0,2022_1T.xlsx,araba alava,Pais Vasco
+553,fisica,Bizkaia,29,24,1,4,,14,0,15,2022_1T.xlsx,bizkaia,Pais Vasco
+554,fisica,Gipuzkoa,16,13,0,3,,8,0,8,2022_1T.xlsx,gipuzkoa,Pais Vasco
+555,fisica,La Rioja,10,0,0,10,,5,0,5,2022_1T.xlsx,la rioja,La Rioja
+556,fisica,Ceuta y Melilla,1,1,0,0,,1,0,0,2022_1T.xlsx,ceuta y melilla,
+557,fisica,Ceuta,1,1,0,0,,1,0,0,2022_1T.xlsx,ceuta,Ceuta
+558,fisica,Melilla,0,0,0,0,,0,0,0,2022_1T.xlsx,melilla,Melilla
+559,empresas,Andalucía,109,103,0,6,,52,13,44,2022_1T.xlsx,andalucia,
+560,empresas,Almería,8,8,0,0,,0,4,4,2022_1T.xlsx,almeria,Andalucia
+561,empresas,Cádiz,12,10,0,2,,8,1,3,2022_1T.xlsx,cadiz,Andalucia
+562,empresas,Córdoba,8,8,0,0,,1,2,5,2022_1T.xlsx,cordoba,Andalucia
+563,empresas,Granada,12,11,0,1,,4,2,6,2022_1T.xlsx,granada,Andalucia
+564,empresas,Huelva,7,7,0,0,,5,0,2,2022_1T.xlsx,huelva,Andalucia
+565,empresas,Jaén,1,1,0,0,,0,0,1,2022_1T.xlsx,jaen,Andalucia
+566,empresas,Málaga,25,25,0,0,,16,4,5,2022_1T.xlsx,malaga,Andalucia
+567,empresas,Sevilla,36,33,0,3,,18,0,18,2022_1T.xlsx,sevilla,Andalucia
+568,empresas,Aragón,48,48,0,0,,14,4,30,2022_1T.xlsx,aragon,
+569,empresas,Huesca,4,4,0,0,,2,1,1,2022_1T.xlsx,huesca,Aragon
+570,empresas,Teruel,3,3,0,0,,2,0,1,2022_1T.xlsx,teruel,Aragon
+571,empresas,Zaragoza,41,41,0,0,,10,3,28,2022_1T.xlsx,zaragoza,Aragon
+572,empresas,Asturias,23,23,0,0,,10,2,11,2022_1T.xlsx,asturias,Asturias
+573,empresas,"Balears, Illes",34,34,0,0,,17,11,6,2022_1T.xlsx,balears illes,Baleares
+574,empresas,Canarias,28,26,1,1,,13,1,14,2022_1T.xlsx,canarias,
+575,empresas,Las Palmas de Gran Canaria,17,16,1,0,,7,1,9,2022_1T.xlsx,las palmas de gran canaria,
+576,empresas,Santa Cruz de Tenerife,11,10,0,1,,6,0,5,2022_1T.xlsx,santa cruz de tenerife,Canarias
+577,empresas,Cantabria,20,20,0,0,,7,0,13,2022_1T.xlsx,cantabria,Cantabria
+578,empresas,Castilla y León,22,22,0,0,,13,0,9,2022_1T.xlsx,castilla y leon,
+579,empresas,Ávila,1,1,0,0,,1,0,0,2022_1T.xlsx,avila,Castilla y Leon
+580,empresas,Burgos,6,6,0,0,,6,0,0,2022_1T.xlsx,burgos,Castilla y Leon
+581,empresas,León,2,2,0,0,,1,0,1,2022_1T.xlsx,leon,Castilla y Leon
+582,empresas,Palencia,1,1,0,0,,1,0,0,2022_1T.xlsx,palencia,Castilla y Leon
+583,empresas,Salamanca,2,2,0,0,,0,0,2,2022_1T.xlsx,salamanca,Castilla y Leon
+584,empresas,Segovia,2,2,0,0,,0,0,2,2022_1T.xlsx,segovia,Castilla y Leon
+585,empresas,Soria,2,2,0,0,,2,0,0,2022_1T.xlsx,soria,Castilla y Leon
+586,empresas,Valladolid,6,6,0,0,,2,0,4,2022_1T.xlsx,valladolid,Castilla y Leon
+587,empresas,Zamora,0,0,0,0,,0,0,0,2022_1T.xlsx,zamora,Castilla y Leon
+588,empresas,Castilla-La Mancha,37,31,0,6,,8,0,29,2022_1T.xlsx,castilla la mancha,
+589,empresas,Albacete,10,10,0,0,,2,0,8,2022_1T.xlsx,albacete,Castilla La Mancha
+590,empresas,Ciudad Real,5,5,0,0,,0,0,5,2022_1T.xlsx,ciudad real,Castilla La Mancha
+591,empresas,Cuenca,6,5,0,1,,2,0,4,2022_1T.xlsx,cuenca,Castilla La Mancha
+592,empresas,Guadalajara,3,2,0,1,,1,0,2,2022_1T.xlsx,guadalajara,Castilla La Mancha
+593,empresas,Toledo,13,9,0,4,,3,0,10,2022_1T.xlsx,toledo,Castilla La Mancha
+594,empresas,Cataluña,320,318,0,2,,76,7,237,2022_1T.xlsx,cataluna,
+595,empresas,Barcelona,275,273,0,2,,61,7,207,2022_1T.xlsx,barcelona,Cataluña
+596,empresas,Girona,25,25,0,0,,8,0,17,2022_1T.xlsx,girona,Cataluña
+597,empresas,Lleida,15,15,0,0,,4,0,11,2022_1T.xlsx,lleida,Cataluña
+598,empresas,Tarragona,5,5,0,0,,3,0,2,2022_1T.xlsx,tarragona,Cataluña
+599,empresas,Comunitat Valenciana,203,199,0,4,,49,4,150,2022_1T.xlsx,comunitat valenciana,
+600,empresas,Alicante,60,59,0,1,,11,0,49,2022_1T.xlsx,alicante,Valencia
+601,empresas,Castellón,23,20,0,3,,14,0,9,2022_1T.xlsx,castellon,Valencia
+602,empresas,Valencia,120,120,0,0,,24,4,92,2022_1T.xlsx,valencia,Valencia
+603,empresas,Extremadura,7,6,1,0,,5,0,2,2022_1T.xlsx,extremadura,
+604,empresas,Badajoz,4,4,0,0,,2,0,2,2022_1T.xlsx,badajoz,Extremadura
+605,empresas,Cáceres,3,2,1,0,,3,0,0,2022_1T.xlsx,caceres,Extremadura
+606,empresas,Galicia,52,52,0,0,,31,2,19,2022_1T.xlsx,galicia,
+607,empresas,A Coruña,19,19,0,0,,8,1,10,2022_1T.xlsx,a coruna,Galicia
+608,empresas,Lugo,11,11,0,0,,6,0,5,2022_1T.xlsx,lugo,Galicia
+609,empresas,Ourense,6,6,0,0,,6,0,0,2022_1T.xlsx,ourense,Galicia
+610,empresas,Pontevedra,16,16,0,0,,11,1,4,2022_1T.xlsx,pontevedra,Galicia
+611,empresas,Madrid,325,315,8,2,,71,15,239,2022_1T.xlsx,madrid,Madrid
+612,empresas,Murcia,38,38,0,0,,13,14,11,2022_1T.xlsx,murcia,Murcia
+613,empresas,Navarra,7,7,0,0,,4,0,3,2022_1T.xlsx,navarra,Navarra
+614,empresas,Pais Vasco,66,66,0,0,,26,2,38,2022_1T.xlsx,pais vasco,
+615,empresas,Araba/Álava,11,11,0,0,,3,0,8,2022_1T.xlsx,araba alava,Pais Vasco
+616,empresas,Bizkaia,41,41,0,0,,20,2,19,2022_1T.xlsx,bizkaia,Pais Vasco
+617,empresas,Gipuzkoa,14,14,0,0,,3,0,11,2022_1T.xlsx,gipuzkoa,Pais Vasco
+618,empresas,La Rioja,7,7,0,0,,5,0,2,2022_1T.xlsx,la rioja,La Rioja
+619,empresas,Ceuta y Melilla,1,1,0,0,,1,0,0,2022_1T.xlsx,ceuta y melilla,
+620,fisica,Andalucía,214,45,1,168,,178,1,35,2022_2T.xlsx,andalucia,
+621,fisica,Almería,13,1,0,12,,13,0,0,2022_2T.xlsx,almeria,Andalucia
+622,fisica,Cádiz,18,4,0,14,,16,0,2,2022_2T.xlsx,cadiz,Andalucia
+623,fisica,Córdoba,15,5,0,10,,14,0,1,2022_2T.xlsx,cordoba,Andalucia
+624,fisica,Granada,21,5,0,16,,20,0,1,2022_2T.xlsx,granada,Andalucia
+625,fisica,Huelva,5,0,0,5,,4,0,1,2022_2T.xlsx,huelva,Andalucia
+626,fisica,Jaén,23,1,0,22,,23,0,0,2022_2T.xlsx,jaen,Andalucia
+627,fisica,Málaga,37,11,1,25,,27,1,9,2022_2T.xlsx,malaga,Andalucia
+628,fisica,Sevilla,82,18,0,64,,61,0,21,2022_2T.xlsx,sevilla,Andalucia
+629,fisica,Aragón,117,17,0,100,,71,2,44,2022_2T.xlsx,aragon,
+630,fisica,Huesca,15,3,0,12,,9,0,6,2022_2T.xlsx,huesca,Aragon
+631,fisica,Teruel,10,3,0,7,,8,0,2,2022_2T.xlsx,teruel,Aragon
+632,fisica,Zaragoza,92,11,0,81,,54,2,36,2022_2T.xlsx,zaragoza,Aragon
+633,fisica,Asturias,72,24,1,47,,40,0,32,2022_2T.xlsx,asturias,Asturias
+634,fisica,"Balears, Illes",40,21,0,19,,40,0,0,2022_2T.xlsx,balears illes,Baleares
+635,fisica,Canarias,82,14,0,68,,61,1,20,2022_2T.xlsx,canarias,
+636,fisica,Las Palmas de Gran Canaria,48,9,0,39,,32,1,15,2022_2T.xlsx,las palmas de gran canaria,
+637,fisica,Santa Cruz de Tenerife,34,5,0,29,,29,0,5,2022_2T.xlsx,santa cruz de tenerife,Canarias
+638,fisica,Cantabria,15,9,0,6,,13,0,2,2022_2T.xlsx,cantabria,Cantabria
+639,fisica,Castilla y León,86,41,0,45,,64,0,22,2022_2T.xlsx,castilla y leon,
+640,fisica,Ávila,1,0,0,1,,1,0,0,2022_2T.xlsx,avila,Castilla y Leon
+641,fisica,Burgos,4,1,0,3,,3,0,1,2022_2T.xlsx,burgos,Castilla y Leon
+642,fisica,León,17,11,0,6,,16,0,1,2022_2T.xlsx,leon,Castilla y Leon
+643,fisica,Palencia,0,0,0,0,,0,0,0,2022_2T.xlsx,palencia,Castilla y Leon
+644,fisica,Salamanca,12,4,0,8,,5,0,7,2022_2T.xlsx,salamanca,Castilla y Leon
+645,fisica,Segovia,11,2,0,9,,11,0,0,2022_2T.xlsx,segovia,Castilla y Leon
+646,fisica,Soria,7,4,0,3,,7,0,0,2022_2T.xlsx,soria,Castilla y Leon
+647,fisica,Valladolid,32,19,0,13,,20,0,12,2022_2T.xlsx,valladolid,Castilla y Leon
+648,fisica,Zamora,2,0,0,2,,1,0,1,2022_2T.xlsx,zamora,Castilla y Leon
+649,fisica,Castilla-La Mancha,82,14,0,68,,41,0,41,2022_2T.xlsx,castilla la mancha,
+650,fisica,Albacete,16,4,0,12,,10,0,6,2022_2T.xlsx,albacete,Castilla La Mancha
+651,fisica,Ciudad Real,5,0,0,5,,2,0,3,2022_2T.xlsx,ciudad real,Castilla La Mancha
+652,fisica,Cuenca,4,1,0,3,,1,0,3,2022_2T.xlsx,cuenca,Castilla La Mancha
+653,fisica,Guadalajara,40,5,0,35,,18,0,22,2022_2T.xlsx,guadalajara,Castilla La Mancha
+654,fisica,Toledo,17,4,0,13,,10,0,7,2022_2T.xlsx,toledo,Castilla La Mancha
+655,fisica,Cataluña,861,58,1,802,,818,3,40,2022_2T.xlsx,cataluna,
+656,fisica,Barcelona,694,39,0,655,,668,0,26,2022_2T.xlsx,barcelona,Cataluña
+657,fisica,Girona,72,10,1,61,,59,2,11,2022_2T.xlsx,girona,Cataluña
+658,fisica,Lleida,49,4,0,45,,49,0,0,2022_2T.xlsx,lleida,Cataluña
+659,fisica,Tarragona,46,5,0,41,,42,1,3,2022_2T.xlsx,tarragona,Cataluña
+660,fisica,Comunitat Valenciana,247,86,0,161,,219,2,26,2022_2T.xlsx,comunitat valenciana,
+661,fisica,Alicante,61,26,0,35,,47,2,12,2022_2T.xlsx,alicante,Valencia
+662,fisica,Castellón,42,17,0,25,,40,0,2,2022_2T.xlsx,castellon,Valencia
+663,fisica,Valencia,144,43,0,101,,132,0,12,2022_2T.xlsx,valencia,Valencia
+664,fisica,Extremadura,6,2,0,4,,5,0,1,2022_2T.xlsx,extremadura,
+665,fisica,Badajoz,4,1,0,3,,4,0,0,2022_2T.xlsx,badajoz,Extremadura
+666,fisica,Cáceres,2,1,0,1,,1,0,1,2022_2T.xlsx,caceres,Extremadura
+667,fisica,Galicia,109,45,0,64,,91,0,18,2022_2T.xlsx,galicia,
+668,fisica,A Coruña,40,13,0,27,,28,0,12,2022_2T.xlsx,a coruna,Galicia
+669,fisica,Lugo,24,12,0,12,,24,0,0,2022_2T.xlsx,lugo,Galicia
+670,fisica,Ourense,5,1,0,4,,1,0,4,2022_2T.xlsx,ourense,Galicia
+671,fisica,Pontevedra,40,19,0,21,,38,0,2,2022_2T.xlsx,pontevedra,Galicia
+672,fisica,Madrid,249,37,0,212,,208,2,39,2022_2T.xlsx,madrid,Madrid
+673,fisica,Murcia,57,35,0,22,,54,0,3,2022_2T.xlsx,murcia,Murcia
+674,fisica,Navarra,27,4,0,23,,5,0,22,2022_2T.xlsx,navarra,Navarra
+675,fisica,Pais Vasco,68,49,0,19,,47,0,21,2022_2T.xlsx,pais vasco,
+676,fisica,Araba/Álava,15,11,0,4,,15,0,0,2022_2T.xlsx,araba alava,Pais Vasco
+677,fisica,Bizkaia,31,23,0,8,,18,0,13,2022_2T.xlsx,bizkaia,Pais Vasco
+678,fisica,Gipuzkoa,22,15,0,7,,14,0,8,2022_2T.xlsx,gipuzkoa,Pais Vasco
+679,fisica,La Rioja,8,0,0,8,,2,0,6,2022_2T.xlsx,la rioja,La Rioja
+680,fisica,Ceuta y Melilla,0,0,0,0,,0,0,0,2022_2T.xlsx,ceuta y melilla,
+681,fisica,Ceuta,0,0,0,0,,0,0,0,2022_2T.xlsx,ceuta,Ceuta
+682,fisica,Melilla,0,0,0,0,,0,0,0,2022_2T.xlsx,melilla,Melilla
+683,empresas,Andalucía,104,99,2,3,,50,18,36,2022_2T.xlsx,andalucia,
+684,empresas,Almería,14,13,1,0,,0,7,7,2022_2T.xlsx,almeria,Andalucia
+685,empresas,Cádiz,5,5,0,0,,4,0,1,2022_2T.xlsx,cadiz,Andalucia
+686,empresas,Córdoba,8,8,0,0,,1,4,3,2022_2T.xlsx,cordoba,Andalucia
+687,empresas,Granada,19,17,1,1,,10,3,6,2022_2T.xlsx,granada,Andalucia
+688,empresas,Huelva,8,8,0,0,,5,0,3,2022_2T.xlsx,huelva,Andalucia
+689,empresas,Jaén,4,4,0,0,,2,0,2,2022_2T.xlsx,jaen,Andalucia
+690,empresas,Málaga,23,22,0,1,,12,3,8,2022_2T.xlsx,malaga,Andalucia
+691,empresas,Sevilla,23,22,0,1,,16,1,6,2022_2T.xlsx,sevilla,Andalucia
+692,empresas,Aragón,36,34,0,2,,11,0,25,2022_2T.xlsx,aragon,
+693,empresas,Huesca,4,4,0,0,,1,0,3,2022_2T.xlsx,huesca,Aragon
+694,empresas,Teruel,4,3,0,1,,1,0,3,2022_2T.xlsx,teruel,Aragon
+695,empresas,Zaragoza,28,27,0,1,,9,0,19,2022_2T.xlsx,zaragoza,Aragon
+696,empresas,Asturias,24,24,0,0,,11,0,13,2022_2T.xlsx,asturias,Asturias
+697,empresas,"Balears, Illes",23,23,0,0,,19,0,4,2022_2T.xlsx,balears illes,Baleares
+698,empresas,Canarias,37,35,0,2,,19,2,16,2022_2T.xlsx,canarias,
+699,empresas,Las Palmas de Gran Canaria,22,22,0,0,,10,2,10,2022_2T.xlsx,las palmas de gran canaria,
+700,empresas,Santa Cruz de Tenerife,15,13,0,2,,9,0,6,2022_2T.xlsx,santa cruz de tenerife,Canarias
+701,empresas,Cantabria,8,8,0,0,,3,0,5,2022_2T.xlsx,cantabria,Cantabria
+702,empresas,Castilla y León,25,25,0,0,,11,0,14,2022_2T.xlsx,castilla y leon,
+703,empresas,Ávila,1,1,0,0,,0,0,1,2022_2T.xlsx,avila,Castilla y Leon
+704,empresas,Burgos,4,4,0,0,,4,0,0,2022_2T.xlsx,burgos,Castilla y Leon
+705,empresas,León,5,5,0,0,,3,0,2,2022_2T.xlsx,leon,Castilla y Leon
+706,empresas,Palencia,1,1,0,0,,1,0,0,2022_2T.xlsx,palencia,Castilla y Leon
+707,empresas,Salamanca,3,3,0,0,,1,0,2,2022_2T.xlsx,salamanca,Castilla y Leon
+708,empresas,Segovia,1,1,0,0,,0,0,1,2022_2T.xlsx,segovia,Castilla y Leon
+709,empresas,Soria,3,3,0,0,,0,0,3,2022_2T.xlsx,soria,Castilla y Leon
+710,empresas,Valladolid,5,5,0,0,,1,0,4,2022_2T.xlsx,valladolid,Castilla y Leon
+711,empresas,Zamora,2,2,0,0,,1,0,1,2022_2T.xlsx,zamora,Castilla y Leon
+712,empresas,Castilla-La Mancha,29,28,1,0,,9,2,18,2022_2T.xlsx,castilla la mancha,
+713,empresas,Albacete,7,7,0,0,,2,0,5,2022_2T.xlsx,albacete,Castilla La Mancha
+714,empresas,Ciudad Real,9,9,0,0,,1,0,8,2022_2T.xlsx,ciudad real,Castilla La Mancha
+715,empresas,Cuenca,1,1,0,0,,0,0,1,2022_2T.xlsx,cuenca,Castilla La Mancha
+716,empresas,Guadalajara,2,2,0,0,,0,0,2,2022_2T.xlsx,guadalajara,Castilla La Mancha
+717,empresas,Toledo,10,9,1,0,,6,2,2,2022_2T.xlsx,toledo,Castilla La Mancha
+718,empresas,Cataluña,324,321,1,2,,88,7,229,2022_2T.xlsx,cataluna,
+719,empresas,Barcelona,286,284,1,1,,72,4,210,2022_2T.xlsx,barcelona,Cataluña
+720,empresas,Girona,11,11,0,0,,7,1,3,2022_2T.xlsx,girona,Cataluña
+721,empresas,Lleida,8,8,0,0,,2,0,6,2022_2T.xlsx,lleida,Cataluña
+722,empresas,Tarragona,19,18,0,1,,7,2,10,2022_2T.xlsx,tarragona,Cataluña
+723,empresas,Comunitat Valenciana,234,231,0,3,,42,14,178,2022_2T.xlsx,comunitat valenciana,
+724,empresas,Alicante,57,57,0,0,,7,3,47,2022_2T.xlsx,alicante,Valencia
+725,empresas,Castellón,18,17,0,1,,9,0,9,2022_2T.xlsx,castellon,Valencia
+726,empresas,Valencia,159,157,0,2,,26,11,122,2022_2T.xlsx,valencia,Valencia
+727,empresas,Extremadura,8,8,0,0,,0,0,8,2022_2T.xlsx,extremadura,
+728,empresas,Badajoz,4,4,0,0,,0,0,4,2022_2T.xlsx,badajoz,Extremadura
+729,empresas,Cáceres,4,4,0,0,,0,0,4,2022_2T.xlsx,caceres,Extremadura
+730,empresas,Galicia,47,46,0,1,,37,2,8,2022_2T.xlsx,galicia,
+731,empresas,A Coruña,16,16,0,0,,13,1,2,2022_2T.xlsx,a coruna,Galicia
+732,empresas,Lugo,14,14,0,0,,10,1,3,2022_2T.xlsx,lugo,Galicia
+733,empresas,Ourense,6,6,0,0,,5,0,1,2022_2T.xlsx,ourense,Galicia
+734,empresas,Pontevedra,11,10,0,1,,9,0,2,2022_2T.xlsx,pontevedra,Galicia
+735,empresas,Madrid,259,252,5,2,,44,9,206,2022_2T.xlsx,madrid,Madrid
+736,empresas,Murcia,28,28,0,0,,16,4,8,2022_2T.xlsx,murcia,Murcia
+737,empresas,Navarra,10,10,0,0,,6,1,3,2022_2T.xlsx,navarra,Navarra
+738,empresas,Pais Vasco,64,63,0,1,,34,3,27,2022_2T.xlsx,pais vasco,
+739,empresas,Araba/Álava,1,1,0,0,,1,0,0,2022_2T.xlsx,araba alava,Pais Vasco
+740,empresas,Bizkaia,42,41,0,1,,24,3,15,2022_2T.xlsx,bizkaia,Pais Vasco
+741,empresas,Gipuzkoa,21,21,0,0,,9,0,12,2022_2T.xlsx,gipuzkoa,Pais Vasco
+742,empresas,La Rioja,4,3,0,1,,1,0,3,2022_2T.xlsx,la rioja,La Rioja
+743,empresas,Ceuta y Melilla,3,3,0,0,,1,0,2,2022_2T.xlsx,ceuta y melilla,
+744,fisica,Andalucía,222,44,0,178,,183,4,35,2022_3T.xlsx,andalucia,
+745,fisica,Almería,14,3,0,11,,9,3,2,2022_3T.xlsx,almeria,Andalucia
+746,fisica,Cádiz,19,4,0,15,,18,0,1,2022_3T.xlsx,cadiz,Andalucia
+747,fisica,Córdoba,16,1,0,15,,16,0,0,2022_3T.xlsx,cordoba,Andalucia
+748,fisica,Granada,30,13,0,17,,27,0,3,2022_3T.xlsx,granada,Andalucia
+749,fisica,Huelva,13,0,0,13,,7,0,6,2022_3T.xlsx,huelva,Andalucia
+750,fisica,Jaén,13,2,0,11,,10,1,2,2022_3T.xlsx,jaen,Andalucia
+751,fisica,Málaga,42,11,0,31,,37,0,5,2022_3T.xlsx,malaga,Andalucia
+752,fisica,Sevilla,75,10,0,65,,59,0,16,2022_3T.xlsx,sevilla,Andalucia
+753,fisica,Aragón,107,25,0,82,,60,0,47,2022_3T.xlsx,aragon,
+754,fisica,Huesca,23,4,0,19,,15,0,8,2022_3T.xlsx,huesca,Aragon
+755,fisica,Teruel,4,1,0,3,,4,0,0,2022_3T.xlsx,teruel,Aragon
+756,fisica,Zaragoza,80,20,0,60,,41,0,39,2022_3T.xlsx,zaragoza,Aragon
+757,fisica,Asturias,55,19,0,36,,18,0,37,2022_3T.xlsx,asturias,Asturias
+758,fisica,"Balears, Illes",65,38,0,27,,61,0,4,2022_3T.xlsx,balears illes,Baleares
+759,fisica,Canarias,71,21,1,49,,60,2,9,2022_3T.xlsx,canarias,
+760,fisica,Las Palmas de Gran Canaria,43,14,1,28,,38,2,3,2022_3T.xlsx,las palmas de gran canaria,
+761,fisica,Santa Cruz de Tenerife,28,7,0,21,,22,0,6,2022_3T.xlsx,santa cruz de tenerife,Canarias
+762,fisica,Cantabria,10,8,0,2,,10,0,0,2022_3T.xlsx,cantabria,Cantabria
+763,fisica,Castilla y León,79,38,2,39,,57,0,22,2022_3T.xlsx,castilla y leon,
+764,fisica,Ávila,2,1,0,1,,1,0,1,2022_3T.xlsx,avila,Castilla y Leon
+765,fisica,Burgos,6,0,0,6,,6,0,0,2022_3T.xlsx,burgos,Castilla y Leon
+766,fisica,León,21,14,0,7,,20,0,1,2022_3T.xlsx,leon,Castilla y Leon
+767,fisica,Palencia,0,0,0,0,,0,0,0,2022_3T.xlsx,palencia,Castilla y Leon
+768,fisica,Salamanca,12,6,0,6,,4,0,8,2022_3T.xlsx,salamanca,Castilla y Leon
+769,fisica,Segovia,6,0,1,5,,6,0,0,2022_3T.xlsx,segovia,Castilla y Leon
+770,fisica,Soria,3,1,1,1,,3,0,0,2022_3T.xlsx,soria,Castilla y Leon
+771,fisica,Valladolid,29,16,0,13,,17,0,12,2022_3T.xlsx,valladolid,Castilla y Leon
+772,fisica,Zamora,0,0,0,0,,0,0,0,2022_3T.xlsx,zamora,Castilla y Leon
+773,fisica,Castilla-La Mancha,83,17,3,63,,33,0,50,2022_3T.xlsx,castilla la mancha,
+774,fisica,Albacete,22,4,0,18,,12,0,10,2022_3T.xlsx,albacete,Castilla La Mancha
+775,fisica,Ciudad Real,18,5,0,13,,7,0,11,2022_3T.xlsx,ciudad real,Castilla La Mancha
+776,fisica,Cuenca,3,2,0,1,,0,0,3,2022_3T.xlsx,cuenca,Castilla La Mancha
+777,fisica,Guadalajara,21,3,0,18,,5,0,16,2022_3T.xlsx,guadalajara,Castilla La Mancha
+778,fisica,Toledo,19,3,3,13,,9,0,10,2022_3T.xlsx,toledo,Castilla La Mancha
+779,fisica,Cataluña,837,91,2,744,,761,0,76,2022_3T.xlsx,cataluna,
+780,fisica,Barcelona,603,40,2,561,,575,0,28,2022_3T.xlsx,barcelona,Cataluña
+781,fisica,Girona,84,16,0,68,,41,0,43,2022_3T.xlsx,girona,Cataluña
+782,fisica,Lleida,90,28,0,62,,88,0,2,2022_3T.xlsx,lleida,Cataluña
+783,fisica,Tarragona,60,7,0,53,,57,0,3,2022_3T.xlsx,tarragona,Cataluña
+784,fisica,Comunitat Valenciana,246,88,2,156,,190,1,55,2022_3T.xlsx,comunitat valenciana,
+785,fisica,Alicante,81,32,1,48,,49,1,31,2022_3T.xlsx,alicante,Valencia
+786,fisica,Castellón,25,14,0,11,,25,0,0,2022_3T.xlsx,castellon,Valencia
+787,fisica,Valencia,140,42,1,97,,116,0,24,2022_3T.xlsx,valencia,Valencia
+788,fisica,Extremadura,27,18,0,9,,9,0,18,2022_3T.xlsx,extremadura,
+789,fisica,Badajoz,16,7,0,9,,8,0,8,2022_3T.xlsx,badajoz,Extremadura
+790,fisica,Cáceres,11,11,0,0,,1,0,10,2022_3T.xlsx,caceres,Extremadura
+791,fisica,Galicia,95,49,0,46,,77,0,18,2022_3T.xlsx,galicia,
+792,fisica,A Coruña,26,15,0,11,,14,0,12,2022_3T.xlsx,a coruna,Galicia
+793,fisica,Lugo,20,8,0,12,,20,0,0,2022_3T.xlsx,lugo,Galicia
+794,fisica,Ourense,9,9,0,0,,7,0,2,2022_3T.xlsx,ourense,Galicia
+795,fisica,Pontevedra,40,17,0,23,,36,0,4,2022_3T.xlsx,pontevedra,Galicia
+796,fisica,Madrid,248,40,2,206,,202,0,46,2022_3T.xlsx,madrid,Madrid
+797,fisica,Murcia,71,46,0,25,,57,0,14,2022_3T.xlsx,murcia,Murcia
+798,fisica,Navarra,16,6,0,10,,3,0,13,2022_3T.xlsx,navarra,Navarra
+799,fisica,Pais Vasco,48,37,0,11,,33,0,15,2022_3T.xlsx,pais vasco,
+800,fisica,Araba/Álava,14,10,0,4,,14,0,0,2022_3T.xlsx,araba alava,Pais Vasco
+801,fisica,Bizkaia,13,12,0,1,,7,0,6,2022_3T.xlsx,bizkaia,Pais Vasco
+802,fisica,Gipuzkoa,21,15,0,6,,12,0,9,2022_3T.xlsx,gipuzkoa,Pais Vasco
+803,fisica,La Rioja,16,1,0,15,,3,0,13,2022_3T.xlsx,la rioja,La Rioja
+804,fisica,Ceuta y Melilla,2,1,0,1,,0,0,2,2022_3T.xlsx,ceuta y melilla,
+805,fisica,Ceuta,2,1,0,1,,0,0,2,2022_3T.xlsx,ceuta,Ceuta
+806,fisica,Melilla,0,0,0,0,,0,0,0,2022_3T.xlsx,melilla,Melilla
+807,empresas,Andalucía,194,184,5,5,,75,34,85,2022_3T.xlsx,andalucia,
+808,empresas,Almería,20,19,1,0,,2,9,9,2022_3T.xlsx,almeria,Andalucia
+809,empresas,Cádiz,17,16,1,0,,13,0,4,2022_3T.xlsx,cadiz,Andalucia
+810,empresas,Córdoba,25,24,1,0,,1,9,15,2022_3T.xlsx,cordoba,Andalucia
+811,empresas,Granada,21,17,0,4,,9,2,10,2022_3T.xlsx,granada,Andalucia
+812,empresas,Huelva,13,13,0,0,,4,0,9,2022_3T.xlsx,huelva,Andalucia
+813,empresas,Jaén,9,8,1,0,,5,1,3,2022_3T.xlsx,jaen,Andalucia
+814,empresas,Málaga,37,36,0,1,,12,11,14,2022_3T.xlsx,malaga,Andalucia
+815,empresas,Sevilla,52,51,1,0,,29,2,21,2022_3T.xlsx,sevilla,Andalucia
+816,empresas,Aragón,52,51,0,1,,17,4,31,2022_3T.xlsx,aragon,
+817,empresas,Huesca,5,5,0,0,,2,1,2,2022_3T.xlsx,huesca,Aragon
+818,empresas,Teruel,1,1,0,0,,0,0,1,2022_3T.xlsx,teruel,Aragon
+819,empresas,Zaragoza,46,45,0,1,,15,3,28,2022_3T.xlsx,zaragoza,Aragon
+820,empresas,Asturias,29,29,0,0,,11,0,18,2022_3T.xlsx,asturias,Asturias
+821,empresas,"Balears, Illes",26,25,1,0,,20,1,5,2022_3T.xlsx,balears illes,Baleares
+822,empresas,Canarias,28,27,1,0,,18,0,10,2022_3T.xlsx,canarias,
+823,empresas,Las Palmas de Gran Canaria,15,14,1,0,,8,0,7,2022_3T.xlsx,las palmas de gran canaria,
+824,empresas,Santa Cruz de Tenerife,13,13,0,0,,10,0,3,2022_3T.xlsx,santa cruz de tenerife,Canarias
+825,empresas,Cantabria,11,11,0,0,,5,0,6,2022_3T.xlsx,cantabria,Cantabria
+826,empresas,Castilla y León,42,40,1,1,,17,4,21,2022_3T.xlsx,castilla y leon,
+827,empresas,Ávila,0,0,0,0,,0,0,0,2022_3T.xlsx,avila,Castilla y Leon
+828,empresas,Burgos,4,4,0,0,,1,0,3,2022_3T.xlsx,burgos,Castilla y Leon
+829,empresas,León,6,6,0,0,,1,2,3,2022_3T.xlsx,leon,Castilla y Leon
+830,empresas,Palencia,4,4,0,0,,3,0,1,2022_3T.xlsx,palencia,Castilla y Leon
+831,empresas,Salamanca,5,5,0,0,,0,2,3,2022_3T.xlsx,salamanca,Castilla y Leon
+832,empresas,Segovia,7,6,0,1,,5,0,2,2022_3T.xlsx,segovia,Castilla y Leon
+833,empresas,Soria,1,1,0,0,,0,0,1,2022_3T.xlsx,soria,Castilla y Leon
+834,empresas,Valladolid,15,14,1,0,,7,0,8,2022_3T.xlsx,valladolid,Castilla y Leon
+835,empresas,Zamora,0,0,0,0,,0,0,0,2022_3T.xlsx,zamora,Castilla y Leon
+836,empresas,Castilla-La Mancha,47,46,0,1,,13,1,33,2022_3T.xlsx,castilla la mancha,
+837,empresas,Albacete,16,16,0,0,,6,0,10,2022_3T.xlsx,albacete,Castilla La Mancha
+838,empresas,Ciudad Real,3,3,0,0,,0,0,3,2022_3T.xlsx,ciudad real,Castilla La Mancha
+839,empresas,Cuenca,7,7,0,0,,0,1,6,2022_3T.xlsx,cuenca,Castilla La Mancha
+840,empresas,Guadalajara,4,3,0,1,,2,0,2,2022_3T.xlsx,guadalajara,Castilla La Mancha
+841,empresas,Toledo,17,17,0,0,,5,0,12,2022_3T.xlsx,toledo,Castilla La Mancha
+842,empresas,Cataluña,452,446,3,3,,121,4,327,2022_3T.xlsx,cataluna,
+843,empresas,Barcelona,368,366,0,2,,88,3,277,2022_3T.xlsx,barcelona,Cataluña
+844,empresas,Girona,38,35,3,0,,14,1,23,2022_3T.xlsx,girona,Cataluña
+845,empresas,Lleida,31,31,0,0,,9,0,22,2022_3T.xlsx,lleida,Cataluña
+846,empresas,Tarragona,15,14,0,1,,10,0,5,2022_3T.xlsx,tarragona,Cataluña
+847,empresas,Comunitat Valenciana,264,261,3,0,,50,12,202,2022_3T.xlsx,comunitat valenciana,
+848,empresas,Alicante,75,75,0,0,,17,4,54,2022_3T.xlsx,alicante,Valencia
+849,empresas,Castellón,24,24,0,0,,8,1,15,2022_3T.xlsx,castellon,Valencia
+850,empresas,Valencia,165,162,3,0,,25,7,133,2022_3T.xlsx,valencia,Valencia
+851,empresas,Extremadura,25,25,0,0,,6,1,18,2022_3T.xlsx,extremadura,
+852,empresas,Badajoz,13,13,0,0,,6,1,6,2022_3T.xlsx,badajoz,Extremadura
+853,empresas,Cáceres,12,12,0,0,,0,0,12,2022_3T.xlsx,caceres,Extremadura
+854,empresas,Galicia,59,55,4,0,,36,0,23,2022_3T.xlsx,galicia,
+855,empresas,A Coruña,21,21,0,0,,11,0,10,2022_3T.xlsx,a coruna,Galicia
+856,empresas,Lugo,21,18,3,0,,13,0,8,2022_3T.xlsx,lugo,Galicia
+857,empresas,Ourense,0,0,0,0,,0,0,0,2022_3T.xlsx,ourense,Galicia
+858,empresas,Pontevedra,17,16,1,0,,12,0,5,2022_3T.xlsx,pontevedra,Galicia
+859,empresas,Madrid,455,451,2,2,,54,9,392,2022_3T.xlsx,madrid,Madrid
+860,empresas,Murcia,51,46,3,2,,27,6,18,2022_3T.xlsx,murcia,Murcia
+861,empresas,Navarra,10,10,0,0,,2,0,8,2022_3T.xlsx,navarra,Navarra
+862,empresas,Pais Vasco,100,99,1,0,,48,8,44,2022_3T.xlsx,pais vasco,
+863,empresas,Araba/Álava,17,17,0,0,,7,0,10,2022_3T.xlsx,araba alava,Pais Vasco
+864,empresas,Bizkaia,55,55,0,0,,31,5,19,2022_3T.xlsx,bizkaia,Pais Vasco
+865,empresas,Gipuzkoa,28,27,1,0,,10,3,15,2022_3T.xlsx,gipuzkoa,Pais Vasco
+866,empresas,La Rioja,8,8,0,0,,2,0,6,2022_3T.xlsx,la rioja,La Rioja
+867,empresas,Ceuta y Melilla,0,0,0,0,,0,0,0,2022_3T.xlsx,ceuta y melilla,
+868,fisica,Andalucía,671,393,3,275,,231,36,404,2022_4T.xlsx,andalucia,
+869,fisica,Almería,71,52,2,17,,19,13,39,2022_4T.xlsx,almeria,Andalucia
+870,fisica,Cádiz,103,69,1,33,,36,5,62,2022_4T.xlsx,cadiz,Andalucia
+871,fisica,Córdoba,49,21,0,28,,18,0,31,2022_4T.xlsx,cordoba,Andalucia
+872,fisica,Granada,80,54,0,26,,40,3,37,2022_4T.xlsx,granada,Andalucia
+873,fisica,Huelva,40,21,0,19,,11,1,28,2022_4T.xlsx,huelva,Andalucia
+874,fisica,Jaén,21,4,0,17,,15,1,5,2022_4T.xlsx,jaen,Andalucia
+875,fisica,Málaga,117,79,0,38,,41,3,73,2022_4T.xlsx,malaga,Andalucia
+876,fisica,Sevilla,190,93,0,97,,51,10,129,2022_4T.xlsx,sevilla,Andalucia
+877,fisica,Aragón,189,143,1,45,,87,0,102,2022_4T.xlsx,aragon,
+878,fisica,Huesca,30,20,0,10,,24,0,6,2022_4T.xlsx,huesca,Aragon
+879,fisica,Teruel,3,3,0,0,,2,0,1,2022_4T.xlsx,teruel,Aragon
+880,fisica,Zaragoza,156,120,1,35,,61,0,95,2022_4T.xlsx,zaragoza,Aragon
+881,fisica,Asturias,157,131,2,24,,50,1,106,2022_4T.xlsx,asturias,Asturias
+882,fisica,"Balears, Illes",177,143,2,32,,110,2,65,2022_4T.xlsx,balears illes,Baleares
+883,fisica,Canarias,246,83,0,163,,129,1,116,2022_4T.xlsx,canarias,
+884,fisica,Las Palmas de Gran Canaria,197,67,0,130,,100,1,96,2022_4T.xlsx,las palmas de gran canaria,
+885,fisica,Santa Cruz de Tenerife,49,16,0,33,,29,0,20,2022_4T.xlsx,santa cruz de tenerife,Canarias
+886,fisica,Cantabria,74,68,0,6,,40,0,34,2022_4T.xlsx,cantabria,Cantabria
+887,fisica,Castilla y León,202,166,0,36,,98,3,101,2022_4T.xlsx,castilla y leon,
+888,fisica,Ávila,11,11,0,0,,0,0,11,2022_4T.xlsx,avila,Castilla y Leon
+889,fisica,Burgos,22,18,0,4,,14,0,8,2022_4T.xlsx,burgos,Castilla y Leon
+890,fisica,León,26,20,0,6,,17,0,9,2022_4T.xlsx,leon,Castilla y Leon
+891,fisica,Palencia,4,3,0,1,,1,0,3,2022_4T.xlsx,palencia,Castilla y Leon
+892,fisica,Salamanca,38,36,0,2,,9,0,29,2022_4T.xlsx,salamanca,Castilla y Leon
+893,fisica,Segovia,13,10,0,3,,3,0,10,2022_4T.xlsx,segovia,Castilla y Leon
+894,fisica,Soria,13,9,0,4,,11,2,0,2022_4T.xlsx,soria,Castilla y Leon
+895,fisica,Valladolid,73,58,0,15,,43,1,29,2022_4T.xlsx,valladolid,Castilla y Leon
+896,fisica,Zamora,2,1,0,1,,0,0,2,2022_4T.xlsx,zamora,Castilla y Leon
+897,fisica,Castilla-La Mancha,184,144,6,34,,88,2,94,2022_4T.xlsx,castilla la mancha,
+898,fisica,Albacete,71,69,0,2,,16,0,55,2022_4T.xlsx,albacete,Castilla La Mancha
+899,fisica,Ciudad Real,2,0,0,2,,2,0,0,2022_4T.xlsx,ciudad real,Castilla La Mancha
+900,fisica,Cuenca,10,6,0,4,,9,0,1,2022_4T.xlsx,cuenca,Castilla La Mancha
+901,fisica,Guadalajara,64,44,0,20,,41,0,23,2022_4T.xlsx,guadalajara,Castilla La Mancha
+902,fisica,Toledo,37,25,6,6,,20,2,15,2022_4T.xlsx,toledo,Castilla La Mancha
+903,fisica,Cataluña,1518,894,4,620,,714,2,802,2022_4T.xlsx,cataluna,
+904,fisica,Barcelona,1204,679,2,523,,620,1,583,2022_4T.xlsx,barcelona,Cataluña
+905,fisica,Girona,200,130,0,70,,33,0,167,2022_4T.xlsx,girona,Cataluña
+906,fisica,Lleida,97,81,2,14,,50,1,46,2022_4T.xlsx,lleida,Cataluña
+907,fisica,Tarragona,17,4,0,13,,11,0,6,2022_4T.xlsx,tarragona,Cataluña
+908,fisica,Comunitat Valenciana,688,557,1,130,,258,10,420,2022_4T.xlsx,comunitat valenciana,
+909,fisica,Alicante,216,175,0,41,,76,6,134,2022_4T.xlsx,alicante,Valencia
+910,fisica,Castellón,81,69,0,12,,43,2,36,2022_4T.xlsx,castellon,Valencia
+911,fisica,Valencia,391,313,1,77,,139,2,250,2022_4T.xlsx,valencia,Valencia
+912,fisica,Extremadura,77,71,0,6,,30,0,47,2022_4T.xlsx,extremadura,
+913,fisica,Badajoz,63,57,0,6,,28,0,35,2022_4T.xlsx,badajoz,Extremadura
+914,fisica,Cáceres,14,14,0,0,,2,0,12,2022_4T.xlsx,caceres,Extremadura
+915,fisica,Galicia,220,153,1,66,,82,0,138,2022_4T.xlsx,galicia,
+916,fisica,A Coruña,99,72,0,27,,17,0,82,2022_4T.xlsx,a coruna,Galicia
+917,fisica,Lugo,38,27,0,11,,22,0,16,2022_4T.xlsx,lugo,Galicia
+918,fisica,Ourense,15,14,0,1,,3,0,12,2022_4T.xlsx,ourense,Galicia
+919,fisica,Pontevedra,68,40,1,27,,40,0,28,2022_4T.xlsx,pontevedra,Galicia
+920,fisica,Madrid,875,501,2,372,,334,45,496,2022_4T.xlsx,madrid,Madrid
+921,fisica,Murcia,242,195,1,46,,104,2,136,2022_4T.xlsx,murcia,Murcia
+922,fisica,Navarra,29,14,0,15,,8,0,21,2022_4T.xlsx,navarra,Navarra
+923,fisica,Pais Vasco,142,122,0,20,,60,2,80,2022_4T.xlsx,pais vasco,
+924,fisica,Araba/Álava,22,14,0,8,,10,0,12,2022_4T.xlsx,araba alava,Pais Vasco
+925,fisica,Bizkaia,74,66,0,8,,29,0,45,2022_4T.xlsx,bizkaia,Pais Vasco
+926,fisica,Gipuzkoa,46,42,0,4,,21,2,23,2022_4T.xlsx,gipuzkoa,Pais Vasco
+927,fisica,La Rioja,31,29,0,2,,8,0,23,2022_4T.xlsx,la rioja,La Rioja
+928,fisica,Ceuta y Melilla,13,4,0,9,,2,0,11,2022_4T.xlsx,ceuta y melilla,
+929,fisica,Ceuta,11,2,0,9,,2,0,9,2022_4T.xlsx,ceuta,Ceuta
+930,fisica,Melilla,2,2,0,0,,0,0,2,2022_4T.xlsx,melilla,Melilla
+931,empresas,Andalucía,190,179,8,3,,32,87,71,2022_4T.xlsx,andalucia,
+932,empresas,Almería,22,20,2,0,,1,5,16,2022_4T.xlsx,almeria,Andalucia
+933,empresas,Cádiz,29,29,0,0,,7,10,12,2022_4T.xlsx,cadiz,Andalucia
+934,empresas,Córdoba,11,8,3,0,,2,4,5,2022_4T.xlsx,cordoba,Andalucia
+935,empresas,Granada,16,14,1,1,,4,5,7,2022_4T.xlsx,granada,Andalucia
+936,empresas,Huelva,9,9,0,0,,1,3,5,2022_4T.xlsx,huelva,Andalucia
+937,empresas,Jaén,6,6,0,0,,2,1,3,2022_4T.xlsx,jaen,Andalucia
+938,empresas,Málaga,32,31,0,1,,4,14,14,2022_4T.xlsx,malaga,Andalucia
+939,empresas,Sevilla,65,62,2,1,,11,45,9,2022_4T.xlsx,sevilla,Andalucia
+940,empresas,Aragón,34,33,1,0,,14,0,20,2022_4T.xlsx,aragon,
+941,empresas,Huesca,2,2,0,0,,2,0,0,2022_4T.xlsx,huesca,Aragon
+942,empresas,Teruel,1,1,0,0,,1,0,0,2022_4T.xlsx,teruel,Aragon
+943,empresas,Zaragoza,31,30,1,0,,11,0,20,2022_4T.xlsx,zaragoza,Aragon
+944,empresas,Asturias,23,22,1,0,,4,6,13,2022_4T.xlsx,asturias,Asturias
+945,empresas,"Balears, Illes",24,22,2,0,,15,2,7,2022_4T.xlsx,balears illes,Baleares
+946,empresas,Canarias,31,28,1,2,,17,2,12,2022_4T.xlsx,canarias,
+947,empresas,Las Palmas de Gran Canaria,16,15,0,1,,9,2,5,2022_4T.xlsx,las palmas de gran canaria,
+948,empresas,Santa Cruz de Tenerife,15,13,1,1,,8,0,7,2022_4T.xlsx,santa cruz de tenerife,Canarias
+949,empresas,Cantabria,8,8,0,0,,3,0,5,2022_4T.xlsx,cantabria,Cantabria
+950,empresas,Castilla y León,49,44,3,2,,18,14,17,2022_4T.xlsx,castilla y leon,
+951,empresas,Ávila,2,2,0,0,,0,0,2,2022_4T.xlsx,avila,Castilla y Leon
+952,empresas,Burgos,14,12,1,1,,6,4,4,2022_4T.xlsx,burgos,Castilla y Leon
+953,empresas,León,5,3,2,0,,5,0,0,2022_4T.xlsx,leon,Castilla y Leon
+954,empresas,Palencia,2,2,0,0,,0,2,0,2022_4T.xlsx,palencia,Castilla y Leon
+955,empresas,Salamanca,9,9,0,0,,2,6,1,2022_4T.xlsx,salamanca,Castilla y Leon
+956,empresas,Segovia,3,2,0,1,,1,0,2,2022_4T.xlsx,segovia,Castilla y Leon
+957,empresas,Soria,2,2,0,0,,1,0,1,2022_4T.xlsx,soria,Castilla y Leon
+958,empresas,Valladolid,10,10,0,0,,1,2,7,2022_4T.xlsx,valladolid,Castilla y Leon
+959,empresas,Zamora,2,2,0,0,,2,0,0,2022_4T.xlsx,zamora,Castilla y Leon
+960,empresas,Castilla-La Mancha,42,37,1,4,,18,1,23,2022_4T.xlsx,castilla la mancha,
+961,empresas,Albacete,14,13,0,1,,8,0,6,2022_4T.xlsx,albacete,Castilla La Mancha
+962,empresas,Ciudad Real,0,0,0,0,,0,0,0,2022_4T.xlsx,ciudad real,Castilla La Mancha
+963,empresas,Cuenca,2,2,0,0,,2,0,0,2022_4T.xlsx,cuenca,Castilla La Mancha
+964,empresas,Guadalajara,8,7,0,1,,3,0,5,2022_4T.xlsx,guadalajara,Castilla La Mancha
+965,empresas,Toledo,18,15,1,2,,5,1,12,2022_4T.xlsx,toledo,Castilla La Mancha
+966,empresas,Cataluña,306,299,6,1,,106,4,196,2022_4T.xlsx,cataluna,
+967,empresas,Barcelona,261,258,3,0,,77,3,181,2022_4T.xlsx,barcelona,Cataluña
+968,empresas,Girona,16,13,2,1,,10,0,6,2022_4T.xlsx,girona,Cataluña
+969,empresas,Lleida,22,21,1,0,,14,0,8,2022_4T.xlsx,lleida,Cataluña
+970,empresas,Tarragona,7,7,0,0,,5,1,1,2022_4T.xlsx,tarragona,Cataluña
+971,empresas,Comunitat Valenciana,259,251,6,2,,48,33,178,2022_4T.xlsx,comunitat valenciana,
+972,empresas,Alicante,83,78,5,0,,16,13,54,2022_4T.xlsx,alicante,Valencia
+973,empresas,Castellón,32,31,0,1,,4,9,19,2022_4T.xlsx,castellon,Valencia
+974,empresas,Valencia,144,142,1,1,,28,11,105,2022_4T.xlsx,valencia,Valencia
+975,empresas,Extremadura,15,15,0,0,,5,0,10,2022_4T.xlsx,extremadura,
+976,empresas,Badajoz,10,10,0,0,,4,0,6,2022_4T.xlsx,badajoz,Extremadura
+977,empresas,Cáceres,5,5,0,0,,1,0,4,2022_4T.xlsx,caceres,Extremadura
+978,empresas,Galicia,61,59,2,0,,18,17,26,2022_4T.xlsx,galicia,
+979,empresas,A Coruña,31,30,1,0,,8,8,15,2022_4T.xlsx,a coruna,Galicia
+980,empresas,Lugo,9,9,0,0,,6,0,3,2022_4T.xlsx,lugo,Galicia
+981,empresas,Ourense,2,2,0,0,,0,2,0,2022_4T.xlsx,ourense,Galicia
+982,empresas,Pontevedra,19,18,1,0,,4,7,8,2022_4T.xlsx,pontevedra,Galicia
+983,empresas,Madrid,458,449,8,1,,38,79,341,2022_4T.xlsx,madrid,Madrid
+984,empresas,Murcia,40,33,2,5,,15,10,15,2022_4T.xlsx,murcia,Murcia
+985,empresas,Navarra,5,5,0,0,,0,0,5,2022_4T.xlsx,navarra,Navarra
+986,empresas,Pais Vasco,64,64,0,0,,7,26,31,2022_4T.xlsx,pais vasco,
+987,empresas,Araba/Álava,8,8,0,0,,3,0,5,2022_4T.xlsx,araba alava,Pais Vasco
+988,empresas,Bizkaia,37,37,0,0,,4,17,16,2022_4T.xlsx,bizkaia,Pais Vasco
+989,empresas,Gipuzkoa,19,19,0,0,,0,9,10,2022_4T.xlsx,gipuzkoa,Pais Vasco
+990,empresas,La Rioja,3,3,0,0,,3,0,0,2022_4T.xlsx,la rioja,La Rioja
+991,empresas,Ceuta y Melilla,1,1,0,0,,0,0,1,2022_4T.xlsx,ceuta y melilla,
+992,fisica,Andalucía,816,709,3,104,,282,2,532,2023_1T.xlsx,andalucia,
+993,fisica,Almería,88,76,2,10,,25,0,63,2023_1T.xlsx,almeria,Andalucia
+994,fisica,Cádiz,61,55,0,6,,34,0,27,2023_1T.xlsx,cadiz,Andalucia
+995,fisica,Córdoba,40,33,0,7,,7,0,33,2023_1T.xlsx,cordoba,Andalucia
+996,fisica,Granada,106,101,0,5,,49,0,57,2023_1T.xlsx,granada,Andalucia
+997,fisica,Huelva,23,22,0,1,,4,0,19,2023_1T.xlsx,huelva,Andalucia
+998,fisica,Jaén,44,37,1,6,,27,0,17,2023_1T.xlsx,jaen,Andalucia
+999,fisica,Málaga,93,83,0,10,,20,1,72,2023_1T.xlsx,malaga,Andalucia
+1000,fisica,Sevilla,361,302,0,59,,116,1,244,2023_1T.xlsx,sevilla,Andalucia
+1001,fisica,Aragón,218,204,0,14,,66,0,152,2023_1T.xlsx,aragon,
+1002,fisica,Huesca,23,18,0,5,,9,0,14,2023_1T.xlsx,huesca,Aragon
+1003,fisica,Teruel,12,11,0,1,,5,0,7,2023_1T.xlsx,teruel,Aragon
+1004,fisica,Zaragoza,183,175,0,8,,52,0,131,2023_1T.xlsx,zaragoza,Aragon
+1005,fisica,Asturias,140,134,0,6,,19,0,121,2023_1T.xlsx,asturias,Asturias
+1006,fisica,"Balears, Illes",237,220,0,17,,53,0,184,2023_1T.xlsx,balears illes,Baleares
+1007,fisica,Canarias,214,189,0,25,,22,0,192,2023_1T.xlsx,canarias,
+1008,fisica,Las Palmas de Gran Canaria,150,129,0,21,,9,0,141,2023_1T.xlsx,las palmas de gran canaria,
+1009,fisica,Santa Cruz de Tenerife,64,60,0,4,,13,0,51,2023_1T.xlsx,santa cruz de tenerife,Canarias
+1010,fisica,Cantabria,26,25,0,1,,10,0,16,2023_1T.xlsx,cantabria,Cantabria
+1011,fisica,Castilla y León,149,138,1,10,,61,0,88,2023_1T.xlsx,castilla y leon,
+1012,fisica,Ávila,6,6,0,0,,0,0,6,2023_1T.xlsx,avila,Castilla y Leon
+1013,fisica,Burgos,35,33,1,1,,9,0,26,2023_1T.xlsx,burgos,Castilla y Leon
+1014,fisica,León,19,19,0,0,,8,0,11,2023_1T.xlsx,leon,Castilla y Leon
+1015,fisica,Palencia,1,1,0,0,,1,0,0,2023_1T.xlsx,palencia,Castilla y Leon
+1016,fisica,Salamanca,37,36,0,1,,8,0,29,2023_1T.xlsx,salamanca,Castilla y Leon
+1017,fisica,Segovia,2,2,0,0,,2,0,0,2023_1T.xlsx,segovia,Castilla y Leon
+1018,fisica,Soria,15,14,0,1,,13,0,2,2023_1T.xlsx,soria,Castilla y Leon
+1019,fisica,Valladolid,28,23,0,5,,16,0,12,2023_1T.xlsx,valladolid,Castilla y Leon
+1020,fisica,Zamora,6,4,0,2,,4,0,2,2023_1T.xlsx,zamora,Castilla y Leon
+1021,fisica,Castilla-La Mancha,99,91,1,7,,20,0,79,2023_1T.xlsx,castilla la mancha,
+1022,fisica,Albacete,14,14,0,0,,0,0,14,2023_1T.xlsx,albacete,Castilla La Mancha
+1023,fisica,Ciudad Real,9,6,0,3,,2,0,7,2023_1T.xlsx,ciudad real,Castilla La Mancha
+1024,fisica,Cuenca,7,7,0,0,,1,0,6,2023_1T.xlsx,cuenca,Castilla La Mancha
+1025,fisica,Guadalajara,19,16,0,3,,14,0,5,2023_1T.xlsx,guadalajara,Castilla La Mancha
+1026,fisica,Toledo,50,48,1,1,,3,0,47,2023_1T.xlsx,toledo,Castilla La Mancha
+1027,fisica,Cataluña,1598,1278,2,318,,578,0,1020,2023_1T.xlsx,cataluna,
+1028,fisica,Barcelona,1253,976,2,275,,452,0,801,2023_1T.xlsx,barcelona,Cataluña
+1029,fisica,Girona,89,75,0,14,,27,0,62,2023_1T.xlsx,girona,Cataluña
+1030,fisica,Lleida,127,123,0,4,,49,0,78,2023_1T.xlsx,lleida,Cataluña
+1031,fisica,Tarragona,129,104,0,25,,50,0,79,2023_1T.xlsx,tarragona,Cataluña
+1032,fisica,Comunitat Valenciana,714,670,1,43,,142,0,572,2023_1T.xlsx,comunitat valenciana,
+1033,fisica,Alicante,213,210,0,3,,31,0,182,2023_1T.xlsx,alicante,Valencia
+1034,fisica,Castellón,69,67,0,2,,22,0,47,2023_1T.xlsx,castellon,Valencia
+1035,fisica,Valencia,432,393,1,38,,89,0,343,2023_1T.xlsx,valencia,Valencia
+1036,fisica,Extremadura,45,43,0,2,,18,0,27,2023_1T.xlsx,extremadura,
+1037,fisica,Badajoz,45,43,0,2,,18,0,27,2023_1T.xlsx,badajoz,Extremadura
+1038,fisica,Cáceres,0,0,0,0,,0,0,0,2023_1T.xlsx,caceres,Extremadura
+1039,fisica,Galicia,171,150,0,21,,48,0,123,2023_1T.xlsx,galicia,
+1040,fisica,A Coruña,46,37,0,9,,5,0,41,2023_1T.xlsx,a coruna,Galicia
+1041,fisica,Lugo,28,22,0,6,,18,0,10,2023_1T.xlsx,lugo,Galicia
+1042,fisica,Ourense,11,11,0,0,,1,0,10,2023_1T.xlsx,ourense,Galicia
+1043,fisica,Pontevedra,86,80,0,6,,24,0,62,2023_1T.xlsx,pontevedra,Galicia
+1044,fisica,Madrid,692,558,3,131,,181,0,511,2023_1T.xlsx,madrid,Madrid
+1045,fisica,Murcia,203,192,0,11,,48,1,154,2023_1T.xlsx,murcia,Murcia
+1046,fisica,Navarra,16,15,0,1,,2,0,14,2023_1T.xlsx,navarra,Navarra
+1047,fisica,Pais Vasco,103,95,1,7,,26,0,77,2023_1T.xlsx,pais vasco,
+1048,fisica,Araba/Álava,11,11,0,0,,0,0,11,2023_1T.xlsx,araba alava,Pais Vasco
+1049,fisica,Bizkaia,22,21,1,0,,6,0,16,2023_1T.xlsx,bizkaia,Pais Vasco
+1050,fisica,Gipuzkoa,70,63,0,7,,20,0,50,2023_1T.xlsx,gipuzkoa,Pais Vasco
+1051,fisica,La Rioja,12,12,0,0,,1,0,11,2023_1T.xlsx,la rioja,La Rioja
+1052,fisica,Ceuta y Melilla,19,11,0,8,,2,0,17,2023_1T.xlsx,ceuta y melilla,
+1053,fisica,Ceuta,15,9,0,6,,0,0,15,2023_1T.xlsx,ceuta,Ceuta
+1054,fisica,Melilla,4,2,0,2,,2,0,2,2023_1T.xlsx,melilla,Melilla
+1055,empresas,Andalucía,109,101,6,2,,56,2,51,2023_1T.xlsx,andalucia,
+1056,empresas,Almería,9,9,0,0,,4,0,5,2023_1T.xlsx,almeria,Andalucia
+1057,empresas,Cádiz,7,7,0,0,,4,0,3,2023_1T.xlsx,cadiz,Andalucia
+1058,empresas,Córdoba,11,11,0,0,,2,0,9,2023_1T.xlsx,cordoba,Andalucia
+1059,empresas,Granada,10,8,2,0,,5,0,5,2023_1T.xlsx,granada,Andalucia
+1060,empresas,Huelva,4,4,0,0,,1,0,3,2023_1T.xlsx,huelva,Andalucia
+1061,empresas,Jaén,5,5,0,0,,1,0,4,2023_1T.xlsx,jaen,Andalucia
+1062,empresas,Málaga,17,16,0,1,,8,1,8,2023_1T.xlsx,malaga,Andalucia
+1063,empresas,Sevilla,46,41,4,1,,31,1,14,2023_1T.xlsx,sevilla,Andalucia
+1064,empresas,Aragón,45,42,2,1,,22,2,21,2023_1T.xlsx,aragon,
+1065,empresas,Huesca,4,3,0,1,,2,0,2,2023_1T.xlsx,huesca,Aragon
+1066,empresas,Teruel,5,5,0,0,,2,0,3,2023_1T.xlsx,teruel,Aragon
+1067,empresas,Zaragoza,36,34,2,0,,18,2,16,2023_1T.xlsx,zaragoza,Aragon
+1068,empresas,Asturias,18,18,0,0,,8,0,10,2023_1T.xlsx,asturias,Asturias
+1069,empresas,"Balears, Illes",26,24,1,1,,14,0,12,2023_1T.xlsx,balears illes,Baleares
+1070,empresas,Canarias,25,23,2,0,,12,0,13,2023_1T.xlsx,canarias,
+1071,empresas,Las Palmas de Gran Canaria,15,13,2,0,,8,0,7,2023_1T.xlsx,las palmas de gran canaria,
+1072,empresas,Santa Cruz de Tenerife,10,10,0,0,,4,0,6,2023_1T.xlsx,santa cruz de tenerife,Canarias
+1073,empresas,Cantabria,4,4,0,0,,1,0,3,2023_1T.xlsx,cantabria,Cantabria
+1074,empresas,Castilla y León,31,28,1,2,,20,1,10,2023_1T.xlsx,castilla y leon,
+1075,empresas,Ávila,2,2,0,0,,1,0,1,2023_1T.xlsx,avila,Castilla y Leon
+1076,empresas,Burgos,9,7,0,2,,7,0,2,2023_1T.xlsx,burgos,Castilla y Leon
+1077,empresas,León,2,1,1,0,,2,0,0,2023_1T.xlsx,leon,Castilla y Leon
+1078,empresas,Palencia,1,1,0,0,,1,0,0,2023_1T.xlsx,palencia,Castilla y Leon
+1079,empresas,Salamanca,7,7,0,0,,3,1,3,2023_1T.xlsx,salamanca,Castilla y Leon
+1080,empresas,Segovia,2,2,0,0,,1,0,1,2023_1T.xlsx,segovia,Castilla y Leon
+1081,empresas,Soria,0,0,0,0,,0,0,0,2023_1T.xlsx,soria,Castilla y Leon
+1082,empresas,Valladolid,5,5,0,0,,3,0,2,2023_1T.xlsx,valladolid,Castilla y Leon
+1083,empresas,Zamora,3,3,0,0,,2,0,1,2023_1T.xlsx,zamora,Castilla y Leon
+1084,empresas,Castilla-La Mancha,25,23,1,1,,9,0,16,2023_1T.xlsx,castilla la mancha,
+1085,empresas,Albacete,7,6,0,1,,1,0,6,2023_1T.xlsx,albacete,Castilla La Mancha
+1086,empresas,Ciudad Real,10,10,0,0,,4,0,6,2023_1T.xlsx,ciudad real,Castilla La Mancha
+1087,empresas,Cuenca,3,3,0,0,,1,0,2,2023_1T.xlsx,cuenca,Castilla La Mancha
+1088,empresas,Guadalajara,2,2,0,0,,2,0,0,2023_1T.xlsx,guadalajara,Castilla La Mancha
+1089,empresas,Toledo,3,2,1,0,,1,0,2,2023_1T.xlsx,toledo,Castilla La Mancha
+1090,empresas,Cataluña,262,256,3,3,,108,0,154,2023_1T.xlsx,cataluna,
+1091,empresas,Barcelona,231,226,3,2,,88,0,143,2023_1T.xlsx,barcelona,Cataluña
+1092,empresas,Girona,8,8,0,0,,5,0,3,2023_1T.xlsx,girona,Cataluña
+1093,empresas,Lleida,10,10,0,0,,5,0,5,2023_1T.xlsx,lleida,Cataluña
+1094,empresas,Tarragona,13,12,0,1,,10,0,3,2023_1T.xlsx,tarragona,Cataluña
+1095,empresas,Comunitat Valenciana,174,167,3,4,,67,0,107,2023_1T.xlsx,comunitat valenciana,
+1096,empresas,Alicante,34,34,0,0,,15,0,19,2023_1T.xlsx,alicante,Valencia
+1097,empresas,Castellón,35,30,1,4,,18,0,17,2023_1T.xlsx,castellon,Valencia
+1098,empresas,Valencia,105,103,2,0,,34,0,71,2023_1T.xlsx,valencia,Valencia
+1099,empresas,Extremadura,6,4,2,0,,5,0,1,2023_1T.xlsx,extremadura,
+1100,empresas,Badajoz,4,3,1,0,,3,0,1,2023_1T.xlsx,badajoz,Extremadura
+1101,empresas,Cáceres,2,1,1,0,,2,0,0,2023_1T.xlsx,caceres,Extremadura
+1102,empresas,Galicia,31,30,1,0,,19,1,11,2023_1T.xlsx,galicia,
+1103,empresas,A Coruña,5,5,0,0,,1,0,4,2023_1T.xlsx,a coruna,Galicia
+1104,empresas,Lugo,4,4,0,0,,4,0,0,2023_1T.xlsx,lugo,Galicia
+1105,empresas,Ourense,1,0,1,0,,1,0,0,2023_1T.xlsx,ourense,Galicia
+1106,empresas,Pontevedra,21,21,0,0,,13,1,7,2023_1T.xlsx,pontevedra,Galicia
+1107,empresas,Madrid,192,180,10,2,,66,2,124,2023_1T.xlsx,madrid,Madrid
+1108,empresas,Murcia,26,24,1,1,,15,0,11,2023_1T.xlsx,murcia,Murcia
+1109,empresas,Navarra,6,6,0,0,,5,0,1,2023_1T.xlsx,navarra,Navarra
+1110,empresas,Pais Vasco,47,46,1,0,,19,3,25,2023_1T.xlsx,pais vasco,
+1111,empresas,Araba/Álava,6,5,1,0,,2,0,4,2023_1T.xlsx,araba alava,Pais Vasco
+1112,empresas,Bizkaia,25,25,0,0,,13,1,11,2023_1T.xlsx,bizkaia,Pais Vasco
+1113,empresas,Gipuzkoa,16,16,0,0,,4,2,10,2023_1T.xlsx,gipuzkoa,Pais Vasco
+1114,empresas,La Rioja,8,8,0,0,,6,0,2,2023_1T.xlsx,la rioja,La Rioja
+1115,empresas,Ceuta y Melilla,2,2,0,0,,0,1,1,2023_1T.xlsx,ceuta y melilla,
+1116,fisica,Andalucía,870,819,2,49,,304,0,566,2023_2T.xlsx,andalucia,
+1117,fisica,Almería,185,173,2,10,,46,0,139,2023_2T.xlsx,almeria,Andalucia
+1118,fisica,Cádiz,26,19,0,7,,9,0,17,2023_2T.xlsx,cadiz,Andalucia
+1119,fisica,Córdoba,35,27,0,8,,6,0,29,2023_2T.xlsx,cordoba,Andalucia
+1120,fisica,Granada,90,84,0,6,,62,0,28,2023_2T.xlsx,granada,Andalucia
+1121,fisica,Huelva,50,49,0,1,,29,0,21,2023_2T.xlsx,huelva,Andalucia
+1122,fisica,Jaén,43,42,0,1,,21,0,22,2023_2T.xlsx,jaen,Andalucia
+1123,fisica,Málaga,170,164,0,6,,57,0,113,2023_2T.xlsx,malaga,Andalucia
+1124,fisica,Sevilla,271,261,0,10,,74,0,197,2023_2T.xlsx,sevilla,Andalucia
+1125,fisica,Aragón,150,145,0,5,,36,0,114,2023_2T.xlsx,aragon,
+1126,fisica,Huesca,47,44,0,3,,10,0,37,2023_2T.xlsx,huesca,Aragon
+1127,fisica,Teruel,9,9,0,0,,4,0,5,2023_2T.xlsx,teruel,Aragon
+1128,fisica,Zaragoza,94,92,0,2,,22,0,72,2023_2T.xlsx,zaragoza,Aragon
+1129,fisica,Asturias,112,110,0,2,,30,0,82,2023_2T.xlsx,asturias,Asturias
+1130,fisica,"Balears, Illes",197,190,2,5,,44,0,153,2023_2T.xlsx,balears illes,Baleares
+1131,fisica,Canarias,584,511,0,73,,42,1,541,2023_2T.xlsx,canarias,
+1132,fisica,Las Palmas de Gran Canaria,370,358,0,12,,10,1,359,2023_2T.xlsx,las palmas de gran canaria,
+1133,fisica,Santa Cruz de Tenerife,214,153,0,61,,32,0,182,2023_2T.xlsx,santa cruz de tenerife,Canarias
+1134,fisica,Cantabria,40,40,0,0,,4,0,36,2023_2T.xlsx,cantabria,Cantabria
+1135,fisica,Castilla y León,302,296,0,6,,87,0,215,2023_2T.xlsx,castilla y leon,
+1136,fisica,Ávila,30,30,0,0,,2,0,28,2023_2T.xlsx,avila,Castilla y Leon
+1137,fisica,Burgos,26,26,0,0,,5,0,21,2023_2T.xlsx,burgos,Castilla y Leon
+1138,fisica,León,94,92,0,2,,26,0,68,2023_2T.xlsx,leon,Castilla y Leon
+1139,fisica,Palencia,18,18,0,0,,5,0,13,2023_2T.xlsx,palencia,Castilla y Leon
+1140,fisica,Salamanca,35,35,0,0,,12,0,23,2023_2T.xlsx,salamanca,Castilla y Leon
+1141,fisica,Segovia,23,23,0,0,,3,0,20,2023_2T.xlsx,segovia,Castilla y Leon
+1142,fisica,Soria,8,6,0,2,,4,0,4,2023_2T.xlsx,soria,Castilla y Leon
+1143,fisica,Valladolid,67,65,0,2,,29,0,38,2023_2T.xlsx,valladolid,Castilla y Leon
+1144,fisica,Zamora,1,1,0,0,,1,0,0,2023_2T.xlsx,zamora,Castilla y Leon
+1145,fisica,Castilla-La Mancha,188,174,1,13,,57,0,131,2023_2T.xlsx,castilla la mancha,
+1146,fisica,Albacete,19,18,0,1,,1,0,18,2023_2T.xlsx,albacete,Castilla La Mancha
+1147,fisica,Ciudad Real,50,44,0,6,,2,0,48,2023_2T.xlsx,ciudad real,Castilla La Mancha
+1148,fisica,Cuenca,17,16,0,1,,11,0,6,2023_2T.xlsx,cuenca,Castilla La Mancha
+1149,fisica,Guadalajara,59,56,0,3,,34,0,25,2023_2T.xlsx,guadalajara,Castilla La Mancha
+1150,fisica,Toledo,43,40,1,2,,9,0,34,2023_2T.xlsx,toledo,Castilla La Mancha
+1151,fisica,Cataluña,2658,2429,0,229,,766,1,1891,2023_2T.xlsx,cataluna,
+1152,fisica,Barcelona,1987,1803,0,184,,626,1,1360,2023_2T.xlsx,barcelona,Cataluña
+1153,fisica,Girona,351,340,0,11,,57,0,294,2023_2T.xlsx,girona,Cataluña
+1154,fisica,Lleida,133,133,0,0,,30,0,103,2023_2T.xlsx,lleida,Cataluña
+1155,fisica,Tarragona,187,153,0,34,,53,0,134,2023_2T.xlsx,tarragona,Cataluña
+1156,fisica,Comunitat Valenciana,1446,1407,0,39,,237,0,1209,2023_2T.xlsx,comunitat valenciana,
+1157,fisica,Alicante,527,519,0,8,,108,0,419,2023_2T.xlsx,alicante,Valencia
+1158,fisica,Castellón,132,128,0,4,,41,0,91,2023_2T.xlsx,castellon,Valencia
+1159,fisica,Valencia,787,760,0,27,,88,0,699,2023_2T.xlsx,valencia,Valencia
+1160,fisica,Extremadura,103,101,0,2,,19,0,84,2023_2T.xlsx,extremadura,
+1161,fisica,Badajoz,50,49,0,1,,18,0,32,2023_2T.xlsx,badajoz,Extremadura
+1162,fisica,Cáceres,53,52,0,1,,1,0,52,2023_2T.xlsx,caceres,Extremadura
+1163,fisica,Galicia,429,407,1,21,,116,0,313,2023_2T.xlsx,galicia,
+1164,fisica,A Coruña,215,196,1,18,,42,0,173,2023_2T.xlsx,a coruna,Galicia
+1165,fisica,Lugo,59,58,0,1,,24,0,35,2023_2T.xlsx,lugo,Galicia
+1166,fisica,Ourense,22,22,0,0,,0,0,22,2023_2T.xlsx,ourense,Galicia
+1167,fisica,Pontevedra,133,131,0,2,,50,0,83,2023_2T.xlsx,pontevedra,Galicia
+1168,fisica,Madrid,1075,931,6,138,,240,0,835,2023_2T.xlsx,madrid,Madrid
+1169,fisica,Murcia,255,243,0,12,,46,3,206,2023_2T.xlsx,murcia,Murcia
+1170,fisica,Navarra,105,98,0,7,,20,0,85,2023_2T.xlsx,navarra,Navarra
+1171,fisica,Pais Vasco,187,185,0,2,,56,0,131,2023_2T.xlsx,pais vasco,
+1172,fisica,Araba/Álava,31,31,0,0,,10,0,21,2023_2T.xlsx,araba alava,Pais Vasco
+1173,fisica,Bizkaia,99,98,0,1,,18,0,81,2023_2T.xlsx,bizkaia,Pais Vasco
+1174,fisica,Gipuzkoa,57,56,0,1,,28,0,29,2023_2T.xlsx,gipuzkoa,Pais Vasco
+1175,fisica,La Rioja,62,62,0,0,,16,1,45,2023_2T.xlsx,la rioja,La Rioja
+1176,fisica,Ceuta y Melilla,13,7,0,6,,2,0,11,2023_2T.xlsx,ceuta y melilla,
+1177,fisica,Ceuta,13,7,0,6,,2,0,11,2023_2T.xlsx,ceuta,Ceuta
+1178,fisica,Melilla,0,0,0,0,,0,0,0,2023_2T.xlsx,melilla,Melilla
+1179,empresas,Andalucía,121,114,5,2,,68,7,46,2023_2T.xlsx,andalucia,
+1180,empresas,Almería,19,18,1,0,,9,0,10,2023_2T.xlsx,almeria,Andalucia
+1181,empresas,Cádiz,4,4,0,0,,3,0,1,2023_2T.xlsx,cadiz,Andalucia
+1182,empresas,Córdoba,8,7,0,1,,2,0,6,2023_2T.xlsx,cordoba,Andalucia
+1183,empresas,Granada,15,14,1,0,,11,3,1,2023_2T.xlsx,granada,Andalucia
+1184,empresas,Huelva,3,3,0,0,,1,0,2,2023_2T.xlsx,huelva,Andalucia
+1185,empresas,Jaén,7,7,0,0,,2,0,5,2023_2T.xlsx,jaen,Andalucia
+1186,empresas,Málaga,27,25,2,0,,17,2,8,2023_2T.xlsx,malaga,Andalucia
+1187,empresas,Sevilla,38,36,1,1,,23,2,13,2023_2T.xlsx,sevilla,Andalucia
+1188,empresas,Aragón,40,39,1,0,,13,3,24,2023_2T.xlsx,aragon,
+1189,empresas,Huesca,7,7,0,0,,3,3,1,2023_2T.xlsx,huesca,Aragon
+1190,empresas,Teruel,2,1,1,0,,0,0,2,2023_2T.xlsx,teruel,Aragon
+1191,empresas,Zaragoza,31,31,0,0,,10,0,21,2023_2T.xlsx,zaragoza,Aragon
+1192,empresas,Asturias,17,15,2,0,,10,0,7,2023_2T.xlsx,asturias,Asturias
+1193,empresas,"Balears, Illes",31,28,3,0,,18,4,9,2023_2T.xlsx,balears illes,Baleares
+1194,empresas,Canarias,33,32,1,0,,8,9,16,2023_2T.xlsx,canarias,
+1195,empresas,Las Palmas de Gran Canaria,21,21,0,0,,5,9,7,2023_2T.xlsx,las palmas de gran canaria,
+1196,empresas,Santa Cruz de Tenerife,12,11,1,0,,3,0,9,2023_2T.xlsx,santa cruz de tenerife,Canarias
+1197,empresas,Cantabria,7,7,0,0,,3,2,2,2023_2T.xlsx,cantabria,Cantabria
+1198,empresas,Castilla y León,37,37,0,0,,17,3,17,2023_2T.xlsx,castilla y leon,
+1199,empresas,Ávila,3,3,0,0,,2,0,1,2023_2T.xlsx,avila,Castilla y Leon
+1200,empresas,Burgos,5,5,0,0,,2,1,2,2023_2T.xlsx,burgos,Castilla y Leon
+1201,empresas,León,5,5,0,0,,4,0,1,2023_2T.xlsx,leon,Castilla y Leon
+1202,empresas,Palencia,3,3,0,0,,1,0,2,2023_2T.xlsx,palencia,Castilla y Leon
+1203,empresas,Salamanca,5,5,0,0,,0,1,4,2023_2T.xlsx,salamanca,Castilla y Leon
+1204,empresas,Segovia,6,6,0,0,,6,0,0,2023_2T.xlsx,segovia,Castilla y Leon
+1205,empresas,Soria,0,0,0,0,,0,0,0,2023_2T.xlsx,soria,Castilla y Leon
+1206,empresas,Valladolid,10,10,0,0,,2,1,7,2023_2T.xlsx,valladolid,Castilla y Leon
+1207,empresas,Zamora,0,0,0,0,,0,0,0,2023_2T.xlsx,zamora,Castilla y Leon
+1208,empresas,Castilla-La Mancha,23,23,0,0,,12,0,11,2023_2T.xlsx,castilla la mancha,
+1209,empresas,Albacete,5,5,0,0,,3,0,2,2023_2T.xlsx,albacete,Castilla La Mancha
+1210,empresas,Ciudad Real,9,9,0,0,,2,0,7,2023_2T.xlsx,ciudad real,Castilla La Mancha
+1211,empresas,Cuenca,4,4,0,0,,2,0,2,2023_2T.xlsx,cuenca,Castilla La Mancha
+1212,empresas,Guadalajara,1,1,0,0,,1,0,0,2023_2T.xlsx,guadalajara,Castilla La Mancha
+1213,empresas,Toledo,4,4,0,0,,4,0,0,2023_2T.xlsx,toledo,Castilla La Mancha
+1214,empresas,Cataluña,350,341,4,5,,107,13,230,2023_2T.xlsx,cataluna,
+1215,empresas,Barcelona,313,305,4,4,,93,10,210,2023_2T.xlsx,barcelona,Cataluña
+1216,empresas,Girona,20,20,0,0,,5,2,13,2023_2T.xlsx,girona,Cataluña
+1217,empresas,Lleida,7,7,0,0,,3,0,4,2023_2T.xlsx,lleida,Cataluña
+1218,empresas,Tarragona,10,9,0,1,,6,1,3,2023_2T.xlsx,tarragona,Cataluña
+1219,empresas,Comunitat Valenciana,233,228,4,1,,77,6,150,2023_2T.xlsx,comunitat valenciana,
+1220,empresas,Alicante,79,77,2,0,,23,3,53,2023_2T.xlsx,alicante,Valencia
+1221,empresas,Castellón,18,17,1,0,,13,0,5,2023_2T.xlsx,castellon,Valencia
+1222,empresas,Valencia,136,134,1,1,,41,3,92,2023_2T.xlsx,valencia,Valencia
+1223,empresas,Extremadura,18,18,0,0,,12,0,6,2023_2T.xlsx,extremadura,
+1224,empresas,Badajoz,12,12,0,0,,9,0,3,2023_2T.xlsx,badajoz,Extremadura
+1225,empresas,Cáceres,6,6,0,0,,3,0,3,2023_2T.xlsx,caceres,Extremadura
+1226,empresas,Galicia,78,76,2,0,,33,2,43,2023_2T.xlsx,galicia,
+1227,empresas,A Coruña,39,37,2,0,,11,2,26,2023_2T.xlsx,a coruna,Galicia
+1228,empresas,Lugo,14,14,0,0,,5,0,9,2023_2T.xlsx,lugo,Galicia
+1229,empresas,Ourense,4,4,0,0,,3,0,1,2023_2T.xlsx,ourense,Galicia
+1230,empresas,Pontevedra,21,21,0,0,,14,0,7,2023_2T.xlsx,pontevedra,Galicia
+1231,empresas,Madrid,206,198,7,1,,67,33,106,2023_2T.xlsx,madrid,Madrid
+1232,empresas,Murcia,36,33,3,0,,15,2,19,2023_2T.xlsx,murcia,Murcia
+1233,empresas,Navarra,15,15,0,0,,12,0,3,2023_2T.xlsx,navarra,Navarra
+1234,empresas,Pais Vasco,80,79,1,0,,28,10,42,2023_2T.xlsx,pais vasco,
+1235,empresas,Araba/Álava,14,14,0,0,,6,0,8,2023_2T.xlsx,araba alava,Pais Vasco
+1236,empresas,Bizkaia,48,47,1,0,,17,8,23,2023_2T.xlsx,bizkaia,Pais Vasco
+1237,empresas,Gipuzkoa,18,18,0,0,,5,2,11,2023_2T.xlsx,gipuzkoa,Pais Vasco
+1238,empresas,La Rioja,12,12,0,0,,3,4,5,2023_2T.xlsx,la rioja,La Rioja
+1239,empresas,Ceuta y Melilla,0,0,0,0,,0,0,0,2023_2T.xlsx,ceuta y melilla,
+1240,fisica,Andalucía,592,575,2,15,,184,2,406,2023_3T.xlsx,andalucia,
+1241,fisica,Almería,68,63,2,3,,5,0,63,2023_3T.xlsx,almeria,Andalucia
+1242,fisica,Cádiz,90,88,0,2,,51,0,39,2023_3T.xlsx,cadiz,Andalucia
+1243,fisica,Córdoba,27,25,0,2,,7,0,20,2023_3T.xlsx,cordoba,Andalucia
+1244,fisica,Granada,76,74,0,2,,27,0,49,2023_3T.xlsx,granada,Andalucia
+1245,fisica,Huelva,26,26,0,0,,4,0,22,2023_3T.xlsx,huelva,Andalucia
+1246,fisica,Jaén,27,24,0,3,,18,0,9,2023_3T.xlsx,jaen,Andalucia
+1247,fisica,Málaga,92,92,0,0,,37,1,54,2023_3T.xlsx,malaga,Andalucia
+1248,fisica,Sevilla,186,183,0,3,,35,1,150,2023_3T.xlsx,sevilla,Andalucia
+1249,fisica,Aragón,154,152,0,2,,19,0,135,2023_3T.xlsx,aragon,
+1250,fisica,Huesca,26,26,0,0,,4,0,22,2023_3T.xlsx,huesca,Aragon
+1251,fisica,Teruel,4,4,0,0,,1,0,3,2023_3T.xlsx,teruel,Aragon
+1252,fisica,Zaragoza,124,122,0,2,,14,0,110,2023_3T.xlsx,zaragoza,Aragon
+1253,fisica,Asturias,119,118,0,1,,40,0,79,2023_3T.xlsx,asturias,Asturias
+1254,fisica,"Balears, Illes",254,253,1,0,,20,0,234,2023_3T.xlsx,balears illes,Baleares
+1255,fisica,Canarias,367,341,0,26,,16,0,351,2023_3T.xlsx,canarias,
+1256,fisica,Las Palmas de Gran Canaria,164,164,0,0,,1,0,163,2023_3T.xlsx,las palmas de gran canaria,
+1257,fisica,Santa Cruz de Tenerife,203,177,0,26,,15,0,188,2023_3T.xlsx,santa cruz de tenerife,Canarias
+1258,fisica,Cantabria,35,35,0,0,,9,0,26,2023_3T.xlsx,cantabria,Cantabria
+1259,fisica,Castilla y León,214,213,1,0,,44,0,170,2023_3T.xlsx,castilla y leon,
+1260,fisica,Ávila,8,8,0,0,,0,0,8,2023_3T.xlsx,avila,Castilla y Leon
+1261,fisica,Burgos,30,30,0,0,,7,0,23,2023_3T.xlsx,burgos,Castilla y Leon
+1262,fisica,León,44,44,0,0,,12,0,32,2023_3T.xlsx,leon,Castilla y Leon
+1263,fisica,Palencia,4,4,0,0,,0,0,4,2023_3T.xlsx,palencia,Castilla y Leon
+1264,fisica,Salamanca,23,23,0,0,,3,0,20,2023_3T.xlsx,salamanca,Castilla y Leon
+1265,fisica,Segovia,13,13,0,0,,3,0,10,2023_3T.xlsx,segovia,Castilla y Leon
+1266,fisica,Soria,5,5,0,0,,1,0,4,2023_3T.xlsx,soria,Castilla y Leon
+1267,fisica,Valladolid,78,78,0,0,,18,0,60,2023_3T.xlsx,valladolid,Castilla y Leon
+1268,fisica,Zamora,9,8,1,0,,0,0,9,2023_3T.xlsx,zamora,Castilla y Leon
+1269,fisica,Castilla-La Mancha,254,245,0,9,,38,0,216,2023_3T.xlsx,castilla la mancha,
+1270,fisica,Albacete,89,89,0,0,,6,0,83,2023_3T.xlsx,albacete,Castilla La Mancha
+1271,fisica,Ciudad Real,53,50,0,3,,1,0,52,2023_3T.xlsx,ciudad real,Castilla La Mancha
+1272,fisica,Cuenca,34,34,0,0,,3,0,31,2023_3T.xlsx,cuenca,Castilla La Mancha
+1273,fisica,Guadalajara,43,39,0,4,,12,0,31,2023_3T.xlsx,guadalajara,Castilla La Mancha
+1274,fisica,Toledo,35,33,0,2,,16,0,19,2023_3T.xlsx,toledo,Castilla La Mancha
+1275,fisica,Cataluña,2150,2069,0,81,,266,2,1882,2023_3T.xlsx,cataluna,
+1276,fisica,Barcelona,1666,1620,0,46,,192,2,1472,2023_3T.xlsx,barcelona,Cataluña
+1277,fisica,Girona,184,182,0,2,,14,0,170,2023_3T.xlsx,girona,Cataluña
+1278,fisica,Lleida,91,91,0,0,,12,0,79,2023_3T.xlsx,lleida,Cataluña
+1279,fisica,Tarragona,209,176,0,33,,48,0,161,2023_3T.xlsx,tarragona,Cataluña
+1280,fisica,Comunitat Valenciana,794,788,0,6,,73,0,721,2023_3T.xlsx,comunitat valenciana,
+1281,fisica,Alicante,290,288,0,2,,20,0,270,2023_3T.xlsx,alicante,Valencia
+1282,fisica,Castellón,65,64,0,1,,23,0,42,2023_3T.xlsx,castellon,Valencia
+1283,fisica,Valencia,439,436,0,3,,30,0,409,2023_3T.xlsx,valencia,Valencia
+1284,fisica,Extremadura,89,88,0,1,,21,0,68,2023_3T.xlsx,extremadura,
+1285,fisica,Badajoz,66,65,0,1,,18,0,48,2023_3T.xlsx,badajoz,Extremadura
+1286,fisica,Cáceres,23,23,0,0,,3,0,20,2023_3T.xlsx,caceres,Extremadura
+1287,fisica,Galicia,235,232,0,3,,36,0,199,2023_3T.xlsx,galicia,
+1288,fisica,A Coruña,126,124,0,2,,19,0,107,2023_3T.xlsx,a coruna,Galicia
+1289,fisica,Lugo,25,25,0,0,,8,0,17,2023_3T.xlsx,lugo,Galicia
+1290,fisica,Ourense,13,13,0,0,,3,0,10,2023_3T.xlsx,ourense,Galicia
+1291,fisica,Pontevedra,71,70,0,1,,6,0,65,2023_3T.xlsx,pontevedra,Galicia
+1292,fisica,Madrid,828,686,2,140,,107,2,719,2023_3T.xlsx,madrid,Madrid
+1293,fisica,Murcia,350,347,1,2,,32,0,318,2023_3T.xlsx,murcia,Murcia
+1294,fisica,Navarra,72,65,0,7,,12,0,60,2023_3T.xlsx,navarra,Navarra
+1295,fisica,Pais Vasco,140,134,0,6,,25,0,115,2023_3T.xlsx,pais vasco,
+1296,fisica,Araba/Álava,27,27,0,0,,2,0,25,2023_3T.xlsx,araba alava,Pais Vasco
+1297,fisica,Bizkaia,83,78,0,5,,16,0,67,2023_3T.xlsx,bizkaia,Pais Vasco
+1298,fisica,Gipuzkoa,30,29,0,1,,7,0,23,2023_3T.xlsx,gipuzkoa,Pais Vasco
+1299,fisica,La Rioja,31,31,0,0,,1,0,30,2023_3T.xlsx,la rioja,La Rioja
+1300,fisica,Ceuta y Melilla,16,12,1,3,,2,0,14,2023_3T.xlsx,ceuta y melilla,
+1301,fisica,Ceuta,16,12,1,3,,2,0,14,2023_3T.xlsx,ceuta,Ceuta
+1302,fisica,Melilla,0,0,0,0,,0,0,0,2023_3T.xlsx,melilla,Melilla
+1303,empresas,Andalucía,109,105,4,0,,47,9,53,2023_3T.xlsx,andalucia,
+1304,empresas,Almería,3,3,0,0,,1,0,2,2023_3T.xlsx,almeria,Andalucia
+1305,empresas,Cádiz,14,14,0,0,,5,2,7,2023_3T.xlsx,cadiz,Andalucia
+1306,empresas,Córdoba,6,5,1,0,,3,0,3,2023_3T.xlsx,cordoba,Andalucia
+1307,empresas,Granada,13,13,0,0,,6,0,7,2023_3T.xlsx,granada,Andalucia
+1308,empresas,Huelva,3,3,0,0,,0,0,3,2023_3T.xlsx,huelva,Andalucia
+1309,empresas,Jaén,2,2,0,0,,1,0,1,2023_3T.xlsx,jaen,Andalucia
+1310,empresas,Málaga,18,18,0,0,,5,4,9,2023_3T.xlsx,malaga,Andalucia
+1311,empresas,Sevilla,50,47,3,0,,26,3,21,2023_3T.xlsx,sevilla,Andalucia
+1312,empresas,Aragón,35,33,1,1,,15,1,19,2023_3T.xlsx,aragon,
+1313,empresas,Huesca,4,3,0,1,,4,0,0,2023_3T.xlsx,huesca,Aragon
+1314,empresas,Teruel,2,2,0,0,,0,0,2,2023_3T.xlsx,teruel,Aragon
+1315,empresas,Zaragoza,29,28,1,0,,11,1,17,2023_3T.xlsx,zaragoza,Aragon
+1316,empresas,Asturias,23,23,0,0,,10,4,9,2023_3T.xlsx,asturias,Asturias
+1317,empresas,"Balears, Illes",19,18,1,0,,11,1,7,2023_3T.xlsx,balears illes,Baleares
+1318,empresas,Canarias,30,30,0,0,,12,5,13,2023_3T.xlsx,canarias,
+1319,empresas,Las Palmas de Gran Canaria,15,15,0,0,,8,4,3,2023_3T.xlsx,las palmas de gran canaria,
+1320,empresas,Santa Cruz de Tenerife,15,15,0,0,,4,1,10,2023_3T.xlsx,santa cruz de tenerife,Canarias
+1321,empresas,Cantabria,10,10,0,0,,3,6,1,2023_3T.xlsx,cantabria,Cantabria
+1322,empresas,Castilla y León,43,43,0,0,,13,9,21,2023_3T.xlsx,castilla y leon,
+1323,empresas,Ávila,1,1,0,0,,0,0,1,2023_3T.xlsx,avila,Castilla y Leon
+1324,empresas,Burgos,4,4,0,0,,0,3,1,2023_3T.xlsx,burgos,Castilla y Leon
+1325,empresas,León,7,7,0,0,,3,2,2,2023_3T.xlsx,leon,Castilla y Leon
+1326,empresas,Palencia,1,1,0,0,,0,0,1,2023_3T.xlsx,palencia,Castilla y Leon
+1327,empresas,Salamanca,8,8,0,0,,0,1,7,2023_3T.xlsx,salamanca,Castilla y Leon
+1328,empresas,Segovia,4,4,0,0,,3,0,1,2023_3T.xlsx,segovia,Castilla y Leon
+1329,empresas,Soria,3,3,0,0,,2,1,0,2023_3T.xlsx,soria,Castilla y Leon
+1330,empresas,Valladolid,14,14,0,0,,4,2,8,2023_3T.xlsx,valladolid,Castilla y Leon
+1331,empresas,Zamora,1,1,0,0,,1,0,0,2023_3T.xlsx,zamora,Castilla y Leon
+1332,empresas,Castilla-La Mancha,40,38,2,0,,7,0,33,2023_3T.xlsx,castilla la mancha,
+1333,empresas,Albacete,19,18,1,0,,3,0,16,2023_3T.xlsx,albacete,Castilla La Mancha
+1334,empresas,Ciudad Real,9,9,0,0,,0,0,9,2023_3T.xlsx,ciudad real,Castilla La Mancha
+1335,empresas,Cuenca,6,6,0,0,,2,0,4,2023_3T.xlsx,cuenca,Castilla La Mancha
+1336,empresas,Guadalajara,2,2,0,0,,0,0,2,2023_3T.xlsx,guadalajara,Castilla La Mancha
+1337,empresas,Toledo,4,3,1,0,,2,0,2,2023_3T.xlsx,toledo,Castilla La Mancha
+1338,empresas,Cataluña,321,316,4,1,,73,34,214,2023_3T.xlsx,cataluna,
+1339,empresas,Barcelona,271,266,4,1,,65,28,178,2023_3T.xlsx,barcelona,Cataluña
+1340,empresas,Girona,26,26,0,0,,2,3,21,2023_3T.xlsx,girona,Cataluña
+1341,empresas,Lleida,11,11,0,0,,3,2,6,2023_3T.xlsx,lleida,Cataluña
+1342,empresas,Tarragona,13,13,0,0,,3,1,9,2023_3T.xlsx,tarragona,Cataluña
+1343,empresas,Comunitat Valenciana,141,137,4,0,,49,8,84,2023_3T.xlsx,comunitat valenciana,
+1344,empresas,Alicante,38,36,2,0,,9,3,26,2023_3T.xlsx,alicante,Valencia
+1345,empresas,Castellón,29,28,1,0,,23,0,6,2023_3T.xlsx,castellon,Valencia
+1346,empresas,Valencia,74,73,1,0,,17,5,52,2023_3T.xlsx,valencia,Valencia
+1347,empresas,Extremadura,17,17,0,0,,9,2,6,2023_3T.xlsx,extremadura,
+1348,empresas,Badajoz,15,15,0,0,,8,2,5,2023_3T.xlsx,badajoz,Extremadura
+1349,empresas,Cáceres,2,2,0,0,,1,0,1,2023_3T.xlsx,caceres,Extremadura
+1350,empresas,Galicia,52,49,3,0,,21,2,29,2023_3T.xlsx,galicia,
+1351,empresas,A Coruña,21,21,0,0,,6,1,14,2023_3T.xlsx,a coruna,Galicia
+1352,empresas,Lugo,10,9,1,0,,7,0,3,2023_3T.xlsx,lugo,Galicia
+1353,empresas,Ourense,2,2,0,0,,1,1,0,2023_3T.xlsx,ourense,Galicia
+1354,empresas,Pontevedra,19,17,2,0,,7,0,12,2023_3T.xlsx,pontevedra,Galicia
+1355,empresas,Madrid,176,167,7,2,,59,49,68,2023_3T.xlsx,madrid,Madrid
+1356,empresas,Murcia,29,28,1,0,,10,2,17,2023_3T.xlsx,murcia,Murcia
+1357,empresas,Navarra,10,10,0,0,,7,0,3,2023_3T.xlsx,navarra,Navarra
+1358,empresas,Pais Vasco,57,55,2,0,,20,14,23,2023_3T.xlsx,pais vasco,
+1359,empresas,Araba/Álava,8,8,0,0,,2,1,5,2023_3T.xlsx,araba alava,Pais Vasco
+1360,empresas,Bizkaia,30,28,2,0,,10,13,7,2023_3T.xlsx,bizkaia,Pais Vasco
+1361,empresas,Gipuzkoa,19,19,0,0,,8,0,11,2023_3T.xlsx,gipuzkoa,Pais Vasco
+1362,empresas,La Rioja,6,6,0,0,,3,0,3,2023_3T.xlsx,la rioja,La Rioja
+1363,empresas,Ceuta y Melilla,0,0,0,0,,0,0,0,2023_3T.xlsx,ceuta y melilla,
+1364,fisica,Andalucía,1206,1191,2,13,,352,9,845,2023_4T.xlsx,andalucia,
+1365,fisica,Almería,197,196,0,1,,38,2,157,2023_4T.xlsx,almeria,Andalucia
+1366,fisica,Cádiz,150,148,0,2,,64,1,85,2023_4T.xlsx,cadiz,Andalucia
+1367,fisica,Córdoba,78,77,0,1,,32,0,46,2023_4T.xlsx,cordoba,Andalucia
+1368,fisica,Granada,83,81,1,1,,36,3,44,2023_4T.xlsx,granada,Andalucia
+1369,fisica,Huelva,49,47,0,2,,19,0,30,2023_4T.xlsx,huelva,Andalucia
+1370,fisica,Jaén,26,25,1,0,,16,0,10,2023_4T.xlsx,jaen,Andalucia
+1371,fisica,Málaga,255,254,0,1,,77,1,177,2023_4T.xlsx,malaga,Andalucia
+1372,fisica,Sevilla,368,363,0,5,,70,2,296,2023_4T.xlsx,sevilla,Andalucia
+1373,fisica,Aragón,141,139,2,0,,23,0,118,2023_4T.xlsx,aragon,
+1374,fisica,Huesca,40,40,0,0,,10,0,30,2023_4T.xlsx,huesca,Aragon
+1375,fisica,Teruel,11,11,0,0,,1,0,10,2023_4T.xlsx,teruel,Aragon
+1376,fisica,Zaragoza,90,88,2,0,,12,0,78,2023_4T.xlsx,zaragoza,Aragon
+1377,fisica,Asturias,180,178,0,2,,64,0,116,2023_4T.xlsx,asturias,Asturias
+1378,fisica,"Balears, Illes",211,208,1,2,,22,0,189,2023_4T.xlsx,balears illes,Baleares
+1379,fisica,Canarias,650,624,0,26,,66,0,584,2023_4T.xlsx,canarias,
+1380,fisica,Las Palmas de Gran Canaria,401,401,0,0,,23,0,378,2023_4T.xlsx,las palmas de gran canaria,
+1381,fisica,Santa Cruz de Tenerife,249,223,0,26,,43,0,206,2023_4T.xlsx,santa cruz de tenerife,Canarias
+1382,fisica,Cantabria,107,107,0,0,,20,1,86,2023_4T.xlsx,cantabria,Cantabria
+1383,fisica,Castilla y León,297,297,0,0,,49,2,246,2023_4T.xlsx,castilla y leon,
+1384,fisica,Ávila,2,2,0,0,,2,0,0,2023_4T.xlsx,avila,Castilla y Leon
+1385,fisica,Burgos,69,69,0,0,,15,0,54,2023_4T.xlsx,burgos,Castilla y Leon
+1386,fisica,León,62,62,0,0,,9,0,53,2023_4T.xlsx,leon,Castilla y Leon
+1387,fisica,Palencia,5,5,0,0,,0,0,5,2023_4T.xlsx,palencia,Castilla y Leon
+1388,fisica,Salamanca,66,66,0,0,,6,1,59,2023_4T.xlsx,salamanca,Castilla y Leon
+1389,fisica,Segovia,4,4,0,0,,0,0,4,2023_4T.xlsx,segovia,Castilla y Leon
+1390,fisica,Soria,6,6,0,0,,0,1,5,2023_4T.xlsx,soria,Castilla y Leon
+1391,fisica,Valladolid,77,77,0,0,,17,0,60,2023_4T.xlsx,valladolid,Castilla y Leon
+1392,fisica,Zamora,6,6,0,0,,0,0,6,2023_4T.xlsx,zamora,Castilla y Leon
+1393,fisica,Castilla-La Mancha,316,311,1,4,,39,1,276,2023_4T.xlsx,castilla la mancha,
+1394,fisica,Albacete,76,76,0,0,,1,0,75,2023_4T.xlsx,albacete,Castilla La Mancha
+1395,fisica,Ciudad Real,47,47,0,0,,1,0,46,2023_4T.xlsx,ciudad real,Castilla La Mancha
+1396,fisica,Cuenca,19,18,1,0,,8,0,11,2023_4T.xlsx,cuenca,Castilla La Mancha
+1397,fisica,Guadalajara,73,70,0,3,,15,0,58,2023_4T.xlsx,guadalajara,Castilla La Mancha
+1398,fisica,Toledo,101,100,0,1,,14,1,86,2023_4T.xlsx,toledo,Castilla La Mancha
+1399,fisica,Cataluña,2315,2261,0,54,,286,1,2028,2023_4T.xlsx,cataluna,
+1400,fisica,Barcelona,1612,1575,0,37,,235,1,1376,2023_4T.xlsx,barcelona,Cataluña
+1401,fisica,Girona,221,219,0,2,,14,0,207,2023_4T.xlsx,girona,Cataluña
+1402,fisica,Lleida,144,144,0,0,,7,0,137,2023_4T.xlsx,lleida,Cataluña
+1403,fisica,Tarragona,338,323,0,15,,30,0,308,2023_4T.xlsx,tarragona,Cataluña
+1404,fisica,Comunitat Valenciana,1254,1238,1,15,,118,1,1135,2023_4T.xlsx,comunitat valenciana,
+1405,fisica,Alicante,478,473,1,4,,32,0,446,2023_4T.xlsx,alicante,Valencia
+1406,fisica,Castellón,84,84,0,0,,15,0,69,2023_4T.xlsx,castellon,Valencia
+1407,fisica,Valencia,692,681,0,11,,71,1,620,2023_4T.xlsx,valencia,Valencia
+1408,fisica,Extremadura,190,190,0,0,,52,0,138,2023_4T.xlsx,extremadura,
+1409,fisica,Badajoz,122,122,0,0,,51,0,71,2023_4T.xlsx,badajoz,Extremadura
+1410,fisica,Cáceres,68,68,0,0,,1,0,67,2023_4T.xlsx,caceres,Extremadura
+1411,fisica,Galicia,262,262,0,0,,59,1,202,2023_4T.xlsx,galicia,
+1412,fisica,A Coruña,97,97,0,0,,26,1,70,2023_4T.xlsx,a coruna,Galicia
+1413,fisica,Lugo,27,27,0,0,,3,0,24,2023_4T.xlsx,lugo,Galicia
+1414,fisica,Ourense,25,25,0,0,,1,0,24,2023_4T.xlsx,ourense,Galicia
+1415,fisica,Pontevedra,113,113,0,0,,29,0,84,2023_4T.xlsx,pontevedra,Galicia
+1416,fisica,Madrid,1130,1013,1,116,,134,5,991,2023_4T.xlsx,madrid,Madrid
+1417,fisica,Murcia,469,465,0,4,,50,0,419,2023_4T.xlsx,murcia,Murcia
+1418,fisica,Navarra,85,84,1,0,,11,0,74,2023_4T.xlsx,navarra,Navarra
+1419,fisica,Pais Vasco,168,168,0,0,,17,1,150,2023_4T.xlsx,pais vasco,
+1420,fisica,Araba/Álava,34,34,0,0,,2,0,32,2023_4T.xlsx,araba alava,Pais Vasco
+1421,fisica,Bizkaia,100,100,0,0,,13,1,86,2023_4T.xlsx,bizkaia,Pais Vasco
+1422,fisica,Gipuzkoa,34,34,0,0,,2,0,32,2023_4T.xlsx,gipuzkoa,Pais Vasco
+1423,fisica,La Rioja,27,27,0,0,,1,0,26,2023_4T.xlsx,la rioja,La Rioja
+1424,fisica,Ceuta y Melilla,20,17,0,3,,1,0,19,2023_4T.xlsx,ceuta y melilla,
+1425,fisica,Ceuta,17,14,0,3,,0,0,17,2023_4T.xlsx,ceuta,Ceuta
+1426,fisica,Melilla,3,3,0,0,,1,0,2,2023_4T.xlsx,melilla,Melilla
+1427,empresas,Andalucía,150,146,4,0,,60,14,76,2023_4T.xlsx,andalucia,
+1428,empresas,Almería,15,14,1,0,,4,0,11,2023_4T.xlsx,almeria,Andalucia
+1429,empresas,Cádiz,22,21,1,0,,11,2,9,2023_4T.xlsx,cadiz,Andalucia
+1430,empresas,Córdoba,10,10,0,0,,3,0,7,2023_4T.xlsx,cordoba,Andalucia
+1431,empresas,Granada,10,10,0,0,,3,6,1,2023_4T.xlsx,granada,Andalucia
+1432,empresas,Huelva,9,8,1,0,,7,0,2,2023_4T.xlsx,huelva,Andalucia
+1433,empresas,Jaén,7,7,0,0,,1,1,5,2023_4T.xlsx,jaen,Andalucia
+1434,empresas,Málaga,25,24,1,0,,13,0,12,2023_4T.xlsx,malaga,Andalucia
+1435,empresas,Sevilla,52,52,0,0,,18,5,29,2023_4T.xlsx,sevilla,Andalucia
+1436,empresas,Aragón,26,26,0,0,,10,4,12,2023_4T.xlsx,aragon,
+1437,empresas,Huesca,8,8,0,0,,1,3,4,2023_4T.xlsx,huesca,Aragon
+1438,empresas,Teruel,2,2,0,0,,1,1,0,2023_4T.xlsx,teruel,Aragon
+1439,empresas,Zaragoza,16,16,0,0,,8,0,8,2023_4T.xlsx,zaragoza,Aragon
+1440,empresas,Asturias,22,20,2,0,,9,2,11,2023_4T.xlsx,asturias,Asturias
+1441,empresas,"Balears, Illes",27,26,1,0,,14,0,13,2023_4T.xlsx,balears illes,Baleares
+1442,empresas,Canarias,34,34,0,0,,13,4,17,2023_4T.xlsx,canarias,
+1443,empresas,Las Palmas de Gran Canaria,22,22,0,0,,6,4,12,2023_4T.xlsx,las palmas de gran canaria,
+1444,empresas,Santa Cruz de Tenerife,12,12,0,0,,7,0,5,2023_4T.xlsx,santa cruz de tenerife,Canarias
+1445,empresas,Cantabria,11,11,0,0,,4,4,3,2023_4T.xlsx,cantabria,Cantabria
+1446,empresas,Castilla y León,43,40,3,0,,12,8,23,2023_4T.xlsx,castilla y leon,
+1447,empresas,Ávila,1,1,0,0,,0,0,1,2023_4T.xlsx,avila,Castilla y Leon
+1448,empresas,Burgos,12,10,2,0,,4,2,6,2023_4T.xlsx,burgos,Castilla y Leon
+1449,empresas,León,7,7,0,0,,1,3,3,2023_4T.xlsx,leon,Castilla y Leon
+1450,empresas,Palencia,0,0,0,0,,0,0,0,2023_4T.xlsx,palencia,Castilla y Leon
+1451,empresas,Salamanca,9,9,0,0,,2,2,5,2023_4T.xlsx,salamanca,Castilla y Leon
+1452,empresas,Segovia,0,0,0,0,,0,0,0,2023_4T.xlsx,segovia,Castilla y Leon
+1453,empresas,Soria,1,0,1,0,,0,0,1,2023_4T.xlsx,soria,Castilla y Leon
+1454,empresas,Valladolid,13,13,0,0,,5,1,7,2023_4T.xlsx,valladolid,Castilla y Leon
+1455,empresas,Zamora,0,0,0,0,,0,0,0,2023_4T.xlsx,zamora,Castilla y Leon
+1456,empresas,Castilla-La Mancha,55,55,0,0,,23,2,30,2023_4T.xlsx,castilla la mancha,
+1457,empresas,Albacete,20,20,0,0,,3,1,16,2023_4T.xlsx,albacete,Castilla La Mancha
+1458,empresas,Ciudad Real,12,12,0,0,,5,0,7,2023_4T.xlsx,ciudad real,Castilla La Mancha
+1459,empresas,Cuenca,3,3,0,0,,1,0,2,2023_4T.xlsx,cuenca,Castilla La Mancha
+1460,empresas,Guadalajara,4,4,0,0,,1,0,3,2023_4T.xlsx,guadalajara,Castilla La Mancha
+1461,empresas,Toledo,16,16,0,0,,13,1,2,2023_4T.xlsx,toledo,Castilla La Mancha
+1462,empresas,Cataluña,384,372,12,0,,85,44,255,2023_4T.xlsx,cataluna,
+1463,empresas,Barcelona,320,312,8,0,,64,41,215,2023_4T.xlsx,barcelona,Cataluña
+1464,empresas,Girona,19,16,3,0,,7,0,12,2023_4T.xlsx,girona,Cataluña
+1465,empresas,Lleida,16,16,0,0,,6,0,10,2023_4T.xlsx,lleida,Cataluña
+1466,empresas,Tarragona,29,28,1,0,,8,3,18,2023_4T.xlsx,tarragona,Cataluña
+1467,empresas,Comunitat Valenciana,207,204,2,1,,54,19,134,2023_4T.xlsx,comunitat valenciana,
+1468,empresas,Alicante,82,80,1,1,,22,3,57,2023_4T.xlsx,alicante,Valencia
+1469,empresas,Castellón,10,10,0,0,,4,0,6,2023_4T.xlsx,castellon,Valencia
+1470,empresas,Valencia,115,114,1,0,,28,16,71,2023_4T.xlsx,valencia,Valencia
+1471,empresas,Extremadura,15,15,0,0,,9,0,6,2023_4T.xlsx,extremadura,
+1472,empresas,Badajoz,13,13,0,0,,8,0,5,2023_4T.xlsx,badajoz,Extremadura
+1473,empresas,Cáceres,2,2,0,0,,1,0,1,2023_4T.xlsx,caceres,Extremadura
+1474,empresas,Galicia,79,76,3,0,,38,2,39,2023_4T.xlsx,galicia,
+1475,empresas,A Coruña,30,28,2,0,,16,1,13,2023_4T.xlsx,a coruna,Galicia
+1476,empresas,Lugo,13,13,0,0,,8,0,5,2023_4T.xlsx,lugo,Galicia
+1477,empresas,Ourense,2,2,0,0,,0,0,2,2023_4T.xlsx,ourense,Galicia
+1478,empresas,Pontevedra,34,33,1,0,,14,1,19,2023_4T.xlsx,pontevedra,Galicia
+1479,empresas,Madrid,286,272,12,2,,59,110,117,2023_4T.xlsx,madrid,Madrid
+1480,empresas,Murcia,54,53,1,0,,21,11,22,2023_4T.xlsx,murcia,Murcia
+1481,empresas,Navarra,12,12,0,0,,4,0,8,2023_4T.xlsx,navarra,Navarra
+1482,empresas,Pais Vasco,57,57,0,0,,14,17,26,2023_4T.xlsx,pais vasco,
+1483,empresas,Araba/Álava,4,4,0,0,,0,1,3,2023_4T.xlsx,araba alava,Pais Vasco
+1484,empresas,Bizkaia,38,38,0,0,,7,16,15,2023_4T.xlsx,bizkaia,Pais Vasco
+1485,empresas,Gipuzkoa,15,15,0,0,,7,0,8,2023_4T.xlsx,gipuzkoa,Pais Vasco
+1486,empresas,La Rioja,8,8,0,0,,3,2,3,2023_4T.xlsx,la rioja,La Rioja
+1487,empresas,Ceuta y Melilla,1,1,0,0,,0,1,0,2023_4T.xlsx,ceuta y melilla,
+1488,,Ceuta,1,1,0,0,,0,1,0,2023_4T.xlsx,ceuta,Ceuta
+1489,,Melilla,0,0,0,0,,0,0,0,2023_4T.xlsx,melilla,Melilla
+1490,fisica,Andalucía,892,889,0,3,,138,6,748,2024_1T.xlsx,andalucia,
+1491,fisica,Almería,92,92,0,0,,8,1,83,2024_1T.xlsx,almeria,Andalucia
+1492,fisica,Cádiz,134,133,0,1,,30,3,101,2024_1T.xlsx,cadiz,Andalucia
+1493,fisica,Córdoba,33,33,0,0,,3,0,30,2024_1T.xlsx,cordoba,Andalucia
+1494,fisica,Granada,102,102,0,0,,26,1,75,2024_1T.xlsx,granada,Andalucia
+1495,fisica,Huelva,56,56,0,0,,12,0,44,2024_1T.xlsx,huelva,Andalucia
+1496,fisica,Jaén,19,19,0,0,,8,0,11,2024_1T.xlsx,jaen,Andalucia
+1497,fisica,Málaga,156,154,0,2,,31,1,124,2024_1T.xlsx,malaga,Andalucia
+1498,fisica,Sevilla,300,300,0,0,,20,0,280,2024_1T.xlsx,sevilla,Andalucia
+1499,fisica,Aragón,116,115,0,1,,20,0,96,2024_1T.xlsx,aragon,
+1500,fisica,Huesca,16,15,0,1,,4,0,12,2024_1T.xlsx,huesca,Aragon
+1501,fisica,Teruel,9,9,0,0,,4,0,5,2024_1T.xlsx,teruel,Aragon
+1502,fisica,Zaragoza,91,91,0,0,,12,0,79,2024_1T.xlsx,zaragoza,Aragon
+1503,fisica,Asturias,153,152,1,0,,54,0,99,2024_1T.xlsx,asturias,Asturias
+1504,fisica,"Balears, Illes",63,63,0,0,,2,0,61,2024_1T.xlsx,balears illes,Baleares
+1505,fisica,Canarias,385,385,0,0,,8,0,377,2024_1T.xlsx,canarias,
+1506,fisica,Las Palmas de Gran Canaria,234,234,0,0,,4,0,230,2024_1T.xlsx,las palmas de gran canaria,
+1507,fisica,Santa Cruz de Tenerife,151,151,0,0,,4,0,147,2024_1T.xlsx,santa cruz de tenerife,Canarias
+1508,fisica,Cantabria,46,46,0,0,,12,0,34,2024_1T.xlsx,cantabria,Cantabria
+1509,fisica,Castilla y León,194,194,0,0,,26,3,165,2024_1T.xlsx,castilla y leon,
+1510,fisica,Ávila,6,6,0,0,,0,0,6,2024_1T.xlsx,avila,Castilla y Leon
+1511,fisica,Burgos,16,16,0,0,,1,0,15,2024_1T.xlsx,burgos,Castilla y Leon
+1512,fisica,León,55,55,0,0,,14,2,39,2024_1T.xlsx,leon,Castilla y Leon
+1513,fisica,Palencia,4,4,0,0,,0,0,4,2024_1T.xlsx,palencia,Castilla y Leon
+1514,fisica,Salamanca,25,25,0,0,,3,0,22,2024_1T.xlsx,salamanca,Castilla y Leon
+1515,fisica,Segovia,10,10,0,0,,2,0,8,2024_1T.xlsx,segovia,Castilla y Leon
+1516,fisica,Soria,1,1,0,0,,0,0,1,2024_1T.xlsx,soria,Castilla y Leon
+1517,fisica,Valladolid,62,62,0,0,,6,1,55,2024_1T.xlsx,valladolid,Castilla y Leon
+1518,fisica,Zamora,15,15,0,0,,0,0,15,2024_1T.xlsx,zamora,Castilla y Leon
+1519,fisica,Castilla-La Mancha,213,207,2,4,,12,2,199,2024_1T.xlsx,castilla la mancha,
+1520,fisica,Albacete,43,43,0,0,,1,1,41,2024_1T.xlsx,albacete,Castilla La Mancha
+1521,fisica,Ciudad Real,13,13,0,0,,0,0,13,2024_1T.xlsx,ciudad real,Castilla La Mancha
+1522,fisica,Cuenca,14,14,0,0,,1,0,13,2024_1T.xlsx,cuenca,Castilla La Mancha
+1523,fisica,Guadalajara,34,33,0,1,,1,1,32,2024_1T.xlsx,guadalajara,Castilla La Mancha
+1524,fisica,Toledo,109,104,2,3,,9,0,100,2024_1T.xlsx,toledo,Castilla La Mancha
+1525,fisica,Cataluña,1740,1723,0,17,,176,0,1564,2024_1T.xlsx,cataluna,
+1526,fisica,Barcelona,1343,1329,0,14,,166,0,1177,2024_1T.xlsx,barcelona,Cataluña
+1527,fisica,Girona,139,139,0,0,,8,0,131,2024_1T.xlsx,girona,Cataluña
+1528,fisica,Lleida,123,123,0,0,,0,0,123,2024_1T.xlsx,lleida,Cataluña
+1529,fisica,Tarragona,135,132,0,3,,2,0,133,2024_1T.xlsx,tarragona,Cataluña
+1530,fisica,Comunitat Valenciana,948,941,0,7,,78,6,864,2024_1T.xlsx,comunitat valenciana,
+1531,fisica,Alicante,402,399,0,3,,18,1,383,2024_1T.xlsx,alicante,Valencia
+1532,fisica,Castellón,50,50,0,0,,4,0,46,2024_1T.xlsx,castellon,Valencia
+1533,fisica,Valencia,496,492,0,4,,56,5,435,2024_1T.xlsx,valencia,Valencia
+1534,fisica,Extremadura,90,90,0,0,,28,0,62,2024_1T.xlsx,extremadura,
+1535,fisica,Badajoz,70,70,0,0,,27,0,43,2024_1T.xlsx,badajoz,Extremadura
+1536,fisica,Cáceres,20,20,0,0,,1,0,19,2024_1T.xlsx,caceres,Extremadura
+1537,fisica,Galicia,193,193,0,0,,37,0,156,2024_1T.xlsx,galicia,
+1538,fisica,A Coruña,94,94,0,0,,25,0,69,2024_1T.xlsx,a coruna,Galicia
+1539,fisica,Lugo,20,20,0,0,,3,0,17,2024_1T.xlsx,lugo,Galicia
+1540,fisica,Ourense,11,11,0,0,,1,0,10,2024_1T.xlsx,ourense,Galicia
+1541,fisica,Pontevedra,68,68,0,0,,8,0,60,2024_1T.xlsx,pontevedra,Galicia
+1542,fisica,Madrid,970,893,0,77,,83,16,871,2024_1T.xlsx,madrid,Madrid
+1543,fisica,Murcia,397,395,0,2,,31,2,364,2024_1T.xlsx,murcia,Murcia
+1544,fisica,Navarra,58,58,0,0,,2,1,55,2024_1T.xlsx,navarra,Navarra
+1545,fisica,Pais Vasco,172,172,0,0,,16,0,156,2024_1T.xlsx,pais vasco,
+1546,fisica,Araba/Álava,40,40,0,0,,2,0,38,2024_1T.xlsx,araba alava,Pais Vasco
+1547,fisica,Bizkaia,81,81,0,0,,9,0,72,2024_1T.xlsx,bizkaia,Pais Vasco
+1548,fisica,Gipuzkoa,51,51,0,0,,5,0,46,2024_1T.xlsx,gipuzkoa,Pais Vasco
+1549,fisica,La Rioja,23,23,0,0,,1,0,22,2024_1T.xlsx,la rioja,La Rioja
+1550,fisica,Ceuta y Melilla,20,18,0,2,,0,0,20,2024_1T.xlsx,ceuta y melilla,
+1551,fisica,Ceuta,15,13,0,2,,0,0,15,2024_1T.xlsx,ceuta,Ceuta
+1552,fisica,Melilla,5,5,0,0,,0,0,5,2024_1T.xlsx,melilla,Melilla
+1553,empresas,Andalucía,130,124,6,0,,49,17,64,2024_1T.xlsx,andalucia,
+1554,empresas,Almería,10,10,0,0,,3,1,6,2024_1T.xlsx,almeria,Andalucia
+1555,empresas,Cádiz,9,9,0,0,,3,4,2,2024_1T.xlsx,cadiz,Andalucia
+1556,empresas,Córdoba,15,15,0,0,,6,0,9,2024_1T.xlsx,cordoba,Andalucia
+1557,empresas,Granada,15,14,1,0,,6,6,3,2024_1T.xlsx,granada,Andalucia
+1558,empresas,Huelva,7,7,0,0,,6,0,1,2024_1T.xlsx,huelva,Andalucia
+1559,empresas,Jaén,6,5,1,0,,4,0,2,2024_1T.xlsx,jaen,Andalucia
+1560,empresas,Málaga,33,31,2,0,,9,6,18,2024_1T.xlsx,malaga,Andalucia
+1561,empresas,Sevilla,35,33,2,0,,12,0,23,2024_1T.xlsx,sevilla,Andalucia
+1562,empresas,Aragón,33,31,2,0,,9,0,24,2024_1T.xlsx,aragon,
+1563,empresas,Huesca,3,2,1,0,,2,0,1,2024_1T.xlsx,huesca,Aragon
+1564,empresas,Teruel,2,2,0,0,,0,0,2,2024_1T.xlsx,teruel,Aragon
+1565,empresas,Zaragoza,28,27,1,0,,7,0,21,2024_1T.xlsx,zaragoza,Aragon
+1566,empresas,Asturias,27,25,2,0,,8,4,15,2024_1T.xlsx,asturias,Asturias
+1567,empresas,"Balears, Illes",18,18,0,0,,8,0,10,2024_1T.xlsx,balears illes,Baleares
+1568,empresas,Canarias,27,27,0,0,,9,6,12,2024_1T.xlsx,canarias,
+1569,empresas,Las Palmas de Gran Canaria,14,14,0,0,,5,3,6,2024_1T.xlsx,las palmas de gran canaria,
+1570,empresas,Santa Cruz de Tenerife,13,13,0,0,,4,3,6,2024_1T.xlsx,santa cruz de tenerife,Canarias
+1571,empresas,Cantabria,17,17,0,0,,4,12,1,2024_1T.xlsx,cantabria,Cantabria
+1572,empresas,Castilla y León,50,47,3,0,,21,10,19,2024_1T.xlsx,castilla y leon,
+1573,empresas,Ávila,0,0,0,0,,0,0,0,2024_1T.xlsx,avila,Castilla y Leon
+1574,empresas,Burgos,8,8,0,0,,3,2,3,2024_1T.xlsx,burgos,Castilla y Leon
+1575,empresas,León,7,7,0,0,,4,0,3,2024_1T.xlsx,leon,Castilla y Leon
+1576,empresas,Palencia,4,4,0,0,,3,0,1,2024_1T.xlsx,palencia,Castilla y Leon
+1577,empresas,Salamanca,8,7,1,0,,1,2,5,2024_1T.xlsx,salamanca,Castilla y Leon
+1578,empresas,Segovia,4,4,0,0,,2,1,1,2024_1T.xlsx,segovia,Castilla y Leon
+1579,empresas,Soria,2,2,0,0,,1,0,1,2024_1T.xlsx,soria,Castilla y Leon
+1580,empresas,Valladolid,16,14,2,0,,6,5,5,2024_1T.xlsx,valladolid,Castilla y Leon
+1581,empresas,Zamora,1,1,0,0,,1,0,0,2024_1T.xlsx,zamora,Castilla y Leon
+1582,empresas,Castilla-La Mancha,34,34,0,0,,9,0,25,2024_1T.xlsx,castilla la mancha,
+1583,empresas,Albacete,12,12,0,0,,1,0,11,2024_1T.xlsx,albacete,Castilla La Mancha
+1584,empresas,Ciudad Real,5,5,0,0,,2,0,3,2024_1T.xlsx,ciudad real,Castilla La Mancha
+1585,empresas,Cuenca,5,5,0,0,,3,0,2,2024_1T.xlsx,cuenca,Castilla La Mancha
+1586,empresas,Guadalajara,3,3,0,0,,1,0,2,2024_1T.xlsx,guadalajara,Castilla La Mancha
+1587,empresas,Toledo,9,9,0,0,,2,0,7,2024_1T.xlsx,toledo,Castilla La Mancha
+1588,empresas,Cataluña,386,377,9,0,,99,26,261,2024_1T.xlsx,cataluna,
+1589,empresas,Barcelona,337,330,7,0,,83,24,230,2024_1T.xlsx,barcelona,Cataluña
+1590,empresas,Girona,15,15,0,0,,5,1,9,2024_1T.xlsx,girona,Cataluña
+1591,empresas,Lleida,15,14,1,0,,5,1,9,2024_1T.xlsx,lleida,Cataluña
+1592,empresas,Tarragona,19,18,1,0,,6,0,13,2024_1T.xlsx,tarragona,Cataluña
+1593,empresas,Comunitat Valenciana,222,220,2,0,,58,44,120,2024_1T.xlsx,comunitat valenciana,
+1594,empresas,Alicante,85,84,1,0,,19,3,63,2024_1T.xlsx,alicante,Valencia
+1595,empresas,Castellón,9,9,0,0,,2,3,4,2024_1T.xlsx,castellon,Valencia
+1596,empresas,Valencia,128,127,1,0,,37,38,53,2024_1T.xlsx,valencia,Valencia
+1597,empresas,Extremadura,12,11,1,0,,2,5,5,2024_1T.xlsx,extremadura,
+1598,empresas,Badajoz,8,7,1,0,,1,4,3,2024_1T.xlsx,badajoz,Extremadura
+1599,empresas,Cáceres,4,4,0,0,,1,1,2,2024_1T.xlsx,caceres,Extremadura
+1600,empresas,Galicia,59,57,1,1,,25,4,30,2024_1T.xlsx,galicia,
+1601,empresas,A Coruña,26,25,1,0,,9,2,15,2024_1T.xlsx,a coruna,Galicia
+1602,empresas,Lugo,4,4,0,0,,1,0,3,2024_1T.xlsx,lugo,Galicia
+1603,empresas,Ourense,3,2,0,1,,2,0,1,2024_1T.xlsx,ourense,Galicia
+1604,empresas,Pontevedra,26,26,0,0,,13,2,11,2024_1T.xlsx,pontevedra,Galicia
+1605,empresas,Madrid,354,347,6,1,,101,150,103,2024_1T.xlsx,madrid,Madrid
+1606,empresas,Murcia,45,43,2,0,,19,5,21,2024_1T.xlsx,murcia,Murcia
+1607,empresas,Navarra,16,15,1,0,,8,0,8,2024_1T.xlsx,navarra,Navarra
+1608,empresas,Pais Vasco,86,86,0,0,,22,21,43,2024_1T.xlsx,pais vasco,
+1609,empresas,Araba/Álava,6,6,0,0,,3,0,3,2024_1T.xlsx,araba alava,Pais Vasco
+1610,empresas,Bizkaia,48,48,0,0,,14,15,19,2024_1T.xlsx,bizkaia,Pais Vasco
+1611,empresas,Gipuzkoa,32,32,0,0,,5,6,21,2024_1T.xlsx,gipuzkoa,Pais Vasco
+1612,,La Rioja,8,7,1,0,,4,0,4,2024_1T.xlsx,la rioja,La Rioja
+1613,,Ceuta y Melilla,2,1,0,1,,1,0,1,2024_1T.xlsx,ceuta y melilla,
+1614,fisica,Andalucía,994,992,0,2,,121,9,864,2024_2T.xlsx,andalucia,
+1615,fisica,Almería,171,170,0,1,,17,2,152,2024_2T.xlsx,almeria,Andalucia
+1616,fisica,Cádiz,188,188,0,0,,18,1,169,2024_2T.xlsx,cadiz,Andalucia
+1617,fisica,Córdoba,67,67,0,0,,16,0,51,2024_2T.xlsx,cordoba,Andalucia
+1618,fisica,Granada,157,157,0,0,,27,4,126,2024_2T.xlsx,granada,Andalucia
+1619,fisica,Huelva,30,30,0,0,,9,0,21,2024_2T.xlsx,huelva,Andalucia
+1620,fisica,Jaén,11,10,0,1,,7,0,4,2024_2T.xlsx,jaen,Andalucia
+1621,fisica,Málaga,175,175,0,0,,21,2,152,2024_2T.xlsx,malaga,Andalucia
+1622,fisica,Sevilla,195,195,0,0,,6,0,189,2024_2T.xlsx,sevilla,Andalucia
+1623,fisica,Aragón,166,166,0,0,,23,1,142,2024_2T.xlsx,aragon,
+1624,fisica,Huesca,25,25,0,0,,5,1,19,2024_2T.xlsx,huesca,Aragon
+1625,fisica,Teruel,6,6,0,0,,1,0,5,2024_2T.xlsx,teruel,Aragon
+1626,fisica,Zaragoza,135,135,0,0,,17,0,118,2024_2T.xlsx,zaragoza,Aragon
+1627,fisica,Asturias,182,181,1,0,,38,0,144,2024_2T.xlsx,asturias,Asturias
+1628,fisica,"Balears, Illes",241,241,0,0,,36,0,205,2024_2T.xlsx,balears illes,Baleares
+1629,fisica,Canarias,528,526,1,1,,34,1,493,2024_2T.xlsx,canarias,
+1630,fisica,Las Palmas de Gran Canaria,429,428,1,0,,26,1,402,2024_2T.xlsx,las palmas de gran canaria,
+1631,fisica,Santa Cruz de Tenerife,99,98,0,1,,8,0,91,2024_2T.xlsx,santa cruz de tenerife,Canarias
+1632,fisica,Cantabria,49,49,0,0,,1,0,48,2024_2T.xlsx,cantabria,Cantabria
+1633,fisica,Castilla y León,251,248,3,0,,41,2,208,2024_2T.xlsx,castilla y leon,
+1634,fisica,Ávila,3,3,0,0,,0,0,3,2024_2T.xlsx,avila,Castilla y Leon
+1635,fisica,Burgos,9,9,0,0,,2,0,7,2024_2T.xlsx,burgos,Castilla y Leon
+1636,fisica,León,83,81,2,0,,17,0,66,2024_2T.xlsx,leon,Castilla y Leon
+1637,fisica,Palencia,13,13,0,0,,0,0,13,2024_2T.xlsx,palencia,Castilla y Leon
+1638,fisica,Salamanca,30,30,0,0,,3,0,27,2024_2T.xlsx,salamanca,Castilla y Leon
+1639,fisica,Segovia,13,13,0,0,,1,0,12,2024_2T.xlsx,segovia,Castilla y Leon
+1640,fisica,Soria,9,9,0,0,,1,0,8,2024_2T.xlsx,soria,Castilla y Leon
+1641,fisica,Valladolid,85,84,1,0,,16,0,69,2024_2T.xlsx,valladolid,Castilla y Leon
+1642,fisica,Zamora,6,6,0,0,,1,2,3,2024_2T.xlsx,zamora,Castilla y Leon
+1643,fisica,Castilla-La Mancha,228,225,1,2,,20,1,207,2024_2T.xlsx,castilla la mancha,
+1644,fisica,Albacete,60,60,0,0,,3,0,57,2024_2T.xlsx,albacete,Castilla La Mancha
+1645,fisica,Ciudad Real,28,28,0,0,,0,0,28,2024_2T.xlsx,ciudad real,Castilla La Mancha
+1646,fisica,Cuenca,26,26,0,0,,4,0,22,2024_2T.xlsx,cuenca,Castilla La Mancha
+1647,fisica,Guadalajara,43,43,0,0,,1,1,41,2024_2T.xlsx,guadalajara,Castilla La Mancha
+1648,fisica,Toledo,71,68,1,2,,12,0,59,2024_2T.xlsx,toledo,Castilla La Mancha
+1649,fisica,Cataluña,2118,2107,4,7,,236,4,1878,2024_2T.xlsx,cataluna,
+1650,fisica,Barcelona,1667,1660,2,5,,208,3,1456,2024_2T.xlsx,barcelona,Cataluña
+1651,fisica,Girona,111,111,0,0,,10,1,100,2024_2T.xlsx,girona,Cataluña
+1652,fisica,Lleida,137,135,2,0,,7,0,130,2024_2T.xlsx,lleida,Cataluña
+1653,fisica,Tarragona,203,201,0,2,,11,0,192,2024_2T.xlsx,tarragona,Cataluña
+1654,fisica,Comunitat Valenciana,1053,1053,0,0,,96,5,952,2024_2T.xlsx,comunitat valenciana,
+1655,fisica,Alicante,426,426,0,0,,26,1,399,2024_2T.xlsx,alicante,Valencia
+1656,fisica,Castellón,73,73,0,0,,7,0,66,2024_2T.xlsx,castellon,Valencia
+1657,fisica,Valencia,554,554,0,0,,63,4,487,2024_2T.xlsx,valencia,Valencia
+1658,fisica,Extremadura,111,111,0,0,,37,0,74,2024_2T.xlsx,extremadura,
+1659,fisica,Badajoz,96,96,0,0,,37,0,59,2024_2T.xlsx,badajoz,Extremadura
+1660,fisica,Cáceres,15,15,0,0,,0,0,15,2024_2T.xlsx,caceres,Extremadura
+1661,fisica,Galicia,312,311,0,1,,50,0,262,2024_2T.xlsx,galicia,
+1662,fisica,A Coruña,145,145,0,0,,24,0,121,2024_2T.xlsx,a coruna,Galicia
+1663,fisica,Lugo,54,53,0,1,,5,0,49,2024_2T.xlsx,lugo,Galicia
+1664,fisica,Ourense,27,27,0,0,,2,0,25,2024_2T.xlsx,ourense,Galicia
+1665,fisica,Pontevedra,86,86,0,0,,19,0,67,2024_2T.xlsx,pontevedra,Galicia
+1666,fisica,Madrid,1146,1072,0,74,,91,12,1043,2024_2T.xlsx,madrid,Madrid
+1667,fisica,Murcia,491,489,1,1,,34,2,455,2024_2T.xlsx,murcia,Murcia
+1668,fisica,Navarra,77,77,0,0,,3,0,74,2024_2T.xlsx,navarra,Navarra
+1669,fisica,Pais Vasco,227,227,0,0,,24,0,203,2024_2T.xlsx,pais vasco,
+1670,fisica,Araba/Álava,41,41,0,0,,3,0,38,2024_2T.xlsx,araba alava,Pais Vasco
+1671,fisica,Bizkaia,130,130,0,0,,11,0,119,2024_2T.xlsx,bizkaia,Pais Vasco
+1672,fisica,Gipuzkoa,56,56,0,0,,10,0,46,2024_2T.xlsx,gipuzkoa,Pais Vasco
+1673,fisica,La Rioja,26,26,0,0,,2,0,24,2024_2T.xlsx,la rioja,La Rioja
+1674,fisica,Ceuta y Melilla,24,22,0,2,,2,0,22,2024_2T.xlsx,ceuta y melilla,
+1675,fisica,Ceuta,16,14,0,2,,0,0,16,2024_2T.xlsx,ceuta,Ceuta
+1676,fisica,Melilla,8,8,0,0,,2,0,6,2024_2T.xlsx,melilla,Melilla
+1677,empresas,Andalucía,148,142,6,0,,49,27,72,2024_2T.xlsx,andalucia,
+1678,empresas,Almería,8,7,1,0,,5,1,2,2024_2T.xlsx,almeria,Andalucia
+1679,empresas,Cádiz,24,24,0,0,,5,2,17,2024_2T.xlsx,cadiz,Andalucia
+1680,empresas,Córdoba,9,9,0,0,,4,0,5,2024_2T.xlsx,cordoba,Andalucia
+1681,empresas,Granada,25,25,0,0,,4,12,9,2024_2T.xlsx,granada,Andalucia
+1682,empresas,Huelva,8,8,0,0,,3,2,3,2024_2T.xlsx,huelva,Andalucia
+1683,empresas,Jaén,5,5,0,0,,4,1,0,2024_2T.xlsx,jaen,Andalucia
+1684,empresas,Málaga,35,33,2,0,,9,4,22,2024_2T.xlsx,malaga,Andalucia
+1685,empresas,Sevilla,34,31,3,0,,15,5,14,2024_2T.xlsx,sevilla,Andalucia
+1686,empresas,Aragón,33,33,0,0,,6,3,24,2024_2T.xlsx,aragon,
+1687,empresas,Huesca,5,5,0,0,,1,3,1,2024_2T.xlsx,huesca,Aragon
+1688,empresas,Teruel,1,1,0,0,,0,0,1,2024_2T.xlsx,teruel,Aragon
+1689,empresas,Zaragoza,27,27,0,0,,5,0,22,2024_2T.xlsx,zaragoza,Aragon
+1690,empresas,Asturias,36,36,0,0,,6,14,16,2024_2T.xlsx,asturias,Asturias
+1691,empresas,"Balears, Illes",19,19,0,0,,10,0,9,2024_2T.xlsx,balears illes,Baleares
+1692,empresas,Canarias,30,29,1,0,,9,8,13,2024_2T.xlsx,canarias,
+1693,empresas,Las Palmas de Gran Canaria,19,18,1,0,,6,4,9,2024_2T.xlsx,las palmas de gran canaria,
+1694,empresas,Santa Cruz de Tenerife,11,11,0,0,,3,4,4,2024_2T.xlsx,santa cruz de tenerife,Canarias
+1695,empresas,Cantabria,10,10,0,0,,2,8,0,2024_2T.xlsx,cantabria,Cantabria
+1696,empresas,Castilla y León,39,39,0,0,,12,11,16,2024_2T.xlsx,castilla y leon,
+1697,empresas,Ávila,0,0,0,0,,0,0,0,2024_2T.xlsx,avila,Castilla y Leon
+1698,empresas,Burgos,4,4,0,0,,0,1,3,2024_2T.xlsx,burgos,Castilla y Leon
+1699,empresas,León,10,10,0,0,,3,4,3,2024_2T.xlsx,leon,Castilla y Leon
+1700,empresas,Palencia,2,2,0,0,,2,0,0,2024_2T.xlsx,palencia,Castilla y Leon
+1701,empresas,Salamanca,6,6,0,0,,0,1,5,2024_2T.xlsx,salamanca,Castilla y Leon
+1702,empresas,Segovia,3,3,0,0,,2,1,0,2024_2T.xlsx,segovia,Castilla y Leon
+1703,empresas,Soria,1,1,0,0,,1,0,0,2024_2T.xlsx,soria,Castilla y Leon
+1704,empresas,Valladolid,11,11,0,0,,4,3,4,2024_2T.xlsx,valladolid,Castilla y Leon
+1705,empresas,Zamora,2,2,0,0,,0,1,1,2024_2T.xlsx,zamora,Castilla y Leon
+1706,empresas,Castilla-La Mancha,43,41,2,0,,11,3,29,2024_2T.xlsx,castilla la mancha,
+1707,empresas,Albacete,20,20,0,0,,5,1,14,2024_2T.xlsx,albacete,Castilla La Mancha
+1708,empresas,Ciudad Real,8,7,1,0,,2,0,6,2024_2T.xlsx,ciudad real,Castilla La Mancha
+1709,empresas,Cuenca,1,0,1,0,,1,0,0,2024_2T.xlsx,cuenca,Castilla La Mancha
+1710,empresas,Guadalajara,3,3,0,0,,1,1,1,2024_2T.xlsx,guadalajara,Castilla La Mancha
+1711,empresas,Toledo,11,11,0,0,,2,1,8,2024_2T.xlsx,toledo,Castilla La Mancha
+1712,empresas,Cataluña,382,377,5,0,,81,36,265,2024_2T.xlsx,cataluna,
+1713,empresas,Barcelona,325,321,4,0,,74,28,223,2024_2T.xlsx,barcelona,Cataluña
+1714,empresas,Girona,16,15,1,0,,2,3,11,2024_2T.xlsx,girona,Cataluña
+1715,empresas,Lleida,18,18,0,0,,4,3,11,2024_2T.xlsx,lleida,Cataluña
+1716,empresas,Tarragona,23,23,0,0,,1,2,20,2024_2T.xlsx,tarragona,Cataluña
+1717,empresas,Comunitat Valenciana,194,190,4,0,,50,33,111,2024_2T.xlsx,comunitat valenciana,
+1718,empresas,Alicante,91,90,1,0,,27,3,61,2024_2T.xlsx,alicante,Valencia
+1719,empresas,Castellón,6,6,0,0,,1,4,1,2024_2T.xlsx,castellon,Valencia
+1720,empresas,Valencia,97,94,3,0,,22,26,49,2024_2T.xlsx,valencia,Valencia
+1721,empresas,Extremadura,15,13,2,0,,6,2,7,2024_2T.xlsx,extremadura,
+1722,empresas,Badajoz,9,7,2,0,,4,2,3,2024_2T.xlsx,badajoz,Extremadura
+1723,empresas,Cáceres,6,6,0,0,,2,0,4,2024_2T.xlsx,caceres,Extremadura
+1724,empresas,Galicia,69,65,3,1,,33,3,33,2024_2T.xlsx,galicia,
+1725,empresas,A Coruña,25,24,1,0,,8,1,16,2024_2T.xlsx,a coruna,Galicia
+1726,empresas,Lugo,12,12,0,0,,9,1,2,2024_2T.xlsx,lugo,Galicia
+1727,empresas,Ourense,2,1,0,1,,1,1,0,2024_2T.xlsx,ourense,Galicia
+1728,empresas,Pontevedra,30,28,2,0,,15,0,15,2024_2T.xlsx,pontevedra,Galicia
+1729,empresas,Madrid,317,303,11,3,,69,140,108,2024_2T.xlsx,madrid,Madrid
+1730,empresas,Murcia,45,41,4,0,,23,6,16,2024_2T.xlsx,murcia,Murcia
+1731,empresas,Navarra,12,12,0,0,,5,0,7,2024_2T.xlsx,navarra,Navarra
+1732,empresas,Pais Vasco,73,71,2,0,,28,13,32,2024_2T.xlsx,pais vasco,
+1733,empresas,Araba/Álava,15,15,0,0,,7,2,6,2024_2T.xlsx,araba alava,Pais Vasco
+1734,empresas,Bizkaia,42,40,2,0,,17,10,15,2024_2T.xlsx,bizkaia,Pais Vasco
+1735,empresas,Gipuzkoa,16,16,0,0,,4,1,11,2024_2T.xlsx,gipuzkoa,Pais Vasco
+1736,,La Rioja,6,6,0,0,,1,4,1,2024_2T.xlsx,la rioja,La Rioja
+1737,,Ceuta y Melilla,3,3,0,0,,1,1,1,2024_2T.xlsx,ceuta y melilla,
+1738,fisica,Andalucía,1297,1294,1,2,,197,12,1088,2024_3T.xlsx,andalucia,
+1739,fisica,Almería,98,97,0,1,,12,0,86,2024_3T.xlsx,almeria,Andalucia
+1740,fisica,Cádiz,264,264,0,0,,18,0,246,2024_3T.xlsx,cadiz,Andalucia
+1741,fisica,Córdoba,52,52,0,0,,6,0,46,2024_3T.xlsx,cordoba,Andalucia
+1742,fisica,Granada,94,93,1,0,,17,2,75,2024_3T.xlsx,granada,Andalucia
+1743,fisica,Huelva,80,80,0,0,,19,0,61,2024_3T.xlsx,huelva,Andalucia
+1744,fisica,Jaén,114,113,0,1,,44,2,68,2024_3T.xlsx,jaen,Andalucia
+1745,fisica,Málaga,182,182,0,0,,29,6,147,2024_3T.xlsx,malaga,Andalucia
+1746,fisica,Sevilla,413,413,0,0,,52,2,359,2024_3T.xlsx,sevilla,Andalucia
+1747,fisica,Aragón,134,134,0,0,,17,2,115,2024_3T.xlsx,aragon,
+1748,fisica,Huesca,39,39,0,0,,3,0,36,2024_3T.xlsx,huesca,Aragon
+1749,fisica,Teruel,8,8,0,0,,0,2,6,2024_3T.xlsx,teruel,Aragon
+1750,fisica,Zaragoza,87,87,0,0,,14,0,73,2024_3T.xlsx,zaragoza,Aragon
+1751,fisica,Asturias,141,141,0,0,,55,0,86,2024_3T.xlsx,asturias,Asturias
+1752,fisica,"Balears, Illes",225,223,2,0,,22,0,203,2024_3T.xlsx,balears illes,Baleares
+1753,fisica,Canarias,449,448,0,1,,50,0,399,2024_3T.xlsx,canarias,
+1754,fisica,Las Palmas de Gran Canaria,295,295,0,0,,39,0,256,2024_3T.xlsx,las palmas de gran canaria,
+1755,fisica,Santa Cruz de Tenerife,154,153,0,1,,11,0,143,2024_3T.xlsx,santa cruz de tenerife,Canarias
+1756,fisica,Cantabria,92,92,0,0,,12,2,78,2024_3T.xlsx,cantabria,Cantabria
+1757,fisica,Castilla y León,274,271,3,0,,36,4,234,2024_3T.xlsx,castilla y leon,
+1758,fisica,Ávila,16,16,0,0,,1,0,15,2024_3T.xlsx,avila,Castilla y Leon
+1759,fisica,Burgos,21,21,0,0,,8,0,13,2024_3T.xlsx,burgos,Castilla y Leon
+1760,fisica,León,68,66,2,0,,21,1,46,2024_3T.xlsx,leon,Castilla y Leon
+1761,fisica,Palencia,10,10,0,0,,0,0,10,2024_3T.xlsx,palencia,Castilla y Leon
+1762,fisica,Salamanca,50,50,0,0,,1,1,48,2024_3T.xlsx,salamanca,Castilla y Leon
+1763,fisica,Segovia,8,8,0,0,,1,1,6,2024_3T.xlsx,segovia,Castilla y Leon
+1764,fisica,Soria,13,13,0,0,,2,0,11,2024_3T.xlsx,soria,Castilla y Leon
+1765,fisica,Valladolid,82,82,0,0,,2,1,79,2024_3T.xlsx,valladolid,Castilla y Leon
+1766,fisica,Zamora,6,5,1,0,,0,0,6,2024_3T.xlsx,zamora,Castilla y Leon
+1767,fisica,Castilla-La Mancha,190,189,0,1,,14,0,176,2024_3T.xlsx,castilla la mancha,
+1768,fisica,Albacete,57,57,0,0,,3,0,54,2024_3T.xlsx,albacete,Castilla La Mancha
+1769,fisica,Ciudad Real,4,4,0,0,,1,0,3,2024_3T.xlsx,ciudad real,Castilla La Mancha
+1770,fisica,Cuenca,13,13,0,0,,0,0,13,2024_3T.xlsx,cuenca,Castilla La Mancha
+1771,fisica,Guadalajara,59,58,0,1,,7,0,52,2024_3T.xlsx,guadalajara,Castilla La Mancha
+1772,fisica,Toledo,57,57,0,0,,3,0,54,2024_3T.xlsx,toledo,Castilla La Mancha
+1773,fisica,Cataluña,2301,2295,3,3,,253,0,2048,2024_3T.xlsx,cataluna,
+1774,fisica,Barcelona,1801,1796,2,3,,230,0,1571,2024_3T.xlsx,barcelona,Cataluña
+1775,fisica,Girona,131,131,0,0,,5,0,126,2024_3T.xlsx,girona,Cataluña
+1776,fisica,Lleida,168,168,0,0,,4,0,164,2024_3T.xlsx,lleida,Cataluña
+1777,fisica,Tarragona,201,200,1,0,,14,0,187,2024_3T.xlsx,tarragona,Cataluña
+1778,fisica,Comunitat Valenciana,1262,1262,0,0,,105,10,1147,2024_3T.xlsx,comunitat valenciana,
+1779,fisica,Alicante,484,484,0,0,,15,0,469,2024_3T.xlsx,alicante,Valencia
+1780,fisica,Castellón,76,76,0,0,,6,0,70,2024_3T.xlsx,castellon,Valencia
+1781,fisica,Valencia,702,702,0,0,,84,10,608,2024_3T.xlsx,valencia,Valencia
+1782,fisica,Extremadura,150,148,2,0,,31,0,119,2024_3T.xlsx,extremadura,
+1783,fisica,Badajoz,82,81,1,0,,27,0,55,2024_3T.xlsx,badajoz,Extremadura
+1784,fisica,Cáceres,68,67,1,0,,4,0,64,2024_3T.xlsx,caceres,Extremadura
+1785,fisica,Galicia,305,305,0,0,,39,1,265,2024_3T.xlsx,galicia,
+1786,fisica,A Coruña,153,153,0,0,,19,0,134,2024_3T.xlsx,a coruna,Galicia
+1787,fisica,Lugo,35,35,0,0,,7,0,28,2024_3T.xlsx,lugo,Galicia
+1788,fisica,Ourense,17,17,0,0,,0,0,17,2024_3T.xlsx,ourense,Galicia
+1789,fisica,Pontevedra,100,100,0,0,,13,1,86,2024_3T.xlsx,pontevedra,Galicia
+1790,fisica,Madrid,1019,1005,0,14,,93,8,918,2024_3T.xlsx,madrid,Madrid
+1791,fisica,Murcia,506,506,0,0,,27,3,476,2024_3T.xlsx,murcia,Murcia
+1792,fisica,Navarra,56,56,0,0,,6,0,50,2024_3T.xlsx,navarra,Navarra
+1793,fisica,Pais Vasco,164,164,0,0,,16,0,148,2024_3T.xlsx,pais vasco,
+1794,fisica,Araba/Álava,43,43,0,0,,2,0,41,2024_3T.xlsx,araba alava,Pais Vasco
+1795,fisica,Bizkaia,64,64,0,0,,9,0,55,2024_3T.xlsx,bizkaia,Pais Vasco
+1796,fisica,Gipuzkoa,57,57,0,0,,5,0,52,2024_3T.xlsx,gipuzkoa,Pais Vasco
+1797,fisica,La Rioja,44,44,0,0,,3,0,41,2024_3T.xlsx,la rioja,La Rioja
+1798,fisica,Ceuta y Melilla,32,30,0,2,,0,0,32,2024_3T.xlsx,ceuta y melilla,
+1799,fisica,Ceuta,#REF!,#REF!,#REF!,#REF!,,#REF!,#REF!,#REF!,2024_3T.xlsx,ceuta,Ceuta
+1800,fisica,Melilla,#REF!,#REF!,#REF!,#REF!,,#REF!,#REF!,#REF!,2024_3T.xlsx,melilla,Melilla
+1801,empresas,Andalucía,155,151,4,0,,66,15,74,2024_3T.xlsx,andalucia,
+1802,empresas,Almería,8,7,1,0,,5,0,3,2024_3T.xlsx,almeria,Andalucia
+1803,empresas,Cádiz,19,19,0,0,,9,0,10,2024_3T.xlsx,cadiz,Andalucia
+1804,empresas,Córdoba,16,15,1,0,,4,0,12,2024_3T.xlsx,cordoba,Andalucia
+1805,empresas,Granada,13,13,0,0,,5,1,7,2024_3T.xlsx,granada,Andalucia
+1806,empresas,Huelva,9,9,0,0,,3,5,1,2024_3T.xlsx,huelva,Andalucia
+1807,empresas,Jaén,12,12,0,0,,4,4,4,2024_3T.xlsx,jaen,Andalucia
+1808,empresas,Málaga,24,22,2,0,,8,4,12,2024_3T.xlsx,malaga,Andalucia
+1809,empresas,Sevilla,54,54,0,0,,28,1,25,2024_3T.xlsx,sevilla,Andalucia
+1810,empresas,Aragón,22,22,0,0,,12,1,9,2024_3T.xlsx,aragon,
+1811,empresas,Huesca,3,3,0,0,,1,1,1,2024_3T.xlsx,huesca,Aragon
+1812,empresas,Teruel,1,1,0,0,,0,0,1,2024_3T.xlsx,teruel,Aragon
+1813,empresas,Zaragoza,18,18,0,0,,11,0,7,2024_3T.xlsx,zaragoza,Aragon
+1814,empresas,Asturias,27,27,0,0,,6,5,16,2024_3T.xlsx,asturias,Asturias
+1815,empresas,"Balears, Illes",24,21,3,0,,12,1,11,2024_3T.xlsx,balears illes,Baleares
+1816,empresas,Canarias,25,25,0,0,,7,10,8,2024_3T.xlsx,canarias,
+1817,empresas,Las Palmas de Gran Canaria,15,15,0,0,,3,9,3,2024_3T.xlsx,las palmas de gran canaria,
+1818,empresas,Santa Cruz de Tenerife,10,10,0,0,,4,1,5,2024_3T.xlsx,santa cruz de tenerife,Canarias
+1819,empresas,Cantabria,5,5,0,0,,2,1,2,2024_3T.xlsx,cantabria,Cantabria
+1820,empresas,Castilla y León,41,41,0,0,,11,12,18,2024_3T.xlsx,castilla y leon,
+1821,empresas,Ávila,0,0,0,0,,0,0,0,2024_3T.xlsx,avila,Castilla y Leon
+1822,empresas,Burgos,3,3,0,0,,1,0,2,2024_3T.xlsx,burgos,Castilla y Leon
+1823,empresas,León,9,9,0,0,,1,5,3,2024_3T.xlsx,leon,Castilla y Leon
+1824,empresas,Palencia,2,2,0,0,,1,0,1,2024_3T.xlsx,palencia,Castilla y Leon
+1825,empresas,Salamanca,7,7,0,0,,1,0,6,2024_3T.xlsx,salamanca,Castilla y Leon
+1826,empresas,Segovia,3,3,0,0,,0,3,0,2024_3T.xlsx,segovia,Castilla y Leon
+1827,empresas,Soria,2,2,0,0,,2,0,0,2024_3T.xlsx,soria,Castilla y Leon
+1828,empresas,Valladolid,15,15,0,0,,5,4,6,2024_3T.xlsx,valladolid,Castilla y Leon
+1829,empresas,Zamora,0,0,0,0,,0,0,0,2024_3T.xlsx,zamora,Castilla y Leon
+1830,empresas,Castilla-La Mancha,34,32,2,0,,2,1,31,2024_3T.xlsx,castilla la mancha,
+1831,empresas,Albacete,15,13,2,0,,0,0,15,2024_3T.xlsx,albacete,Castilla La Mancha
+1832,empresas,Ciudad Real,5,5,0,0,,1,0,4,2024_3T.xlsx,ciudad real,Castilla La Mancha
+1833,empresas,Cuenca,1,1,0,0,,0,0,1,2024_3T.xlsx,cuenca,Castilla La Mancha
+1834,empresas,Guadalajara,7,7,0,0,,0,1,6,2024_3T.xlsx,guadalajara,Castilla La Mancha
+1835,empresas,Toledo,6,6,0,0,,1,0,5,2024_3T.xlsx,toledo,Castilla La Mancha
+1836,empresas,Cataluña,297,294,3,0,,65,18,214,2024_3T.xlsx,cataluna,
+1837,empresas,Barcelona,254,251,3,0,,56,17,181,2024_3T.xlsx,barcelona,Cataluña
+1838,empresas,Girona,25,25,0,0,,0,0,25,2024_3T.xlsx,girona,Cataluña
+1839,empresas,Lleida,7,7,0,0,,3,0,4,2024_3T.xlsx,lleida,Cataluña
+1840,empresas,Tarragona,11,11,0,0,,6,1,4,2024_3T.xlsx,tarragona,Cataluña
+1841,empresas,Comunitat Valenciana,165,163,2,0,,34,65,66,2024_3T.xlsx,comunitat valenciana,
+1842,empresas,Alicante,43,43,0,0,,6,8,29,2024_3T.xlsx,alicante,Valencia
+1843,empresas,Castellón,10,10,0,0,,2,2,6,2024_3T.xlsx,castellon,Valencia
+1844,empresas,Valencia,112,110,2,0,,26,55,31,2024_3T.xlsx,valencia,Valencia
+1845,empresas,Extremadura,20,20,0,0,,4,5,11,2024_3T.xlsx,extremadura,
+1846,empresas,Badajoz,11,11,0,0,,3,5,3,2024_3T.xlsx,badajoz,Extremadura
+1847,empresas,Cáceres,9,9,0,0,,1,0,8,2024_3T.xlsx,caceres,Extremadura
+1848,empresas,Galicia,71,70,1,0,,25,4,42,2024_3T.xlsx,galicia,
+1849,empresas,A Coruña,26,25,1,0,,6,2,18,2024_3T.xlsx,a coruna,Galicia
+1850,empresas,Lugo,9,9,0,0,,3,1,5,2024_3T.xlsx,lugo,Galicia
+1851,empresas,Ourense,4,4,0,0,,2,0,2,2024_3T.xlsx,ourense,Galicia
+1852,empresas,Pontevedra,32,32,0,0,,14,1,17,2024_3T.xlsx,pontevedra,Galicia
+1853,empresas,Madrid,183,181,2,0,,57,86,40,2024_3T.xlsx,madrid,Madrid
+1854,empresas,Murcia,46,45,1,0,,8,12,26,2024_3T.xlsx,murcia,Murcia
+1855,empresas,Navarra,7,6,1,0,,6,0,1,2024_3T.xlsx,navarra,Navarra
+1856,empresas,Pais Vasco,62,62,0,0,,14,19,29,2024_3T.xlsx,pais vasco,
+1857,empresas,Araba/Álava,11,11,0,0,,5,2,4,2024_3T.xlsx,araba alava,Pais Vasco
+1858,empresas,Bizkaia,29,29,0,0,,5,13,11,2024_3T.xlsx,bizkaia,Pais Vasco
+1859,empresas,Gipuzkoa,22,22,0,0,,4,4,14,2024_3T.xlsx,gipuzkoa,Pais Vasco
+1860,empresas,La Rioja,5,5,0,0,,2,2,1,2024_3T.xlsx,la rioja,La Rioja
+1861,empresas,Ceuta y Melilla,3,3,0,0,,0,0,3,2024_3T.xlsx,ceuta y melilla,
+1862,fisica,Andalucía,1497,1497,0,0,,254,15,1228,2024_4T.xlsx,andalucia,
+1863,fisica,Almería,156,156,0,0,,25,3,128,2024_4T.xlsx,almeria,Andalucia
+1864,fisica,Cádiz,238,238,0,0,,18,2,218,2024_4T.xlsx,cadiz,Andalucia
+1865,fisica,Córdoba,137,137,0,0,,19,0,118,2024_4T.xlsx,cordoba,Andalucia
+1866,fisica,Granada,169,169,0,0,,53,2,114,2024_4T.xlsx,granada,Andalucia
+1867,fisica,Huelva,57,57,0,0,,25,0,32,2024_4T.xlsx,huelva,Andalucia
+1868,fisica,Jaén,78,78,0,0,,48,0,30,2024_4T.xlsx,jaen,Andalucia
+1869,fisica,Málaga,334,334,0,0,,47,5,282,2024_4T.xlsx,malaga,Andalucia
+1870,fisica,Sevilla,328,328,0,0,,19,3,306,2024_4T.xlsx,sevilla,Andalucia
+1871,fisica,Aragón,186,186,0,0,,28,0,158,2024_4T.xlsx,aragon,
+1872,fisica,Huesca,40,40,0,0,,6,0,34,2024_4T.xlsx,huesca,Aragon
+1873,fisica,Teruel,15,15,0,0,,1,0,14,2024_4T.xlsx,teruel,Aragon
+1874,fisica,Zaragoza,131,131,0,0,,21,0,110,2024_4T.xlsx,zaragoza,Aragon
+1875,fisica,Asturias,237,237,0,0,,52,0,185,2024_4T.xlsx,asturias,Asturias
+1876,fisica,"Balears, Illes",318,316,0,2,,12,0,306,2024_4T.xlsx,balears illes,Baleares
+1877,fisica,Canarias,665,665,0,0,,33,2,630,2024_4T.xlsx,canarias,
+1878,fisica,Las Palmas de Gran Canaria,357,357,0,0,,11,0,346,2024_4T.xlsx,las palmas de gran canaria,
+1879,fisica,Santa Cruz de Tenerife,308,308,0,0,,22,2,284,2024_4T.xlsx,santa cruz de tenerife,Canarias
+1880,fisica,Cantabria,89,89,0,0,,12,0,77,2024_4T.xlsx,cantabria,Cantabria
+1881,fisica,Castilla y León,397,397,0,0,,48,5,344,2024_4T.xlsx,castilla y leon,
+1882,fisica,Ávila,37,37,0,0,,0,0,37,2024_4T.xlsx,avila,Castilla y Leon
+1883,fisica,Burgos,40,40,0,0,,8,0,32,2024_4T.xlsx,burgos,Castilla y Leon
+1884,fisica,León,109,109,0,0,,18,3,88,2024_4T.xlsx,leon,Castilla y Leon
+1885,fisica,Palencia,28,28,0,0,,0,0,28,2024_4T.xlsx,palencia,Castilla y Leon
+1886,fisica,Salamanca,62,62,0,0,,8,0,54,2024_4T.xlsx,salamanca,Castilla y Leon
+1887,fisica,Segovia,26,26,0,0,,3,1,22,2024_4T.xlsx,segovia,Castilla y Leon
+1888,fisica,Soria,11,11,0,0,,0,0,11,2024_4T.xlsx,soria,Castilla y Leon
+1889,fisica,Valladolid,77,77,0,0,,11,1,65,2024_4T.xlsx,valladolid,Castilla y Leon
+1890,fisica,Zamora,7,7,0,0,,0,0,7,2024_4T.xlsx,zamora,Castilla y Leon
+1891,fisica,Castilla-La Mancha,333,333,0,0,,32,4,297,2024_4T.xlsx,castilla la mancha,
+1892,fisica,Albacete,100,100,0,0,,9,0,91,2024_4T.xlsx,albacete,Castilla La Mancha
+1893,fisica,Ciudad Real,4,4,0,0,,2,0,2,2024_4T.xlsx,ciudad real,Castilla La Mancha
+1894,fisica,Cuenca,25,25,0,0,,0,0,25,2024_4T.xlsx,cuenca,Castilla La Mancha
+1895,fisica,Guadalajara,17,17,0,0,,2,0,15,2024_4T.xlsx,guadalajara,Castilla La Mancha
+1896,fisica,Toledo,187,187,0,0,,19,4,164,2024_4T.xlsx,toledo,Castilla La Mancha
+1897,fisica,Cataluña,3121,3118,2,1,,433,3,2685,2024_4T.xlsx,cataluna,
+1898,fisica,Barcelona,2306,2304,2,0,,369,2,1935,2024_4T.xlsx,barcelona,Cataluña
+1899,fisica,Girona,303,303,0,0,,28,0,275,2024_4T.xlsx,girona,Cataluña
+1900,fisica,Lleida,214,214,0,0,,16,1,197,2024_4T.xlsx,lleida,Cataluña
+1901,fisica,Tarragona,298,297,0,1,,20,0,278,2024_4T.xlsx,tarragona,Cataluña
+1902,fisica,Comunitat Valenciana,1432,1431,1,0,,138,15,1279,2024_4T.xlsx,comunitat valenciana,
+1903,fisica,Alicante,525,525,0,0,,20,3,502,2024_4T.xlsx,alicante,Valencia
+1904,fisica,Castellón,64,64,0,0,,7,0,57,2024_4T.xlsx,castellon,Valencia
+1905,fisica,Valencia,843,842,1,0,,111,12,720,2024_4T.xlsx,valencia,Valencia
+1906,fisica,Extremadura,164,164,0,0,,53,1,110,2024_4T.xlsx,extremadura,
+1907,fisica,Badajoz,127,127,0,0,,46,1,80,2024_4T.xlsx,badajoz,Extremadura
+1908,fisica,Cáceres,37,37,0,0,,7,0,30,2024_4T.xlsx,caceres,Extremadura
+1909,fisica,Galicia,434,432,2,0,,56,0,378,2024_4T.xlsx,galicia,
+1910,fisica,A Coruña,230,229,1,0,,19,0,211,2024_4T.xlsx,a coruna,Galicia
+1911,fisica,Lugo,40,40,0,0,,13,0,27,2024_4T.xlsx,lugo,Galicia
+1912,fisica,Ourense,36,36,0,0,,8,0,28,2024_4T.xlsx,ourense,Galicia
+1913,fisica,Pontevedra,128,127,1,0,,16,0,112,2024_4T.xlsx,pontevedra,Galicia
+1914,fisica,Madrid,2007,2005,1,1,,136,30,1841,2024_4T.xlsx,madrid,Madrid
+1915,fisica,Murcia,661,660,1,0,,49,3,609,2024_4T.xlsx,murcia,Murcia
+1916,fisica,Navarra,96,96,0,0,,7,0,89,2024_4T.xlsx,navarra,Navarra
+1917,fisica,Pais Vasco,271,271,0,0,,21,0,250,2024_4T.xlsx,pais vasco,
+1918,fisica,Araba/Álava,48,48,0,0,,5,0,43,2024_4T.xlsx,araba alava,Pais Vasco
+1919,fisica,Bizkaia,139,139,0,0,,7,0,132,2024_4T.xlsx,bizkaia,Pais Vasco
+1920,fisica,Gipuzkoa,84,84,0,0,,9,0,75,2024_4T.xlsx,gipuzkoa,Pais Vasco
+1921,fisica,La Rioja,46,46,0,0,,4,0,42,2024_4T.xlsx,la rioja,La Rioja
+1922,fisica,Ceuta y Melilla,18,18,0,0,,1,0,17,2024_4T.xlsx,ceuta y melilla,
+1923,fisica,Ceuta,9,9,0,0,,0,0,9,2024_4T.xlsx,ceuta,Ceuta
+1924,fisica,Melilla,9,9,0,0,,1,0,8,2024_4T.xlsx,melilla,Melilla
+1925,empresas,Andalucía,166,161,5,0,,58,16,92,2024_4T.xlsx,andalucia,
+1926,empresas,Almería,10,10,0,0,,3,3,4,2024_4T.xlsx,almeria,Andalucia
+1927,empresas,Cádiz,25,24,1,0,,13,2,10,2024_4T.xlsx,cadiz,Andalucia
+1928,empresas,Córdoba,12,12,0,0,,3,0,9,2024_4T.xlsx,cordoba,Andalucia
+1929,empresas,Granada,10,10,0,0,,4,3,3,2024_4T.xlsx,granada,Andalucia
+1930,empresas,Huelva,4,4,0,0,,1,1,2,2024_4T.xlsx,huelva,Andalucia
+1931,empresas,Jaén,8,8,0,0,,5,1,2,2024_4T.xlsx,jaen,Andalucia
+1932,empresas,Málaga,41,37,4,0,,15,3,23,2024_4T.xlsx,malaga,Andalucia
+1933,empresas,Sevilla,56,56,0,0,,14,3,39,2024_4T.xlsx,sevilla,Andalucia
+1934,empresas,Aragón,24,24,0,0,,9,1,14,2024_4T.xlsx,aragon,
+1935,empresas,Huesca,1,1,0,0,,0,0,1,2024_4T.xlsx,huesca,Aragon
+1936,empresas,Teruel,4,4,0,0,,3,0,1,2024_4T.xlsx,teruel,Aragon
+1937,empresas,Zaragoza,19,19,0,0,,6,1,12,2024_4T.xlsx,zaragoza,Aragon
+1938,empresas,Asturias,23,22,1,0,,4,4,15,2024_4T.xlsx,asturias,Asturias
+1939,empresas,"Balears, Illes",9,8,1,0,,4,0,5,2024_4T.xlsx,balears illes,Baleares
+1940,empresas,Canarias,40,39,1,0,,16,9,15,2024_4T.xlsx,canarias,
+1941,empresas,Las Palmas de Gran Canaria,23,22,1,0,,9,9,5,2024_4T.xlsx,las palmas de gran canaria,
+1942,empresas,Santa Cruz de Tenerife,17,17,0,0,,7,0,10,2024_4T.xlsx,santa cruz de tenerife,Canarias
+1943,empresas,Cantabria,12,11,1,0,,3,7,2,2024_4T.xlsx,cantabria,Cantabria
+1944,empresas,Castilla y León,21,21,0,0,,6,4,11,2024_4T.xlsx,castilla y leon,
+1945,empresas,Ávila,1,1,0,0,,0,0,1,2024_4T.xlsx,avila,Castilla y Leon
+1946,empresas,Burgos,2,2,0,0,,0,0,2,2024_4T.xlsx,burgos,Castilla y Leon
+1947,empresas,León,7,7,0,0,,4,3,0,2024_4T.xlsx,leon,Castilla y Leon
+1948,empresas,Palencia,2,2,0,0,,1,0,1,2024_4T.xlsx,palencia,Castilla y Leon
+1949,empresas,Salamanca,2,2,0,0,,1,0,1,2024_4T.xlsx,salamanca,Castilla y Leon
+1950,empresas,Segovia,0,0,0,0,,0,0,0,2024_4T.xlsx,segovia,Castilla y Leon
+1951,empresas,Soria,0,0,0,0,,0,0,0,2024_4T.xlsx,soria,Castilla y Leon
+1952,empresas,Valladolid,6,6,0,0,,0,1,5,2024_4T.xlsx,valladolid,Castilla y Leon
+1953,empresas,Zamora,1,1,0,0,,0,0,1,2024_4T.xlsx,zamora,Castilla y Leon
+1954,empresas,Castilla-La Mancha,34,34,0,0,,13,2,19,2024_4T.xlsx,castilla la mancha,
+1955,empresas,Albacete,9,9,0,0,,3,0,6,2024_4T.xlsx,albacete,Castilla La Mancha
+1956,empresas,Ciudad Real,8,8,0,0,,2,0,6,2024_4T.xlsx,ciudad real,Castilla La Mancha
+1957,empresas,Cuenca,2,2,0,0,,1,0,1,2024_4T.xlsx,cuenca,Castilla La Mancha
+1958,empresas,Guadalajara,3,3,0,0,,0,0,3,2024_4T.xlsx,guadalajara,Castilla La Mancha
+1959,empresas,Toledo,12,12,0,0,,7,2,3,2024_4T.xlsx,toledo,Castilla La Mancha
+1960,empresas,Cataluña,351,345,6,0,,100,22,229,2024_4T.xlsx,cataluna,
+1961,empresas,Barcelona,308,305,3,0,,92,19,197,2024_4T.xlsx,barcelona,Cataluña
+1962,empresas,Girona,16,14,2,0,,3,1,12,2024_4T.xlsx,girona,Cataluña
+1963,empresas,Lleida,12,12,0,0,,3,0,9,2024_4T.xlsx,lleida,Cataluña
+1964,empresas,Tarragona,15,14,1,0,,2,2,11,2024_4T.xlsx,tarragona,Cataluña
+1965,empresas,Comunitat Valenciana,149,148,1,0,,27,56,66,2024_4T.xlsx,comunitat valenciana,
+1966,empresas,Alicante,47,47,0,0,,6,3,38,2024_4T.xlsx,alicante,Valencia
+1967,empresas,Castellón,11,11,0,0,,3,5,3,2024_4T.xlsx,castellon,Valencia
+1968,empresas,Valencia,91,90,1,0,,18,48,25,2024_4T.xlsx,valencia,Valencia
+1969,empresas,Extremadura,19,17,2,0,,9,2,8,2024_4T.xlsx,extremadura,
+1970,empresas,Badajoz,10,10,0,0,,4,2,4,2024_4T.xlsx,badajoz,Extremadura
+1971,empresas,Cáceres,9,7,2,0,,5,0,4,2024_4T.xlsx,caceres,Extremadura
+1972,empresas,Galicia,63,61,2,0,,33,0,30,2024_4T.xlsx,galicia,
+1973,empresas,A Coruña,32,31,1,0,,15,0,17,2024_4T.xlsx,a coruna,Galicia
+1974,empresas,Lugo,8,8,0,0,,3,0,5,2024_4T.xlsx,lugo,Galicia
+1975,empresas,Ourense,2,2,0,0,,2,0,0,2024_4T.xlsx,ourense,Galicia
+1976,empresas,Pontevedra,21,20,1,0,,13,0,8,2024_4T.xlsx,pontevedra,Galicia
+1977,empresas,Madrid,356,340,16,0,,89,156,111,2024_4T.xlsx,madrid,Madrid
+1978,empresas,Murcia,46,45,1,0,,12,13,21,2024_4T.xlsx,murcia,Murcia
+1979,empresas,Navarra,11,11,0,0,,5,1,5,2024_4T.xlsx,navarra,Navarra
+1980,empresas,Pais Vasco,68,67,1,0,,22,21,25,2024_4T.xlsx,pais vasco,
+1981,empresas,Araba/Álava,15,15,0,0,,5,4,6,2024_4T.xlsx,araba alava,Pais Vasco
+1982,empresas,Bizkaia,34,33,1,0,,12,7,15,2024_4T.xlsx,bizkaia,Pais Vasco
+1983,empresas,Gipuzkoa,19,19,0,0,,5,10,4,2024_4T.xlsx,gipuzkoa,Pais Vasco
+1984,empresas,La Rioja,3,3,0,0,,1,0,2,2024_4T.xlsx,la rioja,La Rioja
+1985,empresas,Ceuta y Melilla,2,2,0,0,,1,0,1,2024_4T.xlsx,ceuta y melilla,
+1986,fisica,Andalucía,1945,1944,1,0,,271,19,1655,2025_1T.xlsx,andalucia,
+1987,fisica,Almería,259,259,0,0,,20,6,233,2025_1T.xlsx,almeria,Andalucia
+1988,fisica,Cádiz,338,338,0,0,,50,0,288,2025_1T.xlsx,cadiz,Andalucia
+1989,fisica,Córdoba,111,111,0,0,,12,0,99,2025_1T.xlsx,cordoba,Andalucia
+1990,fisica,Granada,201,201,0,0,,61,7,133,2025_1T.xlsx,granada,Andalucia
+1991,fisica,Huelva,119,119,0,0,,34,0,85,2025_1T.xlsx,huelva,Andalucia
+1992,fisica,Jaén,36,36,0,0,,17,0,19,2025_1T.xlsx,jaen,Andalucia
+1993,fisica,Málaga,383,383,0,0,,53,6,324,2025_1T.xlsx,malaga,Andalucia
+1994,fisica,Sevilla,498,497,1,0,,24,0,474,2025_1T.xlsx,sevilla,Andalucia
+1995,fisica,Aragón,204,204,0,0,,20,1,183,2025_1T.xlsx,aragon,
+1996,fisica,Huesca,62,62,0,0,,6,1,55,2025_1T.xlsx,huesca,Aragon
+1997,fisica,Teruel,15,15,0,0,,0,0,15,2025_1T.xlsx,teruel,Aragon
+1998,fisica,Zaragoza,127,127,0,0,,14,0,113,2025_1T.xlsx,zaragoza,Aragon
+1999,fisica,Asturias,212,212,0,0,,49,0,163,2025_1T.xlsx,asturias,Asturias
+2000,fisica,"Balears, Illes",306,304,0,2,,17,0,289,2025_1T.xlsx,balears illes,Baleares
+2001,fisica,Canarias,607,607,0,0,,80,5,522,2025_1T.xlsx,canarias,
+2002,fisica,Las Palmas de Gran Canaria,291,291,0,0,,36,1,254,2025_1T.xlsx,las palmas de gran canaria,
+2003,fisica,Santa Cruz de Tenerife,316,316,0,0,,44,4,268,2025_1T.xlsx,santa cruz de tenerife,Canarias
+2004,fisica,Cantabria,82,82,0,0,,7,0,75,2025_1T.xlsx,cantabria,Cantabria
+2005,fisica,Castilla y León,535,533,1,1,,74,6,455,2025_1T.xlsx,castilla y leon,
+2006,fisica,Ávila,23,23,0,0,,0,0,23,2025_1T.xlsx,avila,Castilla y Leon
+2007,fisica,Burgos,30,30,0,0,,6,0,24,2025_1T.xlsx,burgos,Castilla y Leon
+2008,fisica,León,104,103,1,0,,16,2,86,2025_1T.xlsx,leon,Castilla y Leon
+2009,fisica,Palencia,31,31,0,0,,0,0,31,2025_1T.xlsx,palencia,Castilla y Leon
+2010,fisica,Salamanca,70,70,0,0,,3,0,67,2025_1T.xlsx,salamanca,Castilla y Leon
+2011,fisica,Segovia,21,20,0,1,,7,0,14,2025_1T.xlsx,segovia,Castilla y Leon
+2012,fisica,Soria,18,18,0,0,,4,0,14,2025_1T.xlsx,soria,Castilla y Leon
+2013,fisica,Valladolid,218,218,0,0,,38,4,176,2025_1T.xlsx,valladolid,Castilla y Leon
+2014,fisica,Zamora,20,20,0,0,,0,0,20,2025_1T.xlsx,zamora,Castilla y Leon
+2015,fisica,Castilla-La Mancha,294,294,0,0,,19,5,270,2025_1T.xlsx,castilla la mancha,
+2016,fisica,Albacete,95,95,0,0,,0,0,95,2025_1T.xlsx,albacete,Castilla La Mancha
+2017,fisica,Ciudad Real,4,4,0,0,,0,0,4,2025_1T.xlsx,ciudad real,Castilla La Mancha
+2018,fisica,Cuenca,14,14,0,0,,0,0,14,2025_1T.xlsx,cuenca,Castilla La Mancha
+2019,fisica,Guadalajara,75,75,0,0,,15,1,59,2025_1T.xlsx,guadalajara,Castilla La Mancha
+2020,fisica,Toledo,106,106,0,0,,4,4,98,2025_1T.xlsx,toledo,Castilla La Mancha
+2021,fisica,Cataluña,3550,3549,1,0,,466,1,3083,2025_1T.xlsx,cataluna,
+2022,fisica,Barcelona,2801,2800,1,0,,413,1,2387,2025_1T.xlsx,barcelona,Cataluña
+2023,fisica,Girona,205,205,0,0,,10,0,195,2025_1T.xlsx,girona,Cataluña
+2024,fisica,Lleida,225,225,0,0,,22,0,203,2025_1T.xlsx,lleida,Cataluña
+2025,fisica,Tarragona,319,319,0,0,,21,0,298,2025_1T.xlsx,tarragona,Cataluña
+2026,fisica,Comunitat Valenciana,1649,1649,0,0,,119,12,1518,2025_1T.xlsx,comunitat valenciana,
+2027,fisica,Alicante,772,772,0,0,,14,0,758,2025_1T.xlsx,alicante,Valencia
+2028,fisica,Castellón,100,100,0,0,,17,0,83,2025_1T.xlsx,castellon,Valencia
+2029,fisica,Valencia,777,777,0,0,,88,12,677,2025_1T.xlsx,valencia,Valencia
+2030,fisica,Extremadura,179,179,0,0,,48,0,131,2025_1T.xlsx,extremadura,
+2031,fisica,Badajoz,107,107,0,0,,37,0,70,2025_1T.xlsx,badajoz,Extremadura
+2032,fisica,Cáceres,72,72,0,0,,11,0,61,2025_1T.xlsx,caceres,Extremadura
+2033,fisica,Galicia,447,446,1,0,,66,0,381,2025_1T.xlsx,galicia,
+2034,fisica,A Coruña,192,191,1,0,,16,0,176,2025_1T.xlsx,a coruna,Galicia
+2035,fisica,Lugo,79,79,0,0,,8,0,71,2025_1T.xlsx,lugo,Galicia
+2036,fisica,Ourense,22,22,0,0,,1,0,21,2025_1T.xlsx,ourense,Galicia
+2037,fisica,Pontevedra,154,154,0,0,,41,0,113,2025_1T.xlsx,pontevedra,Galicia
+2038,fisica,Madrid,2361,2360,1,0,,226,27,2108,2025_1T.xlsx,madrid,Madrid
+2039,fisica,Murcia,791,791,0,0,,66,5,720,2025_1T.xlsx,murcia,Murcia
+2040,fisica,Navarra,170,170,0,0,,19,0,151,2025_1T.xlsx,navarra,Navarra
+2041,fisica,Pais Vasco,327,327,0,0,,25,1,301,2025_1T.xlsx,pais vasco,
+2042,fisica,Araba/Álava,63,63,0,0,,7,0,56,2025_1T.xlsx,araba alava,Pais Vasco
+2043,fisica,Bizkaia,178,178,0,0,,12,0,166,2025_1T.xlsx,bizkaia,Pais Vasco
+2044,fisica,Gipuzkoa,86,86,0,0,,6,1,79,2025_1T.xlsx,gipuzkoa,Pais Vasco
+2045,fisica,La Rioja,49,49,0,0,,1,0,48,2025_1T.xlsx,la rioja,La Rioja
+2046,fisica,Ceuta y Melilla,10,10,0,0,,8,0,2,2025_1T.xlsx,ceuta y melilla,
+2047,fisica,Ceuta,0,0,0,0,,0,0,0,2025_1T.xlsx,ceuta,Ceuta
+2048,fisica,Melilla,10,10,0,0,,8,0,2,2025_1T.xlsx,melilla,Melilla
+2049,empresas,Andalucía,178,168,10,0,,64,20,94,2025_1T.xlsx,andalucia,
+2050,empresas,Almería,17,13,4,0,,7,6,4,2025_1T.xlsx,almeria,Andalucia
+2051,empresas,Cádiz,18,18,0,0,,9,1,8,2025_1T.xlsx,cadiz,Andalucia
+2052,empresas,Córdoba,6,6,0,0,,1,0,5,2025_1T.xlsx,cordoba,Andalucia
+2053,empresas,Granada,21,19,2,0,,9,5,7,2025_1T.xlsx,granada,Andalucia
+2054,empresas,Huelva,6,6,0,0,,4,0,2,2025_1T.xlsx,huelva,Andalucia
+2055,empresas,Jaén,5,5,0,0,,2,2,1,2025_1T.xlsx,jaen,Andalucia
+2056,empresas,Málaga,42,42,0,0,,12,2,28,2025_1T.xlsx,malaga,Andalucia
+2057,empresas,Sevilla,63,59,4,0,,20,4,39,2025_1T.xlsx,sevilla,Andalucia
+2058,empresas,Aragón,27,27,0,0,,13,2,12,2025_1T.xlsx,aragon,
+2059,empresas,Huesca,6,6,0,0,,3,1,2,2025_1T.xlsx,huesca,Aragon
+2060,empresas,Teruel,1,1,0,0,,1,0,0,2025_1T.xlsx,teruel,Aragon
+2061,empresas,Zaragoza,20,20,0,0,,9,1,10,2025_1T.xlsx,zaragoza,Aragon
+2062,empresas,Asturias,31,31,0,0,,9,7,15,2025_1T.xlsx,asturias,Asturias
+2063,empresas,"Balears, Illes",39,36,3,0,,25,1,13,2025_1T.xlsx,balears illes,Baleares
+2064,empresas,Canarias,28,28,0,0,,6,12,10,2025_1T.xlsx,canarias,
+2065,empresas,Las Palmas de Gran Canaria,16,16,0,0,,2,8,6,2025_1T.xlsx,las palmas de gran canaria,
+2066,empresas,Santa Cruz de Tenerife,12,12,0,0,,4,4,4,2025_1T.xlsx,santa cruz de tenerife,Canarias
+2067,empresas,Cantabria,10,9,1,0,,4,4,2,2025_1T.xlsx,cantabria,Cantabria
+2068,empresas,Castilla y León,28,27,1,0,,7,7,14,2025_1T.xlsx,castilla y leon,
+2069,empresas,Ávila,1,1,0,0,,0,0,1,2025_1T.xlsx,avila,Castilla y Leon
+2070,empresas,Burgos,5,5,0,0,,1,0,4,2025_1T.xlsx,burgos,Castilla y Leon
+2071,empresas,León,3,2,1,0,,1,2,0,2025_1T.xlsx,leon,Castilla y Leon
+2072,empresas,Palencia,1,1,0,0,,1,0,0,2025_1T.xlsx,palencia,Castilla y Leon
+2073,empresas,Salamanca,6,6,0,0,,2,0,4,2025_1T.xlsx,salamanca,Castilla y Leon
+2074,empresas,Segovia,0,0,0,0,,0,0,0,2025_1T.xlsx,segovia,Castilla y Leon
+2075,empresas,Soria,1,1,0,0,,1,0,0,2025_1T.xlsx,soria,Castilla y Leon
+2076,empresas,Valladolid,10,10,0,0,,1,5,4,2025_1T.xlsx,valladolid,Castilla y Leon
+2077,empresas,Zamora,1,1,0,0,,0,0,1,2025_1T.xlsx,zamora,Castilla y Leon
+2078,empresas,Castilla-La Mancha,44,44,0,0,,8,2,34,2025_1T.xlsx,castilla la mancha,
+2079,empresas,Albacete,12,12,0,0,,3,0,9,2025_1T.xlsx,albacete,Castilla La Mancha
+2080,empresas,Ciudad Real,19,19,0,0,,2,0,17,2025_1T.xlsx,ciudad real,Castilla La Mancha
+2081,empresas,Cuenca,2,2,0,0,,0,0,2,2025_1T.xlsx,cuenca,Castilla La Mancha
+2082,empresas,Guadalajara,5,5,0,0,,2,1,2,2025_1T.xlsx,guadalajara,Castilla La Mancha
+2083,empresas,Toledo,6,6,0,0,,1,1,4,2025_1T.xlsx,toledo,Castilla La Mancha
+2084,empresas,Cataluña,450,441,9,0,,117,25,308,2025_1T.xlsx,cataluna,
+2085,empresas,Barcelona,386,378,8,0,,101,20,265,2025_1T.xlsx,barcelona,Cataluña
+2086,empresas,Girona,15,15,0,0,,0,1,14,2025_1T.xlsx,girona,Cataluña
+2087,empresas,Lleida,16,16,0,0,,5,1,10,2025_1T.xlsx,lleida,Cataluña
+2088,empresas,Tarragona,33,32,1,0,,11,3,19,2025_1T.xlsx,tarragona,Cataluña
+2089,empresas,Comunitat Valenciana,206,201,5,0,,61,48,97,2025_1T.xlsx,comunitat valenciana,
+2090,empresas,Alicante,108,106,2,0,,30,5,73,2025_1T.xlsx,alicante,Valencia
+2091,empresas,Castellón,14,14,0,0,,7,0,7,2025_1T.xlsx,castellon,Valencia
+2092,empresas,Valencia,84,81,3,0,,24,43,17,2025_1T.xlsx,valencia,Valencia
+2093,empresas,Extremadura,25,25,0,0,,8,5,12,2025_1T.xlsx,extremadura,
+2094,empresas,Badajoz,22,22,0,0,,8,5,9,2025_1T.xlsx,badajoz,Extremadura
+2095,empresas,Cáceres,3,3,0,0,,0,0,3,2025_1T.xlsx,caceres,Extremadura
+2096,empresas,Galicia,56,55,1,0,,24,2,30,2025_1T.xlsx,galicia,
+2097,empresas,A Coruña,23,22,1,0,,7,2,14,2025_1T.xlsx,a coruna,Galicia
+2098,empresas,Lugo,14,14,0,0,,9,0,5,2025_1T.xlsx,lugo,Galicia
+2099,empresas,Ourense,4,4,0,0,,2,0,2,2025_1T.xlsx,ourense,Galicia
+2100,empresas,Pontevedra,15,15,0,0,,6,0,9,2025_1T.xlsx,pontevedra,Galicia
+2101,empresas,Madrid,375,373,2,0,,69,182,124,2025_1T.xlsx,madrid,Madrid
+2102,empresas,Murcia,63,62,1,0,,22,10,31,2025_1T.xlsx,murcia,Murcia
+2103,empresas,Navarra,17,15,2,0,,9,0,8,2025_1T.xlsx,navarra,Navarra
+2104,empresas,Pais Vasco,82,81,1,0,,27,26,29,2025_1T.xlsx,pais vasco,
+2105,empresas,Araba/Álava,13,13,0,0,,4,2,7,2025_1T.xlsx,araba alava,Pais Vasco
+2106,empresas,Bizkaia,49,49,0,0,,17,20,12,2025_1T.xlsx,bizkaia,Pais Vasco
+2107,empresas,Gipuzkoa,20,19,1,0,,6,4,10,2025_1T.xlsx,gipuzkoa,Pais Vasco
+2108,empresas,La Rioja,5,5,0,0,,4,1,0,2025_1T.xlsx,la rioja,La Rioja
+2109,empresas,Ceuta y Melilla,2,2,0,0,,0,1,1,2025_1T.xlsx,ceuta y melilla,
+2110,fisica,Ceuta,2,2,0,0,,0,0,2,2025_2T.xlsx,ceuta,Ceuta
+2111,fisica,Melilla,17,17,0,0,,4,0,13,2025_2T.xlsx,melilla,Melilla
+2112,fisica,Andalucía,1411,1411,0,0,,178,28,1205,2025_2T.xlsx,andalucia,
+2113,fisica,Almería,190,190,0,0,,21,9,160,2025_2T.xlsx,almeria,Andalucia
+2114,fisica,Cádiz,282,282,0,0,,15,0,267,2025_2T.xlsx,cadiz,Andalucia
+2115,fisica,Córdoba,94,94,0,0,,14,0,80,2025_2T.xlsx,cordoba,Andalucia
+2116,fisica,Granada,159,159,0,0,,44,6,109,2025_2T.xlsx,granada,Andalucia
+2117,fisica,Huelva,54,54,0,0,,12,0,42,2025_2T.xlsx,huelva,Andalucia
+2118,fisica,Jaén,11,11,0,0,,7,0,4,2025_2T.xlsx,jaen,Andalucia
+2119,fisica,Málaga,186,186,0,0,,19,7,160,2025_2T.xlsx,malaga,Andalucia
+2120,fisica,Sevilla,435,435,0,0,,46,6,383,2025_2T.xlsx,sevilla,Andalucia
+2121,fisica,Aragón,159,159,0,0,,23,1,135,2025_2T.xlsx,aragon,
+2122,fisica,Huesca,40,40,0,0,,4,1,35,2025_2T.xlsx,huesca,Aragon
+2123,fisica,Teruel,19,19,0,0,,3,0,16,2025_2T.xlsx,teruel,Aragon
+2124,fisica,Zaragoza,100,100,0,0,,16,0,84,2025_2T.xlsx,zaragoza,Aragon
+2125,fisica,Asturias,189,189,0,0,,34,2,153,2025_2T.xlsx,asturias,Asturias
+2126,fisica,"Balears, Illes",452,452,0,0,,22,0,430,2025_2T.xlsx,balears illes,Baleares
+2127,fisica,Canarias,793,793,0,0,,83,4,706,2025_2T.xlsx,canarias,
+2128,fisica,Las Palmas de Gran Canaria,597,597,0,0,,56,2,539,2025_2T.xlsx,las palmas de gran canaria,
+2129,fisica,Santa Cruz de Tenerife,196,196,0,0,,27,2,167,2025_2T.xlsx,santa cruz de tenerife,Canarias
+2130,fisica,Cantabria,69,69,0,0,,9,0,60,2025_2T.xlsx,cantabria,Cantabria
+2131,fisica,Castilla y León,326,326,0,0,,32,1,293,2025_2T.xlsx,castilla y leon,
+2132,fisica,Ávila,21,21,0,0,,1,0,20,2025_2T.xlsx,avila,Castilla y Leon
+2133,fisica,Burgos,29,29,0,0,,1,0,28,2025_2T.xlsx,burgos,Castilla y Leon
+2134,fisica,León,76,76,0,0,,14,1,61,2025_2T.xlsx,leon,Castilla y Leon
+2135,fisica,Palencia,10,10,0,0,,0,0,10,2025_2T.xlsx,palencia,Castilla y Leon
+2136,fisica,Salamanca,44,44,0,0,,2,0,42,2025_2T.xlsx,salamanca,Castilla y Leon
+2137,fisica,Segovia,27,27,0,0,,8,0,19,2025_2T.xlsx,segovia,Castilla y Leon
+2138,fisica,Soria,9,9,0,0,,3,0,6,2025_2T.xlsx,soria,Castilla y Leon
+2139,fisica,Valladolid,107,107,0,0,,3,0,104,2025_2T.xlsx,valladolid,Castilla y Leon
+2140,fisica,Zamora,3,3,0,0,,0,0,3,2025_2T.xlsx,zamora,Castilla y Leon
+2141,fisica,Castilla-La Mancha,344,344,0,0,,26,3,315,2025_2T.xlsx,castilla la mancha,
+2142,fisica,Albacete,96,96,0,0,,0,0,96,2025_2T.xlsx,albacete,Castilla La Mancha
+2143,fisica,Ciudad Real,2,2,0,0,,1,0,1,2025_2T.xlsx,ciudad real,Castilla La Mancha
+2144,fisica,Cuenca,27,27,0,0,,3,0,24,2025_2T.xlsx,cuenca,Castilla La Mancha
+2145,fisica,Guadalajara,67,67,0,0,,6,2,59,2025_2T.xlsx,guadalajara,Castilla La Mancha
+2146,fisica,Toledo,152,152,0,0,,16,1,135,2025_2T.xlsx,toledo,Castilla La Mancha
+2147,fisica,Cataluña,2558,2556,2,0,,313,4,2241,2025_2T.xlsx,cataluna,
+2148,fisica,Barcelona,1920,1918,2,0,,272,3,1645,2025_2T.xlsx,barcelona,Cataluña
+2149,fisica,Girona,228,228,0,0,,9,0,219,2025_2T.xlsx,girona,Cataluña
+2150,fisica,Lleida,203,203,0,0,,14,1,188,2025_2T.xlsx,lleida,Cataluña
+2151,fisica,Tarragona,207,207,0,0,,18,0,189,2025_2T.xlsx,tarragona,Cataluña
+2152,fisica,Comunitat Valenciana,1389,1389,0,0,,119,27,1243,2025_2T.xlsx,comunitat valenciana,
+2153,fisica,Alicante,546,546,0,0,,12,3,531,2025_2T.xlsx,alicante,Valencia
+2154,fisica,Castellón,129,129,0,0,,10,0,119,2025_2T.xlsx,castellon,Valencia
+2155,fisica,Valencia,714,714,0,0,,97,24,593,2025_2T.xlsx,valencia,Valencia
+2156,fisica,Extremadura,151,151,0,0,,55,1,95,2025_2T.xlsx,extremadura,
+2157,fisica,Badajoz,101,101,0,0,,42,0,59,2025_2T.xlsx,badajoz,Extremadura
+2158,fisica,Cáceres,50,50,0,0,,13,1,36,2025_2T.xlsx,caceres,Extremadura
+2159,fisica,Galicia,457,456,1,0,,56,4,397,2025_2T.xlsx,galicia,
+2160,fisica,A Coruña,176,175,1,0,,17,3,156,2025_2T.xlsx,a coruna,Galicia
+2161,fisica,Lugo,72,72,0,0,,12,1,59,2025_2T.xlsx,lugo,Galicia
+2162,fisica,Ourense,31,31,0,0,,2,0,29,2025_2T.xlsx,ourense,Galicia
+2163,fisica,Pontevedra,178,178,0,0,,25,0,153,2025_2T.xlsx,pontevedra,Galicia
+2164,fisica,Madrid,1400,1400,0,0,,73,48,1279,2025_2T.xlsx,madrid,Madrid
+2165,fisica,Murcia,637,637,0,0,,65,7,565,2025_2T.xlsx,murcia,Murcia
+2166,fisica,Navarra,84,84,0,0,,12,0,72,2025_2T.xlsx,navarra,Navarra
+2167,fisica,Pais Vasco,249,249,0,0,,22,0,227,2025_2T.xlsx,pais vasco,
+2168,fisica,Araba/Álava,39,39,0,0,,2,0,37,2025_2T.xlsx,araba alava,Pais Vasco
+2169,fisica,Bizkaia,142,142,0,0,,13,0,129,2025_2T.xlsx,bizkaia,Pais Vasco
+2170,fisica,Gipuzkoa,68,68,0,0,,7,0,61,2025_2T.xlsx,gipuzkoa,Pais Vasco
+2171,fisica,La Rioja,29,29,0,0,,3,3,23,2025_2T.xlsx,la rioja,La Rioja
+2172,fisica,Ceuta y Melilla,17,17,0,0,,4,0,13,2025_2T.xlsx,ceuta y melilla,
+2173,empresas,Andalucía,137,134,3,0,,43,18,76,2025_2T.xlsx,andalucia,
+2174,empresas,Almería,18,18,0,0,,6,3,9,2025_2T.xlsx,almeria,Andalucia
+2175,empresas,Cádiz,13,12,1,0,,6,0,7,2025_2T.xlsx,cadiz,Andalucia
+2176,empresas,Córdoba,11,11,0,0,,4,0,7,2025_2T.xlsx,cordoba,Andalucia
+2177,empresas,Granada,14,13,1,0,,4,7,3,2025_2T.xlsx,granada,Andalucia
+2178,empresas,Huelva,4,4,0,0,,1,3,0,2025_2T.xlsx,huelva,Andalucia
+2179,empresas,Jaén,4,4,0,0,,2,0,2,2025_2T.xlsx,jaen,Andalucia
+2180,empresas,Málaga,37,37,0,0,,8,2,27,2025_2T.xlsx,malaga,Andalucia
+2181,empresas,Sevilla,36,35,1,0,,12,3,21,2025_2T.xlsx,sevilla,Andalucia
+2182,empresas,Aragón,24,23,1,0,,10,4,10,2025_2T.xlsx,aragon,
+2183,empresas,Huesca,4,4,0,0,,1,3,0,2025_2T.xlsx,huesca,Aragon
+2184,empresas,Teruel,2,2,0,0,,1,0,1,2025_2T.xlsx,teruel,Aragon
+2185,empresas,Zaragoza,18,17,1,0,,8,1,9,2025_2T.xlsx,zaragoza,Aragon
+2186,empresas,Asturias,20,20,0,0,,5,7,8,2025_2T.xlsx,asturias,Asturias
+2187,empresas,"Balears, Illes",30,29,1,0,,16,0,14,2025_2T.xlsx,balears illes,Baleares
+2188,empresas,Canarias,23,23,0,0,,4,11,8,2025_2T.xlsx,canarias,
+2189,empresas,Las Palmas de Gran Canaria,13,13,0,0,,1,6,6,2025_2T.xlsx,las palmas de gran canaria,
+2190,empresas,Santa Cruz de Tenerife,10,10,0,0,,3,5,2,2025_2T.xlsx,santa cruz de tenerife,Canarias
+2191,empresas,Cantabria,4,4,0,0,,1,2,1,2025_2T.xlsx,cantabria,Cantabria
+2192,empresas,Castilla y León,28,27,1,0,,6,8,14,2025_2T.xlsx,castilla y leon,
+2193,empresas,Ávila,0,0,0,0,,0,0,0,2025_2T.xlsx,avila,Castilla y Leon
+2194,empresas,Burgos,5,5,0,0,,0,1,4,2025_2T.xlsx,burgos,Castilla y Leon
+2195,empresas,León,4,3,1,0,,1,2,1,2025_2T.xlsx,leon,Castilla y Leon
+2196,empresas,Palencia,2,2,0,0,,0,0,2,2025_2T.xlsx,palencia,Castilla y Leon
+2197,empresas,Salamanca,1,1,0,0,,0,0,1,2025_2T.xlsx,salamanca,Castilla y Leon
+2198,empresas,Segovia,4,4,0,0,,0,3,1,2025_2T.xlsx,segovia,Castilla y Leon
+2199,empresas,Soria,1,1,0,0,,0,0,1,2025_2T.xlsx,soria,Castilla y Leon
+2200,empresas,Valladolid,5,5,0,0,,2,1,2,2025_2T.xlsx,valladolid,Castilla y Leon
+2201,empresas,Zamora,6,6,0,0,,3,1,2,2025_2T.xlsx,zamora,Castilla y Leon
+2202,empresas,Castilla-La Mancha,48,43,5,0,,15,6,27,2025_2T.xlsx,castilla la mancha,
+2203,empresas,Albacete,14,12,2,0,,5,2,7,2025_2T.xlsx,albacete,Castilla La Mancha
+2204,empresas,Ciudad Real,9,9,0,0,,1,0,8,2025_2T.xlsx,ciudad real,Castilla La Mancha
+2205,empresas,Cuenca,2,2,0,0,,0,0,2,2025_2T.xlsx,cuenca,Castilla La Mancha
+2206,empresas,Guadalajara,7,7,0,0,,1,3,3,2025_2T.xlsx,guadalajara,Castilla La Mancha
+2207,empresas,Toledo,16,13,3,0,,8,1,7,2025_2T.xlsx,toledo,Castilla La Mancha
+2208,empresas,Cataluña,376,365,11,0,,105,27,244,2025_2T.xlsx,cataluna,
+2209,empresas,Barcelona,328,320,8,0,,95,25,208,2025_2T.xlsx,barcelona,Cataluña
+2210,empresas,Girona,19,18,1,0,,4,1,14,2025_2T.xlsx,girona,Cataluña
+2211,empresas,Lleida,13,12,1,0,,4,0,9,2025_2T.xlsx,lleida,Cataluña
+2212,empresas,Tarragona,16,15,1,0,,2,1,13,2025_2T.xlsx,tarragona,Cataluña
+2213,empresas,Comunitat Valenciana,219,216,3,0,,45,57,117,2025_2T.xlsx,comunitat valenciana,
+2214,empresas,Alicante,104,104,0,0,,15,8,81,2025_2T.xlsx,alicante,Valencia
+2215,empresas,Castellón,15,15,0,0,,6,1,8,2025_2T.xlsx,castellon,Valencia
+2216,empresas,Valencia,100,97,3,0,,24,48,28,2025_2T.xlsx,valencia,Valencia
+2217,empresas,Extremadura,15,15,0,0,,6,0,9,2025_2T.xlsx,extremadura,
+2218,empresas,Badajoz,11,11,0,0,,5,0,6,2025_2T.xlsx,badajoz,Extremadura
+2219,empresas,Cáceres,4,4,0,0,,1,0,3,2025_2T.xlsx,caceres,Extremadura
+2220,empresas,Galicia,88,87,1,0,,41,2,45,2025_2T.xlsx,galicia,
+2221,empresas,A Coruña,41,41,0,0,,17,2,22,2025_2T.xlsx,a coruna,Galicia
+2222,empresas,Lugo,8,8,0,0,,5,0,3,2025_2T.xlsx,lugo,Galicia
+2223,empresas,Ourense,3,3,0,0,,1,0,2,2025_2T.xlsx,ourense,Galicia
+2224,empresas,Pontevedra,36,35,1,0,,18,0,18,2025_2T.xlsx,pontevedra,Galicia
+2225,empresas,Madrid,280,264,16,0,,56,141,83,2025_2T.xlsx,madrid,Madrid
+2226,empresas,Murcia,41,40,1,0,,17,4,20,2025_2T.xlsx,murcia,Murcia
+2227,empresas,Navarra,12,12,0,0,,7,0,5,2025_2T.xlsx,navarra,Navarra
+2228,empresas,Pais Vasco,77,75,2,0,,25,20,32,2025_2T.xlsx,pais vasco,
+2229,empresas,Araba/Álava,10,10,0,0,,3,2,5,2025_2T.xlsx,araba alava,Pais Vasco
+2230,empresas,Bizkaia,42,41,1,0,,14,12,16,2025_2T.xlsx,bizkaia,Pais Vasco
+2231,empresas,Gipuzkoa,25,24,1,0,,8,6,11,2025_2T.xlsx,gipuzkoa,Pais Vasco
+2232,empresas,La Rioja,11,11,0,0,,4,6,1,2025_2T.xlsx,la rioja,La Rioja
+2233,empresas,Ceuta y Melilla,2,2,0,0,,0,0,2,2025_2T.xlsx,ceuta y melilla,

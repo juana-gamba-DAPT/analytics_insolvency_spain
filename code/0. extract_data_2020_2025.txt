@@ -1,0 +1,14 @@
+import pandas as pd
+
+
+files = ["2021_1T.xlsx","2021_2T.xlsx","2021_3T.xlsx","2021_4T.xlsx","2022_1T.xlsx","2022_2T.xlsx","2022_3T.xlsx","2022_4T.xlsx","2023_1T.xlsx","2023_2T.xlsx","2023_3T.xlsx","2023_4T.xlsx","2024_1T.xlsx","2024_2T.xlsx","2024_3T.xlsx","2024_4T.xlsx","2025_1T.xlsx","2025_2T.xlsx"]
+sheets = ["EPC1", "EPC2", "EPC3", "EPC4", "EPC5", "EPC6"]
+
+for sheet in sheets:
+    
+    df=pd.DataFrame([])
+    for file in files:
+        df_=pd.read_excel(file,sheet_name=sheet)
+        df_["Filename"]=file
+        df=pd.concat([df,df_],ignore_index=True)
+    df.to_csv(f"{sheet}.csv")

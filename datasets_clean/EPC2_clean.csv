@@ -1,0 +1,1731 @@
+﻿id_geo___ca,pj,total,t_voluntario,t_necesario,t_consecutivo,c_ordinario,c_especial,c_sin_masa,comunidad_provincia,comunidad_autonoma,año,trimestre
+104,fisica,14.0,1.0,0.0,13.0,13.0,0.0,1.0,almeria,Andalucia,2021,1
+111,fisica,27.0,4.0,0.0,23.0,23.0,1.0,3.0,cadiz,Andalucia,2021,1
+114,fisica,15.0,5.0,0.0,10.0,11.0,0.0,4.0,cordoba,Andalucia,2021,1
+118,fisica,17.0,1.0,0.0,16.0,14.0,1.0,2.0,granada,Andalucia,2021,1
+121,fisica,8.0,1.0,0.0,7.0,8.0,0.0,0.0,huelva,Andalucia,2021,1
+123,fisica,13.0,1.0,0.0,12.0,12.0,0.0,1.0,jaen,Andalucia,2021,1
+129,fisica,21.0,6.0,0.0,15.0,19.0,0.0,2.0,malaga,Andalucia,2021,1
+141,fisica,84.0,3.0,0.0,81.0,77.0,2.0,5.0,sevilla,Andalucia,2021,1
+943,fisica,102.0,20.0,0.0,82.0,77.0,0.0,25.0,aragon,,2021,1
+222,fisica,18.0,9.0,0.0,9.0,13.0,0.0,5.0,huesca,Aragon,2021,1
+244,fisica,6.0,3.0,0.0,3.0,6.0,0.0,0.0,teruel,Aragon,2021,1
+250,fisica,78.0,8.0,0.0,70.0,58.0,0.0,20.0,zaragoza,Aragon,2021,1
+333,fisica,74.0,22.0,5.0,47.0,55.0,0.0,19.0,asturias,Asturias,2021,1
+407,fisica,38.0,12.0,0.0,26.0,36.0,1.0,1.0,balears illes,Baleares,2021,1
+639,fisica,91.0,23.0,0.0,68.0,75.0,2.0,14.0,canarias,,2021,1
+538,fisica,41.0,7.0,0.0,34.0,36.0,2.0,3.0,santa cruz de tenerife,Canarias,2021,1
+639,fisica,4.0,4.0,0.0,0.0,4.0,0.0,0.0,cantabria,Cantabria,2021,1
+705,fisica,7.0,1.0,0.0,6.0,3.0,0.0,4.0,avila,Castilla y Leon,2021,1
+709,fisica,6.0,0.0,0.0,6.0,6.0,0.0,0.0,burgos,Castilla y Leon,2021,1
+724,fisica,12.0,3.0,0.0,9.0,12.0,0.0,0.0,leon,Castilla y Leon,2021,1
+734,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2021,1
+737,fisica,18.0,5.0,0.0,13.0,13.0,0.0,5.0,salamanca,Castilla y Leon,2021,1
+740,fisica,7.0,2.0,0.0,5.0,7.0,0.0,0.0,segovia,Castilla y Leon,2021,1
+742,fisica,4.0,0.0,0.0,4.0,4.0,0.0,0.0,soria,Castilla y Leon,2021,1
+747,fisica,23.0,13.0,0.0,10.0,13.0,1.0,9.0,valladolid,Castilla y Leon,2021,1
+749,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2021,1
+802,fisica,7.0,3.0,0.0,4.0,5.0,0.0,2.0,albacete,Castilla La Mancha,2021,1
+813,fisica,7.0,5.0,0.0,2.0,0.0,0.0,7.0,ciudad real,Castilla La Mancha,2021,1
+816,fisica,2.0,0.0,0.0,2.0,0.0,0.0,2.0,cuenca,Castilla La Mancha,2021,1
+819,fisica,31.0,3.0,0.0,28.0,17.0,0.0,14.0,guadalajara,Castilla La Mancha,2021,1
+845,fisica,15.0,7.0,0.0,8.0,11.0,0.0,4.0,toledo,Castilla La Mancha,2021,1
+908,fisica,612.0,38.0,0.0,574.0,603.0,4.0,5.0,barcelona,Cataluña,2021,1
+917,fisica,48.0,1.0,0.0,47.0,45.0,0.0,3.0,girona,Cataluña,2021,1
+925,fisica,46.0,7.0,0.0,39.0,44.0,0.0,2.0,lleida,Cataluña,2021,1
+943,fisica,49.0,3.0,0.0,46.0,45.0,2.0,2.0,tarragona,Cataluña,2021,1
+734,fisica,146.0,69.0,0.0,77.0,139.0,2.0,5.0,valencia,Valencia,2021,1
+1106,fisica,4.0,0.0,0.0,4.0,2.0,0.0,2.0,badajoz,Extremadura,2021,1
+1110,fisica,4.0,3.0,0.0,1.0,3.0,0.0,1.0,caceres,Extremadura,2021,1
+1227,fisica,11.0,1.0,0.0,10.0,11.0,0.0,0.0,lugo,Galicia,2021,1
+1232,fisica,1.0,1.0,0.0,0.0,1.0,0.0,0.0,ourense,Galicia,2021,1
+1236,fisica,24.0,11.0,0.0,13.0,20.0,0.0,4.0,pontevedra,Galicia,2021,1
+1328,fisica,202.0,16.0,0.0,186.0,161.0,3.0,38.0,madrid,Madrid,2021,1
+1430,fisica,45.0,9.0,1.0,35.0,45.0,0.0,0.0,murcia,Murcia,2021,1
+1531,fisica,12.0,4.0,0.0,8.0,11.0,0.0,1.0,navarra,Navarra,2021,1
+1601,fisica,7.0,5.0,0.0,2.0,7.0,0.0,0.0,araba alava,Pais Vasco,2021,1
+1648,fisica,21.0,16.0,0.0,5.0,10.0,0.0,11.0,bizkaia,Pais Vasco,2021,1
+1620,fisica,17.0,9.0,0.0,8.0,12.0,0.0,5.0,gipuzkoa,Pais Vasco,2021,1
+1851,fisica,5.0,3.0,1.0,1.0,2.0,0.0,3.0,ceuta,Ceuta,2021,1
+1952,fisica,1.0,1.0,0.0,0.0,1.0,0.0,0.0,melilla,Melilla,2021,1
+104,empresas,8.0,8.0,0.0,0.0,0.0,5.0,3.0,almeria,Andalucia,2021,1
+111,empresas,11.0,11.0,0.0,0.0,5.0,0.0,6.0,cadiz,Andalucia,2021,1
+114,empresas,12.0,12.0,0.0,0.0,1.0,2.0,9.0,cordoba,Andalucia,2021,1
+118,empresas,6.0,6.0,0.0,0.0,3.0,1.0,2.0,granada,Andalucia,2021,1
+121,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,huelva,Andalucia,2021,1
+123,empresas,7.0,7.0,0.0,0.0,6.0,1.0,0.0,jaen,Andalucia,2021,1
+129,empresas,38.0,37.0,1.0,0.0,5.0,23.0,10.0,malaga,Andalucia,2021,1
+141,empresas,34.0,34.0,0.0,0.0,21.0,4.0,9.0,sevilla,Andalucia,2021,1
+943,empresas,56.0,56.0,0.0,0.0,22.0,7.0,27.0,aragon,,2021,1
+222,empresas,9.0,9.0,0.0,0.0,4.0,5.0,0.0,huesca,Aragon,2021,1
+244,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,teruel,Aragon,2021,1
+250,empresas,43.0,43.0,0.0,0.0,15.0,2.0,26.0,zaragoza,Aragon,2021,1
+333,empresas,28.0,27.0,0.0,1.0,9.0,1.0,18.0,asturias,Asturias,2021,1
+407,empresas,49.0,48.0,1.0,0.0,34.0,2.0,13.0,balears illes,Baleares,2021,1
+639,empresas,38.0,37.0,1.0,0.0,13.0,4.0,21.0,canarias,,2021,1
+538,empresas,9.0,9.0,0.0,0.0,2.0,1.0,6.0,santa cruz de tenerife,Canarias,2021,1
+639,empresas,11.0,11.0,0.0,0.0,4.0,0.0,7.0,cantabria,Cantabria,2021,1
+705,empresas,4.0,4.0,0.0,0.0,1.0,3.0,0.0,avila,Castilla y Leon,2021,1
+709,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,burgos,Castilla y Leon,2021,1
+724,empresas,7.0,4.0,0.0,3.0,3.0,0.0,4.0,leon,Castilla y Leon,2021,1
+734,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,palencia,Castilla y Leon,2021,1
+737,empresas,6.0,6.0,0.0,0.0,1.0,1.0,4.0,salamanca,Castilla y Leon,2021,1
+740,empresas,3.0,3.0,0.0,0.0,0.0,0.0,3.0,segovia,Castilla y Leon,2021,1
+742,empresas,3.0,1.0,0.0,2.0,3.0,0.0,0.0,soria,Castilla y Leon,2021,1
+747,empresas,10.0,10.0,0.0,0.0,1.0,1.0,8.0,valladolid,Castilla y Leon,2021,1
+749,empresas,3.0,3.0,0.0,0.0,3.0,0.0,0.0,zamora,Castilla y Leon,2021,1
+802,empresas,12.0,12.0,0.0,0.0,2.0,0.0,10.0,albacete,Castilla La Mancha,2021,1
+813,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,ciudad real,Castilla La Mancha,2021,1
+816,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,cuenca,Castilla La Mancha,2021,1
+819,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,guadalajara,Castilla La Mancha,2021,1
+845,empresas,15.0,13.0,0.0,2.0,9.0,0.0,6.0,toledo,Castilla La Mancha,2021,1
+908,empresas,355.0,346.0,5.0,4.0,141.0,2.0,212.0,barcelona,Cataluña,2021,1
+917,empresas,22.0,22.0,0.0,0.0,9.0,0.0,13.0,girona,Cataluña,2021,1
+925,empresas,6.0,6.0,0.0,0.0,2.0,1.0,3.0,lleida,Cataluña,2021,1
+943,empresas,18.0,17.0,1.0,0.0,13.0,0.0,5.0,tarragona,Cataluña,2021,1
+734,empresas,145.0,145.0,0.0,0.0,27.0,2.0,116.0,valencia,Valencia,2021,1
+1106,empresas,8.0,8.0,0.0,0.0,5.0,0.0,3.0,badajoz,Extremadura,2021,1
+1110,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,caceres,Extremadura,2021,1
+1227,empresas,12.0,12.0,0.0,0.0,12.0,0.0,0.0,lugo,Galicia,2021,1
+1232,empresas,4.0,4.0,0.0,0.0,4.0,0.0,0.0,ourense,Galicia,2021,1
+1236,empresas,17.0,17.0,0.0,0.0,15.0,0.0,2.0,pontevedra,Galicia,2021,1
+1328,empresas,270.0,258.0,8.0,4.0,67.0,26.0,177.0,madrid,Madrid,2021,1
+1430,empresas,20.0,20.0,0.0,0.0,17.0,0.0,3.0,murcia,Murcia,2021,1
+1531,empresas,6.0,6.0,0.0,0.0,4.0,0.0,2.0,navarra,Navarra,2021,1
+1601,empresas,7.0,7.0,0.0,0.0,3.0,1.0,3.0,araba alava,Pais Vasco,2021,1
+1648,empresas,64.0,64.0,0.0,0.0,21.0,2.0,41.0,bizkaia,Pais Vasco,2021,1
+1620,empresas,24.0,24.0,0.0,0.0,6.0,1.0,17.0,gipuzkoa,Pais Vasco,2021,1
+104,fisica,21.0,0.0,0.0,21.0,20.0,0.0,1.0,almeria,Andalucia,2021,2
+111,fisica,8.0,0.0,0.0,8.0,7.0,0.0,1.0,cadiz,Andalucia,2021,2
+114,fisica,15.0,0.0,0.0,15.0,11.0,0.0,4.0,cordoba,Andalucia,2021,2
+118,fisica,22.0,5.0,0.0,17.0,18.0,3.0,1.0,granada,Andalucia,2021,2
+121,fisica,12.0,0.0,0.0,12.0,12.0,0.0,0.0,huelva,Andalucia,2021,2
+123,fisica,9.0,4.0,0.0,5.0,8.0,0.0,1.0,jaen,Andalucia,2021,2
+129,fisica,39.0,4.0,0.0,35.0,36.0,0.0,3.0,malaga,Andalucia,2021,2
+141,fisica,74.0,14.0,0.0,60.0,67.0,0.0,7.0,sevilla,Andalucia,2021,2
+943,fisica,79.0,5.0,1.0,73.0,52.0,0.0,27.0,aragon,,2021,2
+222,fisica,2.0,1.0,0.0,1.0,1.0,0.0,1.0,huesca,Aragon,2021,2
+244,fisica,6.0,1.0,0.0,5.0,5.0,0.0,1.0,teruel,Aragon,2021,2
+250,fisica,71.0,3.0,1.0,67.0,46.0,0.0,25.0,zaragoza,Aragon,2021,2
+333,fisica,68.0,26.0,4.0,38.0,46.0,0.0,22.0,asturias,Asturias,2021,2
+407,fisica,41.0,23.0,0.0,18.0,41.0,0.0,0.0,balears illes,Baleares,2021,2
+639,fisica,77.0,16.0,0.0,61.0,63.0,1.0,13.0,canarias,,2021,2
+538,fisica,28.0,9.0,0.0,19.0,26.0,1.0,1.0,santa cruz de tenerife,Canarias,2021,2
+639,fisica,6.0,6.0,0.0,0.0,6.0,0.0,0.0,cantabria,Cantabria,2021,2
+705,fisica,3.0,2.0,0.0,1.0,3.0,0.0,0.0,avila,Castilla y Leon,2021,2
+709,fisica,6.0,3.0,0.0,3.0,6.0,0.0,0.0,burgos,Castilla y Leon,2021,2
+724,fisica,16.0,5.0,0.0,11.0,15.0,0.0,1.0,leon,Castilla y Leon,2021,2
+734,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2021,2
+737,fisica,11.0,3.0,0.0,8.0,6.0,0.0,5.0,salamanca,Castilla y Leon,2021,2
+740,fisica,2.0,1.0,0.0,1.0,2.0,0.0,0.0,segovia,Castilla y Leon,2021,2
+742,fisica,5.0,0.0,0.0,5.0,5.0,0.0,0.0,soria,Castilla y Leon,2021,2
+747,fisica,22.0,10.0,0.0,12.0,18.0,0.0,4.0,valladolid,Castilla y Leon,2021,2
+749,fisica,6.0,0.0,0.0,6.0,3.0,0.0,3.0,zamora,Castilla y Leon,2021,2
+802,fisica,13.0,1.0,0.0,12.0,7.0,0.0,6.0,albacete,Castilla La Mancha,2021,2
+813,fisica,4.0,3.0,0.0,1.0,1.0,0.0,3.0,ciudad real,Castilla La Mancha,2021,2
+816,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,cuenca,Castilla La Mancha,2021,2
+819,fisica,20.0,7.0,0.0,13.0,6.0,0.0,14.0,guadalajara,Castilla La Mancha,2021,2
+845,fisica,20.0,5.0,0.0,15.0,18.0,0.0,2.0,toledo,Castilla La Mancha,2021,2
+908,fisica,558.0,37.0,0.0,521.0,543.0,0.0,15.0,barcelona,Cataluña,2021,2
+917,fisica,48.0,5.0,0.0,43.0,47.0,0.0,1.0,girona,Cataluña,2021,2
+925,fisica,46.0,6.0,0.0,40.0,44.0,1.0,1.0,lleida,Cataluña,2021,2
+943,fisica,60.0,2.0,0.0,58.0,55.0,0.0,5.0,tarragona,Cataluña,2021,2
+734,fisica,155.0,65.0,1.0,89.0,145.0,2.0,8.0,valencia,Valencia,2021,2
+1106,fisica,8.0,5.0,0.0,3.0,8.0,0.0,0.0,badajoz,Extremadura,2021,2
+1110,fisica,6.0,2.0,0.0,4.0,6.0,0.0,0.0,caceres,Extremadura,2021,2
+1227,fisica,17.0,8.0,0.0,9.0,17.0,0.0,0.0,lugo,Galicia,2021,2
+1232,fisica,10.0,7.0,0.0,3.0,10.0,0.0,0.0,ourense,Galicia,2021,2
+1236,fisica,36.0,13.0,0.0,23.0,31.0,0.0,5.0,pontevedra,Galicia,2021,2
+1328,fisica,252.0,25.0,1.0,226.0,212.0,2.0,38.0,madrid,Madrid,2021,2
+1430,fisica,61.0,21.0,0.0,40.0,55.0,0.0,6.0,murcia,Murcia,2021,2
+1531,fisica,14.0,12.0,0.0,2.0,13.0,0.0,1.0,navarra,Navarra,2021,2
+1601,fisica,9.0,9.0,0.0,0.0,9.0,0.0,0.0,araba alava,Pais Vasco,2021,2
+1648,fisica,23.0,15.0,0.0,8.0,19.0,0.0,4.0,bizkaia,Pais Vasco,2021,2
+1620,fisica,12.0,7.0,0.0,5.0,10.0,0.0,2.0,gipuzkoa,Pais Vasco,2021,2
+1851,fisica,4.0,1.0,0.0,3.0,3.0,0.0,1.0,ceuta,Ceuta,2021,2
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2021,2
+104,empresas,10.0,10.0,0.0,0.0,1.0,7.0,2.0,almeria,Andalucia,2021,2
+111,empresas,11.0,11.0,0.0,0.0,5.0,1.0,5.0,cadiz,Andalucia,2021,2
+114,empresas,5.0,4.0,0.0,1.0,1.0,1.0,3.0,cordoba,Andalucia,2021,2
+118,empresas,13.0,11.0,2.0,0.0,8.0,2.0,3.0,granada,Andalucia,2021,2
+121,empresas,8.0,8.0,0.0,0.0,3.0,0.0,5.0,huelva,Andalucia,2021,2
+123,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,jaen,Andalucia,2021,2
+129,empresas,22.0,21.0,1.0,0.0,8.0,10.0,4.0,malaga,Andalucia,2021,2
+141,empresas,32.0,32.0,0.0,0.0,22.0,1.0,9.0,sevilla,Andalucia,2021,2
+943,empresas,38.0,37.0,0.0,1.0,15.0,4.0,19.0,aragon,,2021,2
+222,empresas,7.0,7.0,0.0,0.0,5.0,0.0,2.0,huesca,Aragon,2021,2
+244,empresas,5.0,4.0,0.0,1.0,3.0,1.0,1.0,teruel,Aragon,2021,2
+250,empresas,26.0,26.0,0.0,0.0,7.0,3.0,16.0,zaragoza,Aragon,2021,2
+333,empresas,25.0,25.0,0.0,0.0,7.0,2.0,16.0,asturias,Asturias,2021,2
+407,empresas,30.0,30.0,0.0,0.0,20.0,1.0,9.0,balears illes,Baleares,2021,2
+639,empresas,31.0,31.0,0.0,0.0,18.0,0.0,13.0,canarias,,2021,2
+538,empresas,14.0,14.0,0.0,0.0,9.0,0.0,5.0,santa cruz de tenerife,Canarias,2021,2
+639,empresas,10.0,10.0,0.0,0.0,2.0,0.0,8.0,cantabria,Cantabria,2021,2
+705,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,avila,Castilla y Leon,2021,2
+709,empresas,9.0,9.0,0.0,0.0,7.0,0.0,2.0,burgos,Castilla y Leon,2021,2
+724,empresas,3.0,2.0,0.0,1.0,2.0,0.0,1.0,leon,Castilla y Leon,2021,2
+734,empresas,4.0,4.0,0.0,0.0,4.0,0.0,0.0,palencia,Castilla y Leon,2021,2
+737,empresas,4.0,4.0,0.0,0.0,0.0,1.0,3.0,salamanca,Castilla y Leon,2021,2
+740,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,segovia,Castilla y Leon,2021,2
+742,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,soria,Castilla y Leon,2021,2
+747,empresas,10.0,10.0,0.0,0.0,2.0,2.0,6.0,valladolid,Castilla y Leon,2021,2
+749,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,zamora,Castilla y Leon,2021,2
+802,empresas,8.0,8.0,0.0,0.0,2.0,0.0,6.0,albacete,Castilla La Mancha,2021,2
+813,empresas,4.0,3.0,1.0,0.0,1.0,0.0,3.0,ciudad real,Castilla La Mancha,2021,2
+816,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,cuenca,Castilla La Mancha,2021,2
+819,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,guadalajara,Castilla La Mancha,2021,2
+845,empresas,12.0,10.0,0.0,2.0,7.0,1.0,4.0,toledo,Castilla La Mancha,2021,2
+908,empresas,274.0,267.0,4.0,3.0,88.0,4.0,182.0,barcelona,Cataluña,2021,2
+917,empresas,22.0,22.0,0.0,0.0,12.0,3.0,7.0,girona,Cataluña,2021,2
+925,empresas,9.0,9.0,0.0,0.0,5.0,0.0,4.0,lleida,Cataluña,2021,2
+943,empresas,26.0,25.0,1.0,0.0,15.0,0.0,11.0,tarragona,Cataluña,2021,2
+734,empresas,111.0,108.0,1.0,2.0,22.0,10.0,79.0,valencia,Valencia,2021,2
+1106,empresas,9.0,9.0,0.0,0.0,7.0,0.0,2.0,badajoz,Extremadura,2021,2
+1110,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,caceres,Extremadura,2021,2
+1227,empresas,6.0,6.0,0.0,0.0,6.0,0.0,0.0,lugo,Galicia,2021,2
+1232,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,ourense,Galicia,2021,2
+1236,empresas,21.0,19.0,2.0,0.0,17.0,0.0,4.0,pontevedra,Galicia,2021,2
+1328,empresas,345.0,344.0,1.0,0.0,54.0,13.0,278.0,madrid,Madrid,2021,2
+1430,empresas,25.0,21.0,2.0,2.0,18.0,0.0,7.0,murcia,Murcia,2021,2
+1531,empresas,7.0,7.0,0.0,0.0,4.0,0.0,3.0,navarra,Navarra,2021,2
+1601,empresas,10.0,10.0,0.0,0.0,3.0,0.0,7.0,araba alava,Pais Vasco,2021,2
+1648,empresas,32.0,31.0,0.0,1.0,17.0,3.0,12.0,bizkaia,Pais Vasco,2021,2
+1620,empresas,24.0,24.0,0.0,0.0,8.0,0.0,16.0,gipuzkoa,Pais Vasco,2021,2
+104,fisica,19.0,2.0,0.0,17.0,17.0,0.0,2.0,almeria,Andalucia,2021,3
+111,fisica,23.0,2.0,0.0,21.0,21.0,0.0,2.0,cadiz,Andalucia,2021,3
+114,fisica,9.0,0.0,0.0,9.0,7.0,0.0,2.0,cordoba,Andalucia,2021,3
+118,fisica,21.0,2.0,0.0,19.0,19.0,0.0,2.0,granada,Andalucia,2021,3
+121,fisica,2.0,0.0,0.0,2.0,2.0,0.0,0.0,huelva,Andalucia,2021,3
+123,fisica,7.0,0.0,0.0,7.0,5.0,0.0,2.0,jaen,Andalucia,2021,3
+129,fisica,22.0,8.0,0.0,14.0,20.0,0.0,2.0,malaga,Andalucia,2021,3
+141,fisica,51.0,6.0,0.0,45.0,47.0,0.0,4.0,sevilla,Andalucia,2021,3
+943,fisica,68.0,13.0,0.0,55.0,45.0,0.0,23.0,aragon,,2021,3
+222,fisica,9.0,4.0,0.0,5.0,8.0,0.0,1.0,huesca,Aragon,2021,3
+244,fisica,6.0,0.0,0.0,6.0,4.0,0.0,2.0,teruel,Aragon,2021,3
+250,fisica,53.0,9.0,0.0,44.0,33.0,0.0,20.0,zaragoza,Aragon,2021,3
+333,fisica,42.0,19.0,0.0,23.0,18.0,0.0,24.0,asturias,Asturias,2021,3
+407,fisica,31.0,16.0,0.0,15.0,28.0,0.0,3.0,balears illes,Baleares,2021,3
+639,fisica,71.0,12.0,0.0,59.0,55.0,1.0,15.0,canarias,,2021,3
+538,fisica,23.0,7.0,0.0,16.0,23.0,0.0,0.0,santa cruz de tenerife,Canarias,2021,3
+639,fisica,13.0,8.0,0.0,5.0,13.0,0.0,0.0,cantabria,Cantabria,2021,3
+705,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,avila,Castilla y Leon,2021,3
+709,fisica,6.0,2.0,0.0,4.0,6.0,0.0,0.0,burgos,Castilla y Leon,2021,3
+724,fisica,15.0,9.0,0.0,6.0,14.0,0.0,1.0,leon,Castilla y Leon,2021,3
+734,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2021,3
+737,fisica,10.0,4.0,0.0,6.0,2.0,0.0,8.0,salamanca,Castilla y Leon,2021,3
+740,fisica,3.0,1.0,0.0,2.0,3.0,0.0,0.0,segovia,Castilla y Leon,2021,3
+742,fisica,1.0,0.0,0.0,1.0,1.0,0.0,0.0,soria,Castilla y Leon,2021,3
+747,fisica,16.0,5.0,0.0,11.0,12.0,0.0,4.0,valladolid,Castilla y Leon,2021,3
+749,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2021,3
+802,fisica,7.0,0.0,1.0,6.0,2.0,0.0,5.0,albacete,Castilla La Mancha,2021,3
+813,fisica,1.0,1.0,0.0,0.0,0.0,0.0,1.0,ciudad real,Castilla La Mancha,2021,3
+816,fisica,1.0,0.0,0.0,1.0,0.0,0.0,1.0,cuenca,Castilla La Mancha,2021,3
+819,fisica,13.0,1.0,0.0,12.0,7.0,0.0,6.0,guadalajara,Castilla La Mancha,2021,3
+845,fisica,9.0,5.0,0.0,4.0,5.0,0.0,4.0,toledo,Castilla La Mancha,2021,3
+908,fisica,451.0,22.0,0.0,429.0,423.0,3.0,25.0,barcelona,Cataluña,2021,3
+917,fisica,49.0,6.0,0.0,43.0,47.0,0.0,2.0,girona,Cataluña,2021,3
+925,fisica,37.0,2.0,0.0,35.0,37.0,0.0,0.0,lleida,Cataluña,2021,3
+943,fisica,41.0,2.0,0.0,39.0,37.0,1.0,3.0,tarragona,Cataluña,2021,3
+734,fisica,116.0,36.0,0.0,80.0,112.0,0.0,4.0,valencia,Valencia,2021,3
+1106,fisica,7.0,4.0,0.0,3.0,7.0,0.0,0.0,badajoz,Extremadura,2021,3
+1110,fisica,4.0,0.0,0.0,4.0,4.0,0.0,0.0,caceres,Extremadura,2021,3
+1227,fisica,5.0,3.0,0.0,2.0,5.0,0.0,0.0,lugo,Galicia,2021,3
+1232,fisica,5.0,4.0,1.0,0.0,4.0,0.0,1.0,ourense,Galicia,2021,3
+1236,fisica,20.0,6.0,0.0,14.0,17.0,0.0,3.0,pontevedra,Galicia,2021,3
+1328,fisica,176.0,20.0,1.0,155.0,153.0,1.0,22.0,madrid,Madrid,2021,3
+1430,fisica,47.0,20.0,1.0,26.0,43.0,0.0,4.0,murcia,Murcia,2021,3
+1531,fisica,16.0,6.0,0.0,10.0,10.0,0.0,6.0,navarra,Navarra,2021,3
+1601,fisica,8.0,6.0,0.0,2.0,8.0,0.0,0.0,araba alava,Pais Vasco,2021,3
+1648,fisica,20.0,15.0,0.0,5.0,16.0,0.0,4.0,bizkaia,Pais Vasco,2021,3
+1620,fisica,5.0,4.0,0.0,1.0,1.0,0.0,4.0,gipuzkoa,Pais Vasco,2021,3
+1851,fisica,1.0,1.0,0.0,0.0,0.0,0.0,1.0,ceuta,Ceuta,2021,3
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2021,3
+104,empresas,10.0,10.0,0.0,0.0,0.0,2.0,8.0,almeria,Andalucia,2021,3
+111,empresas,6.0,6.0,0.0,0.0,3.0,0.0,3.0,cadiz,Andalucia,2021,3
+114,empresas,6.0,6.0,0.0,0.0,0.0,2.0,4.0,cordoba,Andalucia,2021,3
+118,empresas,5.0,4.0,0.0,1.0,5.0,0.0,0.0,granada,Andalucia,2021,3
+121,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,huelva,Andalucia,2021,3
+123,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,jaen,Andalucia,2021,3
+129,empresas,19.0,19.0,0.0,0.0,8.0,8.0,3.0,malaga,Andalucia,2021,3
+141,empresas,22.0,22.0,0.0,0.0,17.0,0.0,5.0,sevilla,Andalucia,2021,3
+943,empresas,28.0,27.0,0.0,1.0,13.0,1.0,14.0,aragon,,2021,3
+222,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,huesca,Aragon,2021,3
+244,empresas,1.0,0.0,0.0,1.0,1.0,0.0,0.0,teruel,Aragon,2021,3
+250,empresas,26.0,26.0,0.0,0.0,11.0,1.0,14.0,zaragoza,Aragon,2021,3
+333,empresas,10.0,10.0,0.0,0.0,4.0,1.0,5.0,asturias,Asturias,2021,3
+407,empresas,21.0,21.0,0.0,0.0,11.0,3.0,7.0,balears illes,Baleares,2021,3
+639,empresas,29.0,28.0,1.0,0.0,14.0,4.0,11.0,canarias,,2021,3
+538,empresas,9.0,9.0,0.0,0.0,4.0,0.0,5.0,santa cruz de tenerife,Canarias,2021,3
+639,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,cantabria,Cantabria,2021,3
+705,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,avila,Castilla y Leon,2021,3
+709,empresas,3.0,3.0,0.0,0.0,3.0,0.0,0.0,burgos,Castilla y Leon,2021,3
+724,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,leon,Castilla y Leon,2021,3
+734,empresas,3.0,3.0,0.0,0.0,2.0,0.0,1.0,palencia,Castilla y Leon,2021,3
+737,empresas,6.0,6.0,0.0,0.0,2.0,3.0,1.0,salamanca,Castilla y Leon,2021,3
+740,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,segovia,Castilla y Leon,2021,3
+742,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,soria,Castilla y Leon,2021,3
+747,empresas,15.0,15.0,0.0,0.0,5.0,0.0,10.0,valladolid,Castilla y Leon,2021,3
+749,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2021,3
+802,empresas,6.0,6.0,0.0,0.0,2.0,0.0,4.0,albacete,Castilla La Mancha,2021,3
+813,empresas,7.0,7.0,0.0,0.0,1.0,0.0,6.0,ciudad real,Castilla La Mancha,2021,3
+816,empresas,6.0,6.0,0.0,0.0,2.0,0.0,4.0,cuenca,Castilla La Mancha,2021,3
+819,empresas,4.0,4.0,0.0,0.0,0.0,0.0,4.0,guadalajara,Castilla La Mancha,2021,3
+845,empresas,14.0,13.0,0.0,1.0,6.0,1.0,7.0,toledo,Castilla La Mancha,2021,3
+908,empresas,198.0,194.0,1.0,3.0,51.0,2.0,144.0,barcelona,Cataluña,2021,3
+917,empresas,17.0,17.0,0.0,0.0,8.0,1.0,8.0,girona,Cataluña,2021,3
+925,empresas,11.0,9.0,0.0,2.0,1.0,0.0,10.0,lleida,Cataluña,2021,3
+943,empresas,11.0,11.0,0.0,0.0,4.0,3.0,4.0,tarragona,Cataluña,2021,3
+734,empresas,82.0,80.0,1.0,1.0,16.0,0.0,66.0,valencia,Valencia,2021,3
+1106,empresas,5.0,5.0,0.0,0.0,2.0,0.0,3.0,badajoz,Extremadura,2021,3
+1110,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,caceres,Extremadura,2021,3
+1227,empresas,7.0,7.0,0.0,0.0,7.0,0.0,0.0,lugo,Galicia,2021,3
+1232,empresas,3.0,3.0,0.0,0.0,3.0,0.0,0.0,ourense,Galicia,2021,3
+1236,empresas,14.0,14.0,0.0,0.0,12.0,0.0,2.0,pontevedra,Galicia,2021,3
+1328,empresas,205.0,200.0,4.0,1.0,42.0,8.0,155.0,madrid,Madrid,2021,3
+1430,empresas,16.0,16.0,0.0,0.0,13.0,0.0,3.0,murcia,Murcia,2021,3
+1531,empresas,6.0,6.0,0.0,0.0,2.0,1.0,3.0,navarra,Navarra,2021,3
+1601,empresas,5.0,5.0,0.0,0.0,0.0,0.0,5.0,araba alava,Pais Vasco,2021,3
+1648,empresas,22.0,22.0,0.0,0.0,5.0,2.0,15.0,bizkaia,Pais Vasco,2021,3
+1620,empresas,24.0,24.0,0.0,0.0,8.0,2.0,14.0,gipuzkoa,Pais Vasco,2021,3
+104,fisica,26.0,5.0,0.0,21.0,24.0,1.0,1.0,almeria,Andalucia,2021,4
+111,fisica,26.0,0.0,0.0,26.0,22.0,0.0,4.0,cadiz,Andalucia,2021,4
+114,fisica,29.0,1.0,0.0,28.0,27.0,0.0,2.0,cordoba,Andalucia,2021,4
+118,fisica,19.0,4.0,0.0,15.0,18.0,1.0,0.0,granada,Andalucia,2021,4
+121,fisica,3.0,0.0,0.0,3.0,3.0,0.0,0.0,huelva,Andalucia,2021,4
+123,fisica,21.0,1.0,0.0,20.0,17.0,0.0,4.0,jaen,Andalucia,2021,4
+129,fisica,46.0,8.0,0.0,38.0,32.0,0.0,14.0,malaga,Andalucia,2021,4
+141,fisica,71.0,11.0,0.0,60.0,65.0,2.0,4.0,sevilla,Andalucia,2021,4
+943,fisica,67.0,10.0,0.0,57.0,35.0,1.0,31.0,aragon,,2021,4
+222,fisica,6.0,2.0,0.0,4.0,3.0,0.0,3.0,huesca,Aragon,2021,4
+244,fisica,1.0,0.0,0.0,1.0,1.0,0.0,0.0,teruel,Aragon,2021,4
+250,fisica,60.0,8.0,0.0,52.0,31.0,1.0,28.0,zaragoza,Aragon,2021,4
+333,fisica,58.0,26.0,0.0,32.0,27.0,0.0,31.0,asturias,Asturias,2021,4
+407,fisica,30.0,22.0,0.0,8.0,29.0,1.0,0.0,balears illes,Baleares,2021,4
+639,fisica,93.0,18.0,0.0,75.0,68.0,1.0,24.0,canarias,,2021,4
+538,fisica,40.0,8.0,0.0,32.0,36.0,1.0,3.0,santa cruz de tenerife,Canarias,2021,4
+639,fisica,11.0,8.0,1.0,2.0,10.0,0.0,1.0,cantabria,Cantabria,2021,4
+705,fisica,4.0,1.0,0.0,3.0,3.0,0.0,1.0,avila,Castilla y Leon,2021,4
+709,fisica,9.0,5.0,0.0,4.0,9.0,0.0,0.0,burgos,Castilla y Leon,2021,4
+724,fisica,17.0,6.0,0.0,11.0,10.0,0.0,7.0,leon,Castilla y Leon,2021,4
+734,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2021,4
+737,fisica,7.0,2.0,0.0,5.0,5.0,0.0,2.0,salamanca,Castilla y Leon,2021,4
+740,fisica,7.0,6.0,0.0,1.0,7.0,0.0,0.0,segovia,Castilla y Leon,2021,4
+742,fisica,1.0,1.0,0.0,0.0,1.0,0.0,0.0,soria,Castilla y Leon,2021,4
+747,fisica,28.0,10.0,1.0,17.0,18.0,0.0,10.0,valladolid,Castilla y Leon,2021,4
+749,fisica,3.0,0.0,0.0,3.0,3.0,0.0,0.0,zamora,Castilla y Leon,2021,4
+802,fisica,9.0,3.0,0.0,6.0,3.0,0.0,6.0,albacete,Castilla La Mancha,2021,4
+813,fisica,16.0,7.0,0.0,9.0,3.0,0.0,13.0,ciudad real,Castilla La Mancha,2021,4
+816,fisica,2.0,0.0,0.0,2.0,0.0,0.0,2.0,cuenca,Castilla La Mancha,2021,4
+819,fisica,24.0,4.0,0.0,20.0,11.0,1.0,12.0,guadalajara,Castilla La Mancha,2021,4
+845,fisica,7.0,5.0,0.0,2.0,5.0,0.0,2.0,toledo,Castilla La Mancha,2021,4
+908,fisica,594.0,37.0,0.0,557.0,567.0,3.0,24.0,barcelona,Cataluña,2021,4
+917,fisica,82.0,4.0,0.0,78.0,76.0,0.0,6.0,girona,Cataluña,2021,4
+925,fisica,29.0,1.0,0.0,28.0,29.0,0.0,0.0,lleida,Cataluña,2021,4
+943,fisica,49.0,4.0,0.0,45.0,40.0,0.0,9.0,tarragona,Cataluña,2021,4
+734,fisica,176.0,57.0,0.0,119.0,159.0,1.0,16.0,valencia,Valencia,2021,4
+1106,fisica,8.0,6.0,0.0,2.0,7.0,0.0,1.0,badajoz,Extremadura,2021,4
+1110,fisica,5.0,2.0,0.0,3.0,3.0,0.0,2.0,caceres,Extremadura,2021,4
+1227,fisica,13.0,8.0,0.0,5.0,13.0,0.0,0.0,lugo,Galicia,2021,4
+1232,fisica,7.0,5.0,0.0,2.0,6.0,0.0,1.0,ourense,Galicia,2021,4
+1236,fisica,34.0,16.0,0.0,18.0,27.0,0.0,7.0,pontevedra,Galicia,2021,4
+1328,fisica,260.0,31.0,1.0,228.0,210.0,3.0,45.0,madrid,Madrid,2021,4
+1430,fisica,40.0,30.0,0.0,10.0,36.0,0.0,4.0,murcia,Murcia,2021,4
+1531,fisica,26.0,8.0,0.0,18.0,16.0,0.0,10.0,navarra,Navarra,2021,4
+1601,fisica,6.0,5.0,0.0,1.0,6.0,0.0,0.0,araba alava,Pais Vasco,2021,4
+1648,fisica,33.0,23.0,0.0,10.0,26.0,0.0,7.0,bizkaia,Pais Vasco,2021,4
+1620,fisica,15.0,10.0,0.0,5.0,6.0,0.0,9.0,gipuzkoa,Pais Vasco,2021,4
+1851,fisica,1.0,1.0,0.0,0.0,1.0,0.0,0.0,ceuta,Ceuta,2021,4
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2021,4
+104,empresas,12.0,12.0,0.0,0.0,0.0,7.0,5.0,almeria,Andalucia,2021,4
+111,empresas,24.0,23.0,0.0,1.0,16.0,1.0,7.0,cadiz,Andalucia,2021,4
+114,empresas,10.0,9.0,0.0,1.0,3.0,5.0,2.0,cordoba,Andalucia,2021,4
+118,empresas,9.0,9.0,0.0,0.0,6.0,1.0,2.0,granada,Andalucia,2021,4
+121,empresas,5.0,4.0,0.0,1.0,1.0,0.0,4.0,huelva,Andalucia,2021,4
+123,empresas,8.0,8.0,0.0,0.0,6.0,2.0,0.0,jaen,Andalucia,2021,4
+129,empresas,17.0,17.0,0.0,0.0,10.0,3.0,4.0,malaga,Andalucia,2021,4
+141,empresas,31.0,31.0,0.0,0.0,19.0,1.0,11.0,sevilla,Andalucia,2021,4
+943,empresas,33.0,33.0,0.0,0.0,15.0,1.0,17.0,aragon,,2021,4
+222,empresas,5.0,5.0,0.0,0.0,4.0,1.0,0.0,huesca,Aragon,2021,4
+244,empresas,6.0,6.0,0.0,0.0,4.0,0.0,2.0,teruel,Aragon,2021,4
+250,empresas,22.0,22.0,0.0,0.0,7.0,0.0,15.0,zaragoza,Aragon,2021,4
+333,empresas,19.0,19.0,0.0,0.0,5.0,3.0,11.0,asturias,Asturias,2021,4
+407,empresas,16.0,16.0,0.0,0.0,8.0,1.0,7.0,balears illes,Baleares,2021,4
+639,empresas,27.0,27.0,0.0,0.0,12.0,1.0,14.0,canarias,,2021,4
+538,empresas,10.0,10.0,0.0,0.0,5.0,0.0,5.0,santa cruz de tenerife,Canarias,2021,4
+639,empresas,11.0,11.0,0.0,0.0,2.0,0.0,9.0,cantabria,Cantabria,2021,4
+705,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,avila,Castilla y Leon,2021,4
+709,empresas,5.0,5.0,0.0,0.0,3.0,0.0,2.0,burgos,Castilla y Leon,2021,4
+724,empresas,5.0,5.0,0.0,0.0,1.0,3.0,1.0,leon,Castilla y Leon,2021,4
+734,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,palencia,Castilla y Leon,2021,4
+737,empresas,2.0,2.0,0.0,0.0,0.0,1.0,1.0,salamanca,Castilla y Leon,2021,4
+740,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,segovia,Castilla y Leon,2021,4
+742,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,soria,Castilla y Leon,2021,4
+747,empresas,7.0,7.0,0.0,0.0,0.0,0.0,7.0,valladolid,Castilla y Leon,2021,4
+749,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2021,4
+802,empresas,8.0,8.0,0.0,0.0,5.0,1.0,2.0,albacete,Castilla La Mancha,2021,4
+813,empresas,6.0,6.0,0.0,0.0,2.0,0.0,4.0,ciudad real,Castilla La Mancha,2021,4
+816,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,cuenca,Castilla La Mancha,2021,4
+819,empresas,3.0,3.0,0.0,0.0,2.0,0.0,1.0,guadalajara,Castilla La Mancha,2021,4
+845,empresas,13.0,12.0,0.0,1.0,7.0,0.0,6.0,toledo,Castilla La Mancha,2021,4
+908,empresas,242.0,241.0,0.0,1.0,68.0,8.0,166.0,barcelona,Cataluña,2021,4
+917,empresas,16.0,16.0,0.0,0.0,7.0,0.0,9.0,girona,Cataluña,2021,4
+925,empresas,8.0,7.0,0.0,1.0,5.0,0.0,3.0,lleida,Cataluña,2021,4
+943,empresas,12.0,12.0,0.0,0.0,7.0,0.0,5.0,tarragona,Cataluña,2021,4
+734,empresas,95.0,94.0,0.0,1.0,24.0,1.0,70.0,valencia,Valencia,2021,4
+1106,empresas,10.0,10.0,0.0,0.0,6.0,0.0,4.0,badajoz,Extremadura,2021,4
+1110,empresas,6.0,6.0,0.0,0.0,4.0,0.0,2.0,caceres,Extremadura,2021,4
+1227,empresas,8.0,8.0,0.0,0.0,8.0,0.0,0.0,lugo,Galicia,2021,4
+1232,empresas,3.0,2.0,0.0,1.0,2.0,0.0,1.0,ourense,Galicia,2021,4
+1236,empresas,9.0,8.0,0.0,1.0,6.0,0.0,3.0,pontevedra,Galicia,2021,4
+1328,empresas,264.0,258.0,2.0,4.0,67.0,6.0,191.0,madrid,Madrid,2021,4
+1430,empresas,17.0,17.0,0.0,0.0,9.0,3.0,5.0,murcia,Murcia,2021,4
+1531,empresas,13.0,13.0,0.0,0.0,6.0,1.0,6.0,navarra,Navarra,2021,4
+1601,empresas,6.0,6.0,0.0,0.0,4.0,0.0,2.0,araba alava,Pais Vasco,2021,4
+1648,empresas,42.0,41.0,1.0,0.0,28.0,1.0,13.0,bizkaia,Pais Vasco,2021,4
+1620,empresas,15.0,15.0,0.0,0.0,8.0,0.0,7.0,gipuzkoa,Pais Vasco,2021,4
+104,fisica,15.0,3.0,0.0,12.0,14.0,1.0,0.0,almeria,Andalucia,2022,1
+111,fisica,32.0,6.0,0.0,26.0,31.0,0.0,1.0,cadiz,Andalucia,2022,1
+114,fisica,13.0,3.0,0.0,10.0,12.0,0.0,1.0,cordoba,Andalucia,2022,1
+118,fisica,29.0,3.0,1.0,25.0,24.0,1.0,4.0,granada,Andalucia,2022,1
+121,fisica,9.0,1.0,0.0,8.0,9.0,0.0,0.0,huelva,Andalucia,2022,1
+123,fisica,15.0,3.0,0.0,12.0,14.0,0.0,1.0,jaen,Andalucia,2022,1
+129,fisica,32.0,2.0,0.0,30.0,28.0,0.0,4.0,malaga,Andalucia,2022,1
+141,fisica,99.0,16.0,0.0,83.0,81.0,1.0,17.0,sevilla,Andalucia,2022,1
+943,fisica,97.0,11.0,0.0,86.0,54.0,0.0,43.0,aragon,,2022,1
+222,fisica,15.0,6.0,0.0,9.0,8.0,0.0,7.0,huesca,Aragon,2022,1
+244,fisica,2.0,0.0,0.0,2.0,1.0,0.0,1.0,teruel,Aragon,2022,1
+250,fisica,80.0,5.0,0.0,75.0,45.0,0.0,35.0,zaragoza,Aragon,2022,1
+333,fisica,67.0,27.0,1.0,39.0,31.0,0.0,36.0,asturias,Asturias,2022,1
+407,fisica,49.0,30.0,0.0,19.0,47.0,0.0,2.0,balears illes,Baleares,2022,1
+639,fisica,79.0,7.0,0.0,72.0,59.0,2.0,18.0,canarias,,2022,1
+538,fisica,40.0,3.0,0.0,37.0,28.0,1.0,11.0,santa cruz de tenerife,Canarias,2022,1
+639,fisica,16.0,12.0,0.0,4.0,16.0,0.0,0.0,cantabria,Cantabria,2022,1
+705,fisica,6.0,1.0,0.0,5.0,3.0,0.0,3.0,avila,Castilla y Leon,2022,1
+709,fisica,7.0,1.0,0.0,6.0,4.0,0.0,3.0,burgos,Castilla y Leon,2022,1
+724,fisica,11.0,5.0,0.0,6.0,10.0,0.0,1.0,leon,Castilla y Leon,2022,1
+734,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2022,1
+737,fisica,11.0,0.0,1.0,10.0,3.0,0.0,8.0,salamanca,Castilla y Leon,2022,1
+740,fisica,2.0,1.0,0.0,1.0,2.0,0.0,0.0,segovia,Castilla y Leon,2022,1
+742,fisica,1.0,0.0,0.0,1.0,1.0,0.0,0.0,soria,Castilla y Leon,2022,1
+747,fisica,20.0,10.0,0.0,10.0,14.0,0.0,6.0,valladolid,Castilla y Leon,2022,1
+749,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2022,1
+802,fisica,14.0,2.0,0.0,12.0,9.0,0.0,5.0,albacete,Castilla La Mancha,2022,1
+813,fisica,4.0,0.0,0.0,4.0,0.0,0.0,4.0,ciudad real,Castilla La Mancha,2022,1
+816,fisica,2.0,0.0,0.0,2.0,1.0,0.0,1.0,cuenca,Castilla La Mancha,2022,1
+819,fisica,13.0,0.0,0.0,13.0,1.0,0.0,12.0,guadalajara,Castilla La Mancha,2022,1
+845,fisica,12.0,3.0,0.0,9.0,9.0,0.0,3.0,toledo,Castilla La Mancha,2022,1
+908,fisica,641.0,42.0,0.0,599.0,601.0,6.0,34.0,barcelona,Cataluña,2022,1
+917,fisica,59.0,5.0,0.0,54.0,53.0,0.0,6.0,girona,Cataluña,2022,1
+925,fisica,64.0,9.0,0.0,55.0,64.0,0.0,0.0,lleida,Cataluña,2022,1
+943,fisica,61.0,7.0,0.0,54.0,53.0,1.0,7.0,tarragona,Cataluña,2022,1
+734,fisica,172.0,68.0,0.0,104.0,147.0,1.0,24.0,valencia,Valencia,2022,1
+1106,fisica,5.0,3.0,0.0,2.0,4.0,0.0,1.0,badajoz,Extremadura,2022,1
+1110,fisica,2.0,2.0,0.0,0.0,2.0,0.0,0.0,caceres,Extremadura,2022,1
+1227,fisica,18.0,5.0,0.0,13.0,17.0,0.0,1.0,lugo,Galicia,2022,1
+1232,fisica,9.0,6.0,0.0,3.0,5.0,0.0,4.0,ourense,Galicia,2022,1
+1236,fisica,29.0,13.0,0.0,16.0,25.0,0.0,4.0,pontevedra,Galicia,2022,1
+1328,fisica,319.0,43.0,0.0,276.0,264.0,0.0,55.0,madrid,Madrid,2022,1
+1430,fisica,66.0,41.0,0.0,25.0,56.0,0.0,10.0,murcia,Murcia,2022,1
+1531,fisica,24.0,12.0,0.0,12.0,13.0,0.0,11.0,navarra,Navarra,2022,1
+1601,fisica,7.0,4.0,0.0,3.0,7.0,0.0,0.0,araba alava,Pais Vasco,2022,1
+1648,fisica,29.0,24.0,1.0,4.0,14.0,0.0,15.0,bizkaia,Pais Vasco,2022,1
+1620,fisica,16.0,13.0,0.0,3.0,8.0,0.0,8.0,gipuzkoa,Pais Vasco,2022,1
+1851,fisica,1.0,1.0,0.0,0.0,1.0,0.0,0.0,ceuta,Ceuta,2022,1
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2022,1
+104,empresas,8.0,8.0,0.0,0.0,0.0,4.0,4.0,almeria,Andalucia,2022,1
+111,empresas,12.0,10.0,0.0,2.0,8.0,1.0,3.0,cadiz,Andalucia,2022,1
+114,empresas,8.0,8.0,0.0,0.0,1.0,2.0,5.0,cordoba,Andalucia,2022,1
+118,empresas,12.0,11.0,0.0,1.0,4.0,2.0,6.0,granada,Andalucia,2022,1
+121,empresas,7.0,7.0,0.0,0.0,5.0,0.0,2.0,huelva,Andalucia,2022,1
+123,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,jaen,Andalucia,2022,1
+129,empresas,25.0,25.0,0.0,0.0,16.0,4.0,5.0,malaga,Andalucia,2022,1
+141,empresas,36.0,33.0,0.0,3.0,18.0,0.0,18.0,sevilla,Andalucia,2022,1
+943,empresas,48.0,48.0,0.0,0.0,14.0,4.0,30.0,aragon,,2022,1
+222,empresas,4.0,4.0,0.0,0.0,2.0,1.0,1.0,huesca,Aragon,2022,1
+244,empresas,3.0,3.0,0.0,0.0,2.0,0.0,1.0,teruel,Aragon,2022,1
+250,empresas,41.0,41.0,0.0,0.0,10.0,3.0,28.0,zaragoza,Aragon,2022,1
+333,empresas,23.0,23.0,0.0,0.0,10.0,2.0,11.0,asturias,Asturias,2022,1
+407,empresas,34.0,34.0,0.0,0.0,17.0,11.0,6.0,balears illes,Baleares,2022,1
+639,empresas,28.0,26.0,1.0,1.0,13.0,1.0,14.0,canarias,,2022,1
+538,empresas,11.0,10.0,0.0,1.0,6.0,0.0,5.0,santa cruz de tenerife,Canarias,2022,1
+639,empresas,20.0,20.0,0.0,0.0,7.0,0.0,13.0,cantabria,Cantabria,2022,1
+705,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,avila,Castilla y Leon,2022,1
+709,empresas,6.0,6.0,0.0,0.0,6.0,0.0,0.0,burgos,Castilla y Leon,2022,1
+724,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,leon,Castilla y Leon,2022,1
+734,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,palencia,Castilla y Leon,2022,1
+737,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,salamanca,Castilla y Leon,2022,1
+740,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,segovia,Castilla y Leon,2022,1
+742,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,soria,Castilla y Leon,2022,1
+747,empresas,6.0,6.0,0.0,0.0,2.0,0.0,4.0,valladolid,Castilla y Leon,2022,1
+749,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2022,1
+802,empresas,10.0,10.0,0.0,0.0,2.0,0.0,8.0,albacete,Castilla La Mancha,2022,1
+813,empresas,5.0,5.0,0.0,0.0,0.0,0.0,5.0,ciudad real,Castilla La Mancha,2022,1
+816,empresas,6.0,5.0,0.0,1.0,2.0,0.0,4.0,cuenca,Castilla La Mancha,2022,1
+819,empresas,3.0,2.0,0.0,1.0,1.0,0.0,2.0,guadalajara,Castilla La Mancha,2022,1
+845,empresas,13.0,9.0,0.0,4.0,3.0,0.0,10.0,toledo,Castilla La Mancha,2022,1
+908,empresas,275.0,273.0,0.0,2.0,61.0,7.0,207.0,barcelona,Cataluña,2022,1
+917,empresas,25.0,25.0,0.0,0.0,8.0,0.0,17.0,girona,Cataluña,2022,1
+925,empresas,15.0,15.0,0.0,0.0,4.0,0.0,11.0,lleida,Cataluña,2022,1
+943,empresas,5.0,5.0,0.0,0.0,3.0,0.0,2.0,tarragona,Cataluña,2022,1
+734,empresas,120.0,120.0,0.0,0.0,24.0,4.0,92.0,valencia,Valencia,2022,1
+1106,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,badajoz,Extremadura,2022,1
+1110,empresas,3.0,2.0,1.0,0.0,3.0,0.0,0.0,caceres,Extremadura,2022,1
+1227,empresas,11.0,11.0,0.0,0.0,6.0,0.0,5.0,lugo,Galicia,2022,1
+1232,empresas,6.0,6.0,0.0,0.0,6.0,0.0,0.0,ourense,Galicia,2022,1
+1236,empresas,16.0,16.0,0.0,0.0,11.0,1.0,4.0,pontevedra,Galicia,2022,1
+1328,empresas,325.0,315.0,8.0,2.0,71.0,15.0,239.0,madrid,Madrid,2022,1
+1430,empresas,38.0,38.0,0.0,0.0,13.0,14.0,11.0,murcia,Murcia,2022,1
+1531,empresas,7.0,7.0,0.0,0.0,4.0,0.0,3.0,navarra,Navarra,2022,1
+1601,empresas,11.0,11.0,0.0,0.0,3.0,0.0,8.0,araba alava,Pais Vasco,2022,1
+1648,empresas,41.0,41.0,0.0,0.0,20.0,2.0,19.0,bizkaia,Pais Vasco,2022,1
+1620,empresas,14.0,14.0,0.0,0.0,3.0,0.0,11.0,gipuzkoa,Pais Vasco,2022,1
+104,fisica,13.0,1.0,0.0,12.0,13.0,0.0,0.0,almeria,Andalucia,2022,2
+111,fisica,18.0,4.0,0.0,14.0,16.0,0.0,2.0,cadiz,Andalucia,2022,2
+114,fisica,15.0,5.0,0.0,10.0,14.0,0.0,1.0,cordoba,Andalucia,2022,2
+118,fisica,21.0,5.0,0.0,16.0,20.0,0.0,1.0,granada,Andalucia,2022,2
+121,fisica,5.0,0.0,0.0,5.0,4.0,0.0,1.0,huelva,Andalucia,2022,2
+123,fisica,23.0,1.0,0.0,22.0,23.0,0.0,0.0,jaen,Andalucia,2022,2
+129,fisica,37.0,11.0,1.0,25.0,27.0,1.0,9.0,malaga,Andalucia,2022,2
+141,fisica,82.0,18.0,0.0,64.0,61.0,0.0,21.0,sevilla,Andalucia,2022,2
+943,fisica,117.0,17.0,0.0,100.0,71.0,2.0,44.0,aragon,,2022,2
+222,fisica,15.0,3.0,0.0,12.0,9.0,0.0,6.0,huesca,Aragon,2022,2
+244,fisica,10.0,3.0,0.0,7.0,8.0,0.0,2.0,teruel,Aragon,2022,2
+250,fisica,92.0,11.0,0.0,81.0,54.0,2.0,36.0,zaragoza,Aragon,2022,2
+333,fisica,72.0,24.0,1.0,47.0,40.0,0.0,32.0,asturias,Asturias,2022,2
+407,fisica,40.0,21.0,0.0,19.0,40.0,0.0,0.0,balears illes,Baleares,2022,2
+639,fisica,82.0,14.0,0.0,68.0,61.0,1.0,20.0,canarias,,2022,2
+538,fisica,34.0,5.0,0.0,29.0,29.0,0.0,5.0,santa cruz de tenerife,Canarias,2022,2
+639,fisica,15.0,9.0,0.0,6.0,13.0,0.0,2.0,cantabria,Cantabria,2022,2
+705,fisica,1.0,0.0,0.0,1.0,1.0,0.0,0.0,avila,Castilla y Leon,2022,2
+709,fisica,4.0,1.0,0.0,3.0,3.0,0.0,1.0,burgos,Castilla y Leon,2022,2
+724,fisica,17.0,11.0,0.0,6.0,16.0,0.0,1.0,leon,Castilla y Leon,2022,2
+734,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2022,2
+737,fisica,12.0,4.0,0.0,8.0,5.0,0.0,7.0,salamanca,Castilla y Leon,2022,2
+740,fisica,11.0,2.0,0.0,9.0,11.0,0.0,0.0,segovia,Castilla y Leon,2022,2
+742,fisica,7.0,4.0,0.0,3.0,7.0,0.0,0.0,soria,Castilla y Leon,2022,2
+747,fisica,32.0,19.0,0.0,13.0,20.0,0.0,12.0,valladolid,Castilla y Leon,2022,2
+749,fisica,2.0,0.0,0.0,2.0,1.0,0.0,1.0,zamora,Castilla y Leon,2022,2
+802,fisica,16.0,4.0,0.0,12.0,10.0,0.0,6.0,albacete,Castilla La Mancha,2022,2
+813,fisica,5.0,0.0,0.0,5.0,2.0,0.0,3.0,ciudad real,Castilla La Mancha,2022,2
+816,fisica,4.0,1.0,0.0,3.0,1.0,0.0,3.0,cuenca,Castilla La Mancha,2022,2
+819,fisica,40.0,5.0,0.0,35.0,18.0,0.0,22.0,guadalajara,Castilla La Mancha,2022,2
+845,fisica,17.0,4.0,0.0,13.0,10.0,0.0,7.0,toledo,Castilla La Mancha,2022,2
+908,fisica,694.0,39.0,0.0,655.0,668.0,0.0,26.0,barcelona,Cataluña,2022,2
+917,fisica,72.0,10.0,1.0,61.0,59.0,2.0,11.0,girona,Cataluña,2022,2
+925,fisica,49.0,4.0,0.0,45.0,49.0,0.0,0.0,lleida,Cataluña,2022,2
+943,fisica,46.0,5.0,0.0,41.0,42.0,1.0,3.0,tarragona,Cataluña,2022,2
+734,fisica,144.0,43.0,0.0,101.0,132.0,0.0,12.0,valencia,Valencia,2022,2
+1106,fisica,4.0,1.0,0.0,3.0,4.0,0.0,0.0,badajoz,Extremadura,2022,2
+1110,fisica,2.0,1.0,0.0,1.0,1.0,0.0,1.0,caceres,Extremadura,2022,2
+1227,fisica,24.0,12.0,0.0,12.0,24.0,0.0,0.0,lugo,Galicia,2022,2
+1232,fisica,5.0,1.0,0.0,4.0,1.0,0.0,4.0,ourense,Galicia,2022,2
+1236,fisica,40.0,19.0,0.0,21.0,38.0,0.0,2.0,pontevedra,Galicia,2022,2
+1328,fisica,249.0,37.0,0.0,212.0,208.0,2.0,39.0,madrid,Madrid,2022,2
+1430,fisica,57.0,35.0,0.0,22.0,54.0,0.0,3.0,murcia,Murcia,2022,2
+1531,fisica,27.0,4.0,0.0,23.0,5.0,0.0,22.0,navarra,Navarra,2022,2
+1601,fisica,15.0,11.0,0.0,4.0,15.0,0.0,0.0,araba alava,Pais Vasco,2022,2
+1648,fisica,31.0,23.0,0.0,8.0,18.0,0.0,13.0,bizkaia,Pais Vasco,2022,2
+1620,fisica,22.0,15.0,0.0,7.0,14.0,0.0,8.0,gipuzkoa,Pais Vasco,2022,2
+1851,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ceuta,Ceuta,2022,2
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2022,2
+104,empresas,14.0,13.0,1.0,0.0,0.0,7.0,7.0,almeria,Andalucia,2022,2
+111,empresas,5.0,5.0,0.0,0.0,4.0,0.0,1.0,cadiz,Andalucia,2022,2
+114,empresas,8.0,8.0,0.0,0.0,1.0,4.0,3.0,cordoba,Andalucia,2022,2
+118,empresas,19.0,17.0,1.0,1.0,10.0,3.0,6.0,granada,Andalucia,2022,2
+121,empresas,8.0,8.0,0.0,0.0,5.0,0.0,3.0,huelva,Andalucia,2022,2
+123,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,jaen,Andalucia,2022,2
+129,empresas,23.0,22.0,0.0,1.0,12.0,3.0,8.0,malaga,Andalucia,2022,2
+141,empresas,23.0,22.0,0.0,1.0,16.0,1.0,6.0,sevilla,Andalucia,2022,2
+943,empresas,36.0,34.0,0.0,2.0,11.0,0.0,25.0,aragon,,2022,2
+222,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,huesca,Aragon,2022,2
+244,empresas,4.0,3.0,0.0,1.0,1.0,0.0,3.0,teruel,Aragon,2022,2
+250,empresas,28.0,27.0,0.0,1.0,9.0,0.0,19.0,zaragoza,Aragon,2022,2
+333,empresas,24.0,24.0,0.0,0.0,11.0,0.0,13.0,asturias,Asturias,2022,2
+407,empresas,23.0,23.0,0.0,0.0,19.0,0.0,4.0,balears illes,Baleares,2022,2
+639,empresas,37.0,35.0,0.0,2.0,19.0,2.0,16.0,canarias,,2022,2
+538,empresas,15.0,13.0,0.0,2.0,9.0,0.0,6.0,santa cruz de tenerife,Canarias,2022,2
+639,empresas,8.0,8.0,0.0,0.0,3.0,0.0,5.0,cantabria,Cantabria,2022,2
+705,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,avila,Castilla y Leon,2022,2
+709,empresas,4.0,4.0,0.0,0.0,4.0,0.0,0.0,burgos,Castilla y Leon,2022,2
+724,empresas,5.0,5.0,0.0,0.0,3.0,0.0,2.0,leon,Castilla y Leon,2022,2
+734,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,palencia,Castilla y Leon,2022,2
+737,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,salamanca,Castilla y Leon,2022,2
+740,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,segovia,Castilla y Leon,2022,2
+742,empresas,3.0,3.0,0.0,0.0,0.0,0.0,3.0,soria,Castilla y Leon,2022,2
+747,empresas,5.0,5.0,0.0,0.0,1.0,0.0,4.0,valladolid,Castilla y Leon,2022,2
+749,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,zamora,Castilla y Leon,2022,2
+802,empresas,7.0,7.0,0.0,0.0,2.0,0.0,5.0,albacete,Castilla La Mancha,2022,2
+813,empresas,9.0,9.0,0.0,0.0,1.0,0.0,8.0,ciudad real,Castilla La Mancha,2022,2
+816,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,cuenca,Castilla La Mancha,2022,2
+819,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,guadalajara,Castilla La Mancha,2022,2
+845,empresas,10.0,9.0,1.0,0.0,6.0,2.0,2.0,toledo,Castilla La Mancha,2022,2
+908,empresas,286.0,284.0,1.0,1.0,72.0,4.0,210.0,barcelona,Cataluña,2022,2
+917,empresas,11.0,11.0,0.0,0.0,7.0,1.0,3.0,girona,Cataluña,2022,2
+925,empresas,8.0,8.0,0.0,0.0,2.0,0.0,6.0,lleida,Cataluña,2022,2
+943,empresas,19.0,18.0,0.0,1.0,7.0,2.0,10.0,tarragona,Cataluña,2022,2
+734,empresas,159.0,157.0,0.0,2.0,26.0,11.0,122.0,valencia,Valencia,2022,2
+1106,empresas,4.0,4.0,0.0,0.0,0.0,0.0,4.0,badajoz,Extremadura,2022,2
+1110,empresas,4.0,4.0,0.0,0.0,0.0,0.0,4.0,caceres,Extremadura,2022,2
+1227,empresas,14.0,14.0,0.0,0.0,10.0,1.0,3.0,lugo,Galicia,2022,2
+1232,empresas,6.0,6.0,0.0,0.0,5.0,0.0,1.0,ourense,Galicia,2022,2
+1236,empresas,11.0,10.0,0.0,1.0,9.0,0.0,2.0,pontevedra,Galicia,2022,2
+1328,empresas,259.0,252.0,5.0,2.0,44.0,9.0,206.0,madrid,Madrid,2022,2
+1430,empresas,28.0,28.0,0.0,0.0,16.0,4.0,8.0,murcia,Murcia,2022,2
+1531,empresas,10.0,10.0,0.0,0.0,6.0,1.0,3.0,navarra,Navarra,2022,2
+1601,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,araba alava,Pais Vasco,2022,2
+1648,empresas,42.0,41.0,0.0,1.0,24.0,3.0,15.0,bizkaia,Pais Vasco,2022,2
+1620,empresas,21.0,21.0,0.0,0.0,9.0,0.0,12.0,gipuzkoa,Pais Vasco,2022,2
+104,fisica,14.0,3.0,0.0,11.0,9.0,3.0,2.0,almeria,Andalucia,2022,3
+111,fisica,19.0,4.0,0.0,15.0,18.0,0.0,1.0,cadiz,Andalucia,2022,3
+114,fisica,16.0,1.0,0.0,15.0,16.0,0.0,0.0,cordoba,Andalucia,2022,3
+118,fisica,30.0,13.0,0.0,17.0,27.0,0.0,3.0,granada,Andalucia,2022,3
+121,fisica,13.0,0.0,0.0,13.0,7.0,0.0,6.0,huelva,Andalucia,2022,3
+123,fisica,13.0,2.0,0.0,11.0,10.0,1.0,2.0,jaen,Andalucia,2022,3
+129,fisica,42.0,11.0,0.0,31.0,37.0,0.0,5.0,malaga,Andalucia,2022,3
+141,fisica,75.0,10.0,0.0,65.0,59.0,0.0,16.0,sevilla,Andalucia,2022,3
+943,fisica,107.0,25.0,0.0,82.0,60.0,0.0,47.0,aragon,,2022,3
+222,fisica,23.0,4.0,0.0,19.0,15.0,0.0,8.0,huesca,Aragon,2022,3
+244,fisica,4.0,1.0,0.0,3.0,4.0,0.0,0.0,teruel,Aragon,2022,3
+250,fisica,80.0,20.0,0.0,60.0,41.0,0.0,39.0,zaragoza,Aragon,2022,3
+333,fisica,55.0,19.0,0.0,36.0,18.0,0.0,37.0,asturias,Asturias,2022,3
+407,fisica,65.0,38.0,0.0,27.0,61.0,0.0,4.0,balears illes,Baleares,2022,3
+639,fisica,71.0,21.0,1.0,49.0,60.0,2.0,9.0,canarias,,2022,3
+538,fisica,28.0,7.0,0.0,21.0,22.0,0.0,6.0,santa cruz de tenerife,Canarias,2022,3
+639,fisica,10.0,8.0,0.0,2.0,10.0,0.0,0.0,cantabria,Cantabria,2022,3
+705,fisica,2.0,1.0,0.0,1.0,1.0,0.0,1.0,avila,Castilla y Leon,2022,3
+709,fisica,6.0,0.0,0.0,6.0,6.0,0.0,0.0,burgos,Castilla y Leon,2022,3
+724,fisica,21.0,14.0,0.0,7.0,20.0,0.0,1.0,leon,Castilla y Leon,2022,3
+734,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2022,3
+737,fisica,12.0,6.0,0.0,6.0,4.0,0.0,8.0,salamanca,Castilla y Leon,2022,3
+740,fisica,6.0,0.0,1.0,5.0,6.0,0.0,0.0,segovia,Castilla y Leon,2022,3
+742,fisica,3.0,1.0,1.0,1.0,3.0,0.0,0.0,soria,Castilla y Leon,2022,3
+747,fisica,29.0,16.0,0.0,13.0,17.0,0.0,12.0,valladolid,Castilla y Leon,2022,3
+749,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2022,3
+802,fisica,22.0,4.0,0.0,18.0,12.0,0.0,10.0,albacete,Castilla La Mancha,2022,3
+813,fisica,18.0,5.0,0.0,13.0,7.0,0.0,11.0,ciudad real,Castilla La Mancha,2022,3
+816,fisica,3.0,2.0,0.0,1.0,0.0,0.0,3.0,cuenca,Castilla La Mancha,2022,3
+819,fisica,21.0,3.0,0.0,18.0,5.0,0.0,16.0,guadalajara,Castilla La Mancha,2022,3
+845,fisica,19.0,3.0,3.0,13.0,9.0,0.0,10.0,toledo,Castilla La Mancha,2022,3
+908,fisica,603.0,40.0,2.0,561.0,575.0,0.0,28.0,barcelona,Cataluña,2022,3
+917,fisica,84.0,16.0,0.0,68.0,41.0,0.0,43.0,girona,Cataluña,2022,3
+925,fisica,90.0,28.0,0.0,62.0,88.0,0.0,2.0,lleida,Cataluña,2022,3
+943,fisica,60.0,7.0,0.0,53.0,57.0,0.0,3.0,tarragona,Cataluña,2022,3
+734,fisica,140.0,42.0,1.0,97.0,116.0,0.0,24.0,valencia,Valencia,2022,3
+1106,fisica,16.0,7.0,0.0,9.0,8.0,0.0,8.0,badajoz,Extremadura,2022,3
+1110,fisica,11.0,11.0,0.0,0.0,1.0,0.0,10.0,caceres,Extremadura,2022,3
+1227,fisica,20.0,8.0,0.0,12.0,20.0,0.0,0.0,lugo,Galicia,2022,3
+1232,fisica,9.0,9.0,0.0,0.0,7.0,0.0,2.0,ourense,Galicia,2022,3
+1236,fisica,40.0,17.0,0.0,23.0,36.0,0.0,4.0,pontevedra,Galicia,2022,3
+1328,fisica,248.0,40.0,2.0,206.0,202.0,0.0,46.0,madrid,Madrid,2022,3
+1430,fisica,71.0,46.0,0.0,25.0,57.0,0.0,14.0,murcia,Murcia,2022,3
+1531,fisica,16.0,6.0,0.0,10.0,3.0,0.0,13.0,navarra,Navarra,2022,3
+1601,fisica,14.0,10.0,0.0,4.0,14.0,0.0,0.0,araba alava,Pais Vasco,2022,3
+1648,fisica,13.0,12.0,0.0,1.0,7.0,0.0,6.0,bizkaia,Pais Vasco,2022,3
+1620,fisica,21.0,15.0,0.0,6.0,12.0,0.0,9.0,gipuzkoa,Pais Vasco,2022,3
+1851,fisica,2.0,1.0,0.0,1.0,0.0,0.0,2.0,ceuta,Ceuta,2022,3
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2022,3
+104,empresas,20.0,19.0,1.0,0.0,2.0,9.0,9.0,almeria,Andalucia,2022,3
+111,empresas,17.0,16.0,1.0,0.0,13.0,0.0,4.0,cadiz,Andalucia,2022,3
+114,empresas,25.0,24.0,1.0,0.0,1.0,9.0,15.0,cordoba,Andalucia,2022,3
+118,empresas,21.0,17.0,0.0,4.0,9.0,2.0,10.0,granada,Andalucia,2022,3
+121,empresas,13.0,13.0,0.0,0.0,4.0,0.0,9.0,huelva,Andalucia,2022,3
+123,empresas,9.0,8.0,1.0,0.0,5.0,1.0,3.0,jaen,Andalucia,2022,3
+129,empresas,37.0,36.0,0.0,1.0,12.0,11.0,14.0,malaga,Andalucia,2022,3
+141,empresas,52.0,51.0,1.0,0.0,29.0,2.0,21.0,sevilla,Andalucia,2022,3
+943,empresas,52.0,51.0,0.0,1.0,17.0,4.0,31.0,aragon,,2022,3
+222,empresas,5.0,5.0,0.0,0.0,2.0,1.0,2.0,huesca,Aragon,2022,3
+244,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,teruel,Aragon,2022,3
+250,empresas,46.0,45.0,0.0,1.0,15.0,3.0,28.0,zaragoza,Aragon,2022,3
+333,empresas,29.0,29.0,0.0,0.0,11.0,0.0,18.0,asturias,Asturias,2022,3
+407,empresas,26.0,25.0,1.0,0.0,20.0,1.0,5.0,balears illes,Baleares,2022,3
+639,empresas,28.0,27.0,1.0,0.0,18.0,0.0,10.0,canarias,,2022,3
+538,empresas,13.0,13.0,0.0,0.0,10.0,0.0,3.0,santa cruz de tenerife,Canarias,2022,3
+639,empresas,11.0,11.0,0.0,0.0,5.0,0.0,6.0,cantabria,Cantabria,2022,3
+705,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,avila,Castilla y Leon,2022,3
+709,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,burgos,Castilla y Leon,2022,3
+724,empresas,6.0,6.0,0.0,0.0,1.0,2.0,3.0,leon,Castilla y Leon,2022,3
+734,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,palencia,Castilla y Leon,2022,3
+737,empresas,5.0,5.0,0.0,0.0,0.0,2.0,3.0,salamanca,Castilla y Leon,2022,3
+740,empresas,7.0,6.0,0.0,1.0,5.0,0.0,2.0,segovia,Castilla y Leon,2022,3
+742,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,soria,Castilla y Leon,2022,3
+747,empresas,15.0,14.0,1.0,0.0,7.0,0.0,8.0,valladolid,Castilla y Leon,2022,3
+749,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2022,3
+802,empresas,16.0,16.0,0.0,0.0,6.0,0.0,10.0,albacete,Castilla La Mancha,2022,3
+813,empresas,3.0,3.0,0.0,0.0,0.0,0.0,3.0,ciudad real,Castilla La Mancha,2022,3
+816,empresas,7.0,7.0,0.0,0.0,0.0,1.0,6.0,cuenca,Castilla La Mancha,2022,3
+819,empresas,4.0,3.0,0.0,1.0,2.0,0.0,2.0,guadalajara,Castilla La Mancha,2022,3
+845,empresas,17.0,17.0,0.0,0.0,5.0,0.0,12.0,toledo,Castilla La Mancha,2022,3
+908,empresas,368.0,366.0,0.0,2.0,88.0,3.0,277.0,barcelona,Cataluña,2022,3
+917,empresas,38.0,35.0,3.0,0.0,14.0,1.0,23.0,girona,Cataluña,2022,3
+925,empresas,31.0,31.0,0.0,0.0,9.0,0.0,22.0,lleida,Cataluña,2022,3
+943,empresas,15.0,14.0,0.0,1.0,10.0,0.0,5.0,tarragona,Cataluña,2022,3
+734,empresas,165.0,162.0,3.0,0.0,25.0,7.0,133.0,valencia,Valencia,2022,3
+1106,empresas,13.0,13.0,0.0,0.0,6.0,1.0,6.0,badajoz,Extremadura,2022,3
+1110,empresas,12.0,12.0,0.0,0.0,0.0,0.0,12.0,caceres,Extremadura,2022,3
+1227,empresas,21.0,18.0,3.0,0.0,13.0,0.0,8.0,lugo,Galicia,2022,3
+1232,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ourense,Galicia,2022,3
+1236,empresas,17.0,16.0,1.0,0.0,12.0,0.0,5.0,pontevedra,Galicia,2022,3
+1328,empresas,455.0,451.0,2.0,2.0,54.0,9.0,392.0,madrid,Madrid,2022,3
+1430,empresas,51.0,46.0,3.0,2.0,27.0,6.0,18.0,murcia,Murcia,2022,3
+1531,empresas,10.0,10.0,0.0,0.0,2.0,0.0,8.0,navarra,Navarra,2022,3
+1601,empresas,17.0,17.0,0.0,0.0,7.0,0.0,10.0,araba alava,Pais Vasco,2022,3
+1648,empresas,55.0,55.0,0.0,0.0,31.0,5.0,19.0,bizkaia,Pais Vasco,2022,3
+1620,empresas,28.0,27.0,1.0,0.0,10.0,3.0,15.0,gipuzkoa,Pais Vasco,2022,3
+104,fisica,71.0,52.0,2.0,17.0,19.0,13.0,39.0,almeria,Andalucia,2022,4
+111,fisica,103.0,69.0,1.0,33.0,36.0,5.0,62.0,cadiz,Andalucia,2022,4
+114,fisica,49.0,21.0,0.0,28.0,18.0,0.0,31.0,cordoba,Andalucia,2022,4
+118,fisica,80.0,54.0,0.0,26.0,40.0,3.0,37.0,granada,Andalucia,2022,4
+121,fisica,40.0,21.0,0.0,19.0,11.0,1.0,28.0,huelva,Andalucia,2022,4
+123,fisica,21.0,4.0,0.0,17.0,15.0,1.0,5.0,jaen,Andalucia,2022,4
+129,fisica,117.0,79.0,0.0,38.0,41.0,3.0,73.0,malaga,Andalucia,2022,4
+141,fisica,190.0,93.0,0.0,97.0,51.0,10.0,129.0,sevilla,Andalucia,2022,4
+943,fisica,189.0,143.0,1.0,45.0,87.0,0.0,102.0,aragon,,2022,4
+222,fisica,30.0,20.0,0.0,10.0,24.0,0.0,6.0,huesca,Aragon,2022,4
+244,fisica,3.0,3.0,0.0,0.0,2.0,0.0,1.0,teruel,Aragon,2022,4
+250,fisica,156.0,120.0,1.0,35.0,61.0,0.0,95.0,zaragoza,Aragon,2022,4
+333,fisica,157.0,131.0,2.0,24.0,50.0,1.0,106.0,asturias,Asturias,2022,4
+407,fisica,177.0,143.0,2.0,32.0,110.0,2.0,65.0,balears illes,Baleares,2022,4
+639,fisica,246.0,83.0,0.0,163.0,129.0,1.0,116.0,canarias,,2022,4
+538,fisica,49.0,16.0,0.0,33.0,29.0,0.0,20.0,santa cruz de tenerife,Canarias,2022,4
+639,fisica,74.0,68.0,0.0,6.0,40.0,0.0,34.0,cantabria,Cantabria,2022,4
+705,fisica,11.0,11.0,0.0,0.0,0.0,0.0,11.0,avila,Castilla y Leon,2022,4
+709,fisica,22.0,18.0,0.0,4.0,14.0,0.0,8.0,burgos,Castilla y Leon,2022,4
+724,fisica,26.0,20.0,0.0,6.0,17.0,0.0,9.0,leon,Castilla y Leon,2022,4
+734,fisica,4.0,3.0,0.0,1.0,1.0,0.0,3.0,palencia,Castilla y Leon,2022,4
+737,fisica,38.0,36.0,0.0,2.0,9.0,0.0,29.0,salamanca,Castilla y Leon,2022,4
+740,fisica,13.0,10.0,0.0,3.0,3.0,0.0,10.0,segovia,Castilla y Leon,2022,4
+742,fisica,13.0,9.0,0.0,4.0,11.0,2.0,0.0,soria,Castilla y Leon,2022,4
+747,fisica,73.0,58.0,0.0,15.0,43.0,1.0,29.0,valladolid,Castilla y Leon,2022,4
+749,fisica,2.0,1.0,0.0,1.0,0.0,0.0,2.0,zamora,Castilla y Leon,2022,4
+802,fisica,71.0,69.0,0.0,2.0,16.0,0.0,55.0,albacete,Castilla La Mancha,2022,4
+813,fisica,2.0,0.0,0.0,2.0,2.0,0.0,0.0,ciudad real,Castilla La Mancha,2022,4
+816,fisica,10.0,6.0,0.0,4.0,9.0,0.0,1.0,cuenca,Castilla La Mancha,2022,4
+819,fisica,64.0,44.0,0.0,20.0,41.0,0.0,23.0,guadalajara,Castilla La Mancha,2022,4
+845,fisica,37.0,25.0,6.0,6.0,20.0,2.0,15.0,toledo,Castilla La Mancha,2022,4
+908,fisica,1204.0,679.0,2.0,523.0,620.0,1.0,583.0,barcelona,Cataluña,2022,4
+917,fisica,200.0,130.0,0.0,70.0,33.0,0.0,167.0,girona,Cataluña,2022,4
+925,fisica,97.0,81.0,2.0,14.0,50.0,1.0,46.0,lleida,Cataluña,2022,4
+943,fisica,17.0,4.0,0.0,13.0,11.0,0.0,6.0,tarragona,Cataluña,2022,4
+734,fisica,391.0,313.0,1.0,77.0,139.0,2.0,250.0,valencia,Valencia,2022,4
+1106,fisica,63.0,57.0,0.0,6.0,28.0,0.0,35.0,badajoz,Extremadura,2022,4
+1110,fisica,14.0,14.0,0.0,0.0,2.0,0.0,12.0,caceres,Extremadura,2022,4
+1227,fisica,38.0,27.0,0.0,11.0,22.0,0.0,16.0,lugo,Galicia,2022,4
+1232,fisica,15.0,14.0,0.0,1.0,3.0,0.0,12.0,ourense,Galicia,2022,4
+1236,fisica,68.0,40.0,1.0,27.0,40.0,0.0,28.0,pontevedra,Galicia,2022,4
+1328,fisica,875.0,501.0,2.0,372.0,334.0,45.0,496.0,madrid,Madrid,2022,4
+1430,fisica,242.0,195.0,1.0,46.0,104.0,2.0,136.0,murcia,Murcia,2022,4
+1531,fisica,29.0,14.0,0.0,15.0,8.0,0.0,21.0,navarra,Navarra,2022,4
+1601,fisica,22.0,14.0,0.0,8.0,10.0,0.0,12.0,araba alava,Pais Vasco,2022,4
+1648,fisica,74.0,66.0,0.0,8.0,29.0,0.0,45.0,bizkaia,Pais Vasco,2022,4
+1620,fisica,46.0,42.0,0.0,4.0,21.0,2.0,23.0,gipuzkoa,Pais Vasco,2022,4
+1851,fisica,11.0,2.0,0.0,9.0,2.0,0.0,9.0,ceuta,Ceuta,2022,4
+1952,fisica,2.0,2.0,0.0,0.0,0.0,0.0,2.0,melilla,Melilla,2022,4
+104,empresas,22.0,20.0,2.0,0.0,1.0,5.0,16.0,almeria,Andalucia,2022,4
+111,empresas,29.0,29.0,0.0,0.0,7.0,10.0,12.0,cadiz,Andalucia,2022,4
+114,empresas,11.0,8.0,3.0,0.0,2.0,4.0,5.0,cordoba,Andalucia,2022,4
+118,empresas,16.0,14.0,1.0,1.0,4.0,5.0,7.0,granada,Andalucia,2022,4
+121,empresas,9.0,9.0,0.0,0.0,1.0,3.0,5.0,huelva,Andalucia,2022,4
+123,empresas,6.0,6.0,0.0,0.0,2.0,1.0,3.0,jaen,Andalucia,2022,4
+129,empresas,32.0,31.0,0.0,1.0,4.0,14.0,14.0,malaga,Andalucia,2022,4
+141,empresas,65.0,62.0,2.0,1.0,11.0,45.0,9.0,sevilla,Andalucia,2022,4
+943,empresas,34.0,33.0,1.0,0.0,14.0,0.0,20.0,aragon,,2022,4
+222,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,huesca,Aragon,2022,4
+244,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,teruel,Aragon,2022,4
+250,empresas,31.0,30.0,1.0,0.0,11.0,0.0,20.0,zaragoza,Aragon,2022,4
+333,empresas,23.0,22.0,1.0,0.0,4.0,6.0,13.0,asturias,Asturias,2022,4
+407,empresas,24.0,22.0,2.0,0.0,15.0,2.0,7.0,balears illes,Baleares,2022,4
+639,empresas,31.0,28.0,1.0,2.0,17.0,2.0,12.0,canarias,,2022,4
+538,empresas,15.0,13.0,1.0,1.0,8.0,0.0,7.0,santa cruz de tenerife,Canarias,2022,4
+639,empresas,8.0,8.0,0.0,0.0,3.0,0.0,5.0,cantabria,Cantabria,2022,4
+705,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,avila,Castilla y Leon,2022,4
+709,empresas,14.0,12.0,1.0,1.0,6.0,4.0,4.0,burgos,Castilla y Leon,2022,4
+724,empresas,5.0,3.0,2.0,0.0,5.0,0.0,0.0,leon,Castilla y Leon,2022,4
+734,empresas,2.0,2.0,0.0,0.0,0.0,2.0,0.0,palencia,Castilla y Leon,2022,4
+737,empresas,9.0,9.0,0.0,0.0,2.0,6.0,1.0,salamanca,Castilla y Leon,2022,4
+740,empresas,3.0,2.0,0.0,1.0,1.0,0.0,2.0,segovia,Castilla y Leon,2022,4
+742,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,soria,Castilla y Leon,2022,4
+747,empresas,10.0,10.0,0.0,0.0,1.0,2.0,7.0,valladolid,Castilla y Leon,2022,4
+749,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,zamora,Castilla y Leon,2022,4
+802,empresas,14.0,13.0,0.0,1.0,8.0,0.0,6.0,albacete,Castilla La Mancha,2022,4
+813,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ciudad real,Castilla La Mancha,2022,4
+816,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,cuenca,Castilla La Mancha,2022,4
+819,empresas,8.0,7.0,0.0,1.0,3.0,0.0,5.0,guadalajara,Castilla La Mancha,2022,4
+845,empresas,18.0,15.0,1.0,2.0,5.0,1.0,12.0,toledo,Castilla La Mancha,2022,4
+908,empresas,261.0,258.0,3.0,0.0,77.0,3.0,181.0,barcelona,Cataluña,2022,4
+917,empresas,16.0,13.0,2.0,1.0,10.0,0.0,6.0,girona,Cataluña,2022,4
+925,empresas,22.0,21.0,1.0,0.0,14.0,0.0,8.0,lleida,Cataluña,2022,4
+943,empresas,7.0,7.0,0.0,0.0,5.0,1.0,1.0,tarragona,Cataluña,2022,4
+734,empresas,144.0,142.0,1.0,1.0,28.0,11.0,105.0,valencia,Valencia,2022,4
+1106,empresas,10.0,10.0,0.0,0.0,4.0,0.0,6.0,badajoz,Extremadura,2022,4
+1110,empresas,5.0,5.0,0.0,0.0,1.0,0.0,4.0,caceres,Extremadura,2022,4
+1227,empresas,9.0,9.0,0.0,0.0,6.0,0.0,3.0,lugo,Galicia,2022,4
+1232,empresas,2.0,2.0,0.0,0.0,0.0,2.0,0.0,ourense,Galicia,2022,4
+1236,empresas,19.0,18.0,1.0,0.0,4.0,7.0,8.0,pontevedra,Galicia,2022,4
+1328,empresas,458.0,449.0,8.0,1.0,38.0,79.0,341.0,madrid,Madrid,2022,4
+1430,empresas,40.0,33.0,2.0,5.0,15.0,10.0,15.0,murcia,Murcia,2022,4
+1531,empresas,5.0,5.0,0.0,0.0,0.0,0.0,5.0,navarra,Navarra,2022,4
+1601,empresas,8.0,8.0,0.0,0.0,3.0,0.0,5.0,araba alava,Pais Vasco,2022,4
+1648,empresas,37.0,37.0,0.0,0.0,4.0,17.0,16.0,bizkaia,Pais Vasco,2022,4
+1620,empresas,19.0,19.0,0.0,0.0,0.0,9.0,10.0,gipuzkoa,Pais Vasco,2022,4
+104,fisica,88.0,76.0,2.0,10.0,25.0,0.0,63.0,almeria,Andalucia,2023,1
+111,fisica,61.0,55.0,0.0,6.0,34.0,0.0,27.0,cadiz,Andalucia,2023,1
+114,fisica,40.0,33.0,0.0,7.0,7.0,0.0,33.0,cordoba,Andalucia,2023,1
+118,fisica,106.0,101.0,0.0,5.0,49.0,0.0,57.0,granada,Andalucia,2023,1
+121,fisica,23.0,22.0,0.0,1.0,4.0,0.0,19.0,huelva,Andalucia,2023,1
+123,fisica,44.0,37.0,1.0,6.0,27.0,0.0,17.0,jaen,Andalucia,2023,1
+129,fisica,93.0,83.0,0.0,10.0,20.0,1.0,72.0,malaga,Andalucia,2023,1
+141,fisica,361.0,302.0,0.0,59.0,116.0,1.0,244.0,sevilla,Andalucia,2023,1
+943,fisica,218.0,204.0,0.0,14.0,66.0,0.0,152.0,aragon,,2023,1
+222,fisica,23.0,18.0,0.0,5.0,9.0,0.0,14.0,huesca,Aragon,2023,1
+244,fisica,12.0,11.0,0.0,1.0,5.0,0.0,7.0,teruel,Aragon,2023,1
+250,fisica,183.0,175.0,0.0,8.0,52.0,0.0,131.0,zaragoza,Aragon,2023,1
+333,fisica,140.0,134.0,0.0,6.0,19.0,0.0,121.0,asturias,Asturias,2023,1
+407,fisica,237.0,220.0,0.0,17.0,53.0,0.0,184.0,balears illes,Baleares,2023,1
+639,fisica,214.0,189.0,0.0,25.0,22.0,0.0,192.0,canarias,,2023,1
+538,fisica,64.0,60.0,0.0,4.0,13.0,0.0,51.0,santa cruz de tenerife,Canarias,2023,1
+639,fisica,26.0,25.0,0.0,1.0,10.0,0.0,16.0,cantabria,Cantabria,2023,1
+705,fisica,6.0,6.0,0.0,0.0,0.0,0.0,6.0,avila,Castilla y Leon,2023,1
+709,fisica,35.0,33.0,1.0,1.0,9.0,0.0,26.0,burgos,Castilla y Leon,2023,1
+724,fisica,19.0,19.0,0.0,0.0,8.0,0.0,11.0,leon,Castilla y Leon,2023,1
+734,fisica,1.0,1.0,0.0,0.0,1.0,0.0,0.0,palencia,Castilla y Leon,2023,1
+737,fisica,37.0,36.0,0.0,1.0,8.0,0.0,29.0,salamanca,Castilla y Leon,2023,1
+740,fisica,2.0,2.0,0.0,0.0,2.0,0.0,0.0,segovia,Castilla y Leon,2023,1
+742,fisica,15.0,14.0,0.0,1.0,13.0,0.0,2.0,soria,Castilla y Leon,2023,1
+747,fisica,28.0,23.0,0.0,5.0,16.0,0.0,12.0,valladolid,Castilla y Leon,2023,1
+749,fisica,6.0,4.0,0.0,2.0,4.0,0.0,2.0,zamora,Castilla y Leon,2023,1
+802,fisica,14.0,14.0,0.0,0.0,0.0,0.0,14.0,albacete,Castilla La Mancha,2023,1
+813,fisica,9.0,6.0,0.0,3.0,2.0,0.0,7.0,ciudad real,Castilla La Mancha,2023,1
+816,fisica,7.0,7.0,0.0,0.0,1.0,0.0,6.0,cuenca,Castilla La Mancha,2023,1
+819,fisica,19.0,16.0,0.0,3.0,14.0,0.0,5.0,guadalajara,Castilla La Mancha,2023,1
+845,fisica,50.0,48.0,1.0,1.0,3.0,0.0,47.0,toledo,Castilla La Mancha,2023,1
+908,fisica,1253.0,976.0,2.0,275.0,452.0,0.0,801.0,barcelona,Cataluña,2023,1
+917,fisica,89.0,75.0,0.0,14.0,27.0,0.0,62.0,girona,Cataluña,2023,1
+925,fisica,127.0,123.0,0.0,4.0,49.0,0.0,78.0,lleida,Cataluña,2023,1
+943,fisica,129.0,104.0,0.0,25.0,50.0,0.0,79.0,tarragona,Cataluña,2023,1
+734,fisica,432.0,393.0,1.0,38.0,89.0,0.0,343.0,valencia,Valencia,2023,1
+1106,fisica,45.0,43.0,0.0,2.0,18.0,0.0,27.0,badajoz,Extremadura,2023,1
+1110,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,caceres,Extremadura,2023,1
+1227,fisica,28.0,22.0,0.0,6.0,18.0,0.0,10.0,lugo,Galicia,2023,1
+1232,fisica,11.0,11.0,0.0,0.0,1.0,0.0,10.0,ourense,Galicia,2023,1
+1236,fisica,86.0,80.0,0.0,6.0,24.0,0.0,62.0,pontevedra,Galicia,2023,1
+1328,fisica,692.0,558.0,3.0,131.0,181.0,0.0,511.0,madrid,Madrid,2023,1
+1430,fisica,203.0,192.0,0.0,11.0,48.0,1.0,154.0,murcia,Murcia,2023,1
+1531,fisica,16.0,15.0,0.0,1.0,2.0,0.0,14.0,navarra,Navarra,2023,1
+1601,fisica,11.0,11.0,0.0,0.0,0.0,0.0,11.0,araba alava,Pais Vasco,2023,1
+1648,fisica,22.0,21.0,1.0,0.0,6.0,0.0,16.0,bizkaia,Pais Vasco,2023,1
+1620,fisica,70.0,63.0,0.0,7.0,20.0,0.0,50.0,gipuzkoa,Pais Vasco,2023,1
+1851,fisica,15.0,9.0,0.0,6.0,0.0,0.0,15.0,ceuta,Ceuta,2023,1
+1952,fisica,4.0,2.0,0.0,2.0,2.0,0.0,2.0,melilla,Melilla,2023,1
+104,empresas,9.0,9.0,0.0,0.0,4.0,0.0,5.0,almeria,Andalucia,2023,1
+111,empresas,7.0,7.0,0.0,0.0,4.0,0.0,3.0,cadiz,Andalucia,2023,1
+114,empresas,11.0,11.0,0.0,0.0,2.0,0.0,9.0,cordoba,Andalucia,2023,1
+118,empresas,10.0,8.0,2.0,0.0,5.0,0.0,5.0,granada,Andalucia,2023,1
+121,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,huelva,Andalucia,2023,1
+123,empresas,5.0,5.0,0.0,0.0,1.0,0.0,4.0,jaen,Andalucia,2023,1
+129,empresas,17.0,16.0,0.0,1.0,8.0,1.0,8.0,malaga,Andalucia,2023,1
+141,empresas,46.0,41.0,4.0,1.0,31.0,1.0,14.0,sevilla,Andalucia,2023,1
+943,empresas,45.0,42.0,2.0,1.0,22.0,2.0,21.0,aragon,,2023,1
+222,empresas,4.0,3.0,0.0,1.0,2.0,0.0,2.0,huesca,Aragon,2023,1
+244,empresas,5.0,5.0,0.0,0.0,2.0,0.0,3.0,teruel,Aragon,2023,1
+250,empresas,36.0,34.0,2.0,0.0,18.0,2.0,16.0,zaragoza,Aragon,2023,1
+333,empresas,18.0,18.0,0.0,0.0,8.0,0.0,10.0,asturias,Asturias,2023,1
+407,empresas,26.0,24.0,1.0,1.0,14.0,0.0,12.0,balears illes,Baleares,2023,1
+639,empresas,25.0,23.0,2.0,0.0,12.0,0.0,13.0,canarias,,2023,1
+538,empresas,10.0,10.0,0.0,0.0,4.0,0.0,6.0,santa cruz de tenerife,Canarias,2023,1
+639,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,cantabria,Cantabria,2023,1
+705,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,avila,Castilla y Leon,2023,1
+709,empresas,9.0,7.0,0.0,2.0,7.0,0.0,2.0,burgos,Castilla y Leon,2023,1
+724,empresas,2.0,1.0,1.0,0.0,2.0,0.0,0.0,leon,Castilla y Leon,2023,1
+734,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,palencia,Castilla y Leon,2023,1
+737,empresas,7.0,7.0,0.0,0.0,3.0,1.0,3.0,salamanca,Castilla y Leon,2023,1
+740,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,segovia,Castilla y Leon,2023,1
+742,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,soria,Castilla y Leon,2023,1
+747,empresas,5.0,5.0,0.0,0.0,3.0,0.0,2.0,valladolid,Castilla y Leon,2023,1
+749,empresas,3.0,3.0,0.0,0.0,2.0,0.0,1.0,zamora,Castilla y Leon,2023,1
+802,empresas,7.0,6.0,0.0,1.0,1.0,0.0,6.0,albacete,Castilla La Mancha,2023,1
+813,empresas,10.0,10.0,0.0,0.0,4.0,0.0,6.0,ciudad real,Castilla La Mancha,2023,1
+816,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,cuenca,Castilla La Mancha,2023,1
+819,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,guadalajara,Castilla La Mancha,2023,1
+845,empresas,3.0,2.0,1.0,0.0,1.0,0.0,2.0,toledo,Castilla La Mancha,2023,1
+908,empresas,231.0,226.0,3.0,2.0,88.0,0.0,143.0,barcelona,Cataluña,2023,1
+917,empresas,8.0,8.0,0.0,0.0,5.0,0.0,3.0,girona,Cataluña,2023,1
+925,empresas,10.0,10.0,0.0,0.0,5.0,0.0,5.0,lleida,Cataluña,2023,1
+943,empresas,13.0,12.0,0.0,1.0,10.0,0.0,3.0,tarragona,Cataluña,2023,1
+734,empresas,105.0,103.0,2.0,0.0,34.0,0.0,71.0,valencia,Valencia,2023,1
+1106,empresas,4.0,3.0,1.0,0.0,3.0,0.0,1.0,badajoz,Extremadura,2023,1
+1110,empresas,2.0,1.0,1.0,0.0,2.0,0.0,0.0,caceres,Extremadura,2023,1
+1227,empresas,4.0,4.0,0.0,0.0,4.0,0.0,0.0,lugo,Galicia,2023,1
+1232,empresas,1.0,0.0,1.0,0.0,1.0,0.0,0.0,ourense,Galicia,2023,1
+1236,empresas,21.0,21.0,0.0,0.0,13.0,1.0,7.0,pontevedra,Galicia,2023,1
+1328,empresas,192.0,180.0,10.0,2.0,66.0,2.0,124.0,madrid,Madrid,2023,1
+1430,empresas,26.0,24.0,1.0,1.0,15.0,0.0,11.0,murcia,Murcia,2023,1
+1531,empresas,6.0,6.0,0.0,0.0,5.0,0.0,1.0,navarra,Navarra,2023,1
+1601,empresas,6.0,5.0,1.0,0.0,2.0,0.0,4.0,araba alava,Pais Vasco,2023,1
+1648,empresas,25.0,25.0,0.0,0.0,13.0,1.0,11.0,bizkaia,Pais Vasco,2023,1
+1620,empresas,16.0,16.0,0.0,0.0,4.0,2.0,10.0,gipuzkoa,Pais Vasco,2023,1
+104,fisica,185.0,173.0,2.0,10.0,46.0,0.0,139.0,almeria,Andalucia,2023,2
+111,fisica,26.0,19.0,0.0,7.0,9.0,0.0,17.0,cadiz,Andalucia,2023,2
+114,fisica,35.0,27.0,0.0,8.0,6.0,0.0,29.0,cordoba,Andalucia,2023,2
+118,fisica,90.0,84.0,0.0,6.0,62.0,0.0,28.0,granada,Andalucia,2023,2
+121,fisica,50.0,49.0,0.0,1.0,29.0,0.0,21.0,huelva,Andalucia,2023,2
+123,fisica,43.0,42.0,0.0,1.0,21.0,0.0,22.0,jaen,Andalucia,2023,2
+129,fisica,170.0,164.0,0.0,6.0,57.0,0.0,113.0,malaga,Andalucia,2023,2
+141,fisica,271.0,261.0,0.0,10.0,74.0,0.0,197.0,sevilla,Andalucia,2023,2
+943,fisica,150.0,145.0,0.0,5.0,36.0,0.0,114.0,aragon,,2023,2
+222,fisica,47.0,44.0,0.0,3.0,10.0,0.0,37.0,huesca,Aragon,2023,2
+244,fisica,9.0,9.0,0.0,0.0,4.0,0.0,5.0,teruel,Aragon,2023,2
+250,fisica,94.0,92.0,0.0,2.0,22.0,0.0,72.0,zaragoza,Aragon,2023,2
+333,fisica,112.0,110.0,0.0,2.0,30.0,0.0,82.0,asturias,Asturias,2023,2
+407,fisica,197.0,190.0,2.0,5.0,44.0,0.0,153.0,balears illes,Baleares,2023,2
+639,fisica,584.0,511.0,0.0,73.0,42.0,1.0,541.0,canarias,,2023,2
+538,fisica,214.0,153.0,0.0,61.0,32.0,0.0,182.0,santa cruz de tenerife,Canarias,2023,2
+639,fisica,40.0,40.0,0.0,0.0,4.0,0.0,36.0,cantabria,Cantabria,2023,2
+705,fisica,30.0,30.0,0.0,0.0,2.0,0.0,28.0,avila,Castilla y Leon,2023,2
+709,fisica,26.0,26.0,0.0,0.0,5.0,0.0,21.0,burgos,Castilla y Leon,2023,2
+724,fisica,94.0,92.0,0.0,2.0,26.0,0.0,68.0,leon,Castilla y Leon,2023,2
+734,fisica,18.0,18.0,0.0,0.0,5.0,0.0,13.0,palencia,Castilla y Leon,2023,2
+737,fisica,35.0,35.0,0.0,0.0,12.0,0.0,23.0,salamanca,Castilla y Leon,2023,2
+740,fisica,23.0,23.0,0.0,0.0,3.0,0.0,20.0,segovia,Castilla y Leon,2023,2
+742,fisica,8.0,6.0,0.0,2.0,4.0,0.0,4.0,soria,Castilla y Leon,2023,2
+747,fisica,67.0,65.0,0.0,2.0,29.0,0.0,38.0,valladolid,Castilla y Leon,2023,2
+749,fisica,1.0,1.0,0.0,0.0,1.0,0.0,0.0,zamora,Castilla y Leon,2023,2
+802,fisica,19.0,18.0,0.0,1.0,1.0,0.0,18.0,albacete,Castilla La Mancha,2023,2
+813,fisica,50.0,44.0,0.0,6.0,2.0,0.0,48.0,ciudad real,Castilla La Mancha,2023,2
+816,fisica,17.0,16.0,0.0,1.0,11.0,0.0,6.0,cuenca,Castilla La Mancha,2023,2
+819,fisica,59.0,56.0,0.0,3.0,34.0,0.0,25.0,guadalajara,Castilla La Mancha,2023,2
+845,fisica,43.0,40.0,1.0,2.0,9.0,0.0,34.0,toledo,Castilla La Mancha,2023,2
+908,fisica,1987.0,1803.0,0.0,184.0,626.0,1.0,1360.0,barcelona,Cataluña,2023,2
+917,fisica,351.0,340.0,0.0,11.0,57.0,0.0,294.0,girona,Cataluña,2023,2
+925,fisica,133.0,133.0,0.0,0.0,30.0,0.0,103.0,lleida,Cataluña,2023,2
+943,fisica,187.0,153.0,0.0,34.0,53.0,0.0,134.0,tarragona,Cataluña,2023,2
+734,fisica,787.0,760.0,0.0,27.0,88.0,0.0,699.0,valencia,Valencia,2023,2
+1106,fisica,50.0,49.0,0.0,1.0,18.0,0.0,32.0,badajoz,Extremadura,2023,2
+1110,fisica,53.0,52.0,0.0,1.0,1.0,0.0,52.0,caceres,Extremadura,2023,2
+1227,fisica,59.0,58.0,0.0,1.0,24.0,0.0,35.0,lugo,Galicia,2023,2
+1232,fisica,22.0,22.0,0.0,0.0,0.0,0.0,22.0,ourense,Galicia,2023,2
+1236,fisica,133.0,131.0,0.0,2.0,50.0,0.0,83.0,pontevedra,Galicia,2023,2
+1328,fisica,1075.0,931.0,6.0,138.0,240.0,0.0,835.0,madrid,Madrid,2023,2
+1430,fisica,255.0,243.0,0.0,12.0,46.0,3.0,206.0,murcia,Murcia,2023,2
+1531,fisica,105.0,98.0,0.0,7.0,20.0,0.0,85.0,navarra,Navarra,2023,2
+1601,fisica,31.0,31.0,0.0,0.0,10.0,0.0,21.0,araba alava,Pais Vasco,2023,2
+1648,fisica,99.0,98.0,0.0,1.0,18.0,0.0,81.0,bizkaia,Pais Vasco,2023,2
+1620,fisica,57.0,56.0,0.0,1.0,28.0,0.0,29.0,gipuzkoa,Pais Vasco,2023,2
+1851,fisica,13.0,7.0,0.0,6.0,2.0,0.0,11.0,ceuta,Ceuta,2023,2
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2023,2
+104,empresas,19.0,18.0,1.0,0.0,9.0,0.0,10.0,almeria,Andalucia,2023,2
+111,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,cadiz,Andalucia,2023,2
+114,empresas,8.0,7.0,0.0,1.0,2.0,0.0,6.0,cordoba,Andalucia,2023,2
+118,empresas,15.0,14.0,1.0,0.0,11.0,3.0,1.0,granada,Andalucia,2023,2
+121,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,huelva,Andalucia,2023,2
+123,empresas,7.0,7.0,0.0,0.0,2.0,0.0,5.0,jaen,Andalucia,2023,2
+129,empresas,27.0,25.0,2.0,0.0,17.0,2.0,8.0,malaga,Andalucia,2023,2
+141,empresas,38.0,36.0,1.0,1.0,23.0,2.0,13.0,sevilla,Andalucia,2023,2
+943,empresas,40.0,39.0,1.0,0.0,13.0,3.0,24.0,aragon,,2023,2
+222,empresas,7.0,7.0,0.0,0.0,3.0,3.0,1.0,huesca,Aragon,2023,2
+244,empresas,2.0,1.0,1.0,0.0,0.0,0.0,2.0,teruel,Aragon,2023,2
+250,empresas,31.0,31.0,0.0,0.0,10.0,0.0,21.0,zaragoza,Aragon,2023,2
+333,empresas,17.0,15.0,2.0,0.0,10.0,0.0,7.0,asturias,Asturias,2023,2
+407,empresas,31.0,28.0,3.0,0.0,18.0,4.0,9.0,balears illes,Baleares,2023,2
+639,empresas,33.0,32.0,1.0,0.0,8.0,9.0,16.0,canarias,,2023,2
+538,empresas,12.0,11.0,1.0,0.0,3.0,0.0,9.0,santa cruz de tenerife,Canarias,2023,2
+639,empresas,7.0,7.0,0.0,0.0,3.0,2.0,2.0,cantabria,Cantabria,2023,2
+705,empresas,3.0,3.0,0.0,0.0,2.0,0.0,1.0,avila,Castilla y Leon,2023,2
+709,empresas,5.0,5.0,0.0,0.0,2.0,1.0,2.0,burgos,Castilla y Leon,2023,2
+724,empresas,5.0,5.0,0.0,0.0,4.0,0.0,1.0,leon,Castilla y Leon,2023,2
+734,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,palencia,Castilla y Leon,2023,2
+737,empresas,5.0,5.0,0.0,0.0,0.0,1.0,4.0,salamanca,Castilla y Leon,2023,2
+740,empresas,6.0,6.0,0.0,0.0,6.0,0.0,0.0,segovia,Castilla y Leon,2023,2
+742,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,soria,Castilla y Leon,2023,2
+747,empresas,10.0,10.0,0.0,0.0,2.0,1.0,7.0,valladolid,Castilla y Leon,2023,2
+749,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2023,2
+802,empresas,5.0,5.0,0.0,0.0,3.0,0.0,2.0,albacete,Castilla La Mancha,2023,2
+813,empresas,9.0,9.0,0.0,0.0,2.0,0.0,7.0,ciudad real,Castilla La Mancha,2023,2
+816,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,cuenca,Castilla La Mancha,2023,2
+819,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,guadalajara,Castilla La Mancha,2023,2
+845,empresas,4.0,4.0,0.0,0.0,4.0,0.0,0.0,toledo,Castilla La Mancha,2023,2
+908,empresas,313.0,305.0,4.0,4.0,93.0,10.0,210.0,barcelona,Cataluña,2023,2
+917,empresas,20.0,20.0,0.0,0.0,5.0,2.0,13.0,girona,Cataluña,2023,2
+925,empresas,7.0,7.0,0.0,0.0,3.0,0.0,4.0,lleida,Cataluña,2023,2
+943,empresas,10.0,9.0,0.0,1.0,6.0,1.0,3.0,tarragona,Cataluña,2023,2
+734,empresas,136.0,134.0,1.0,1.0,41.0,3.0,92.0,valencia,Valencia,2023,2
+1106,empresas,12.0,12.0,0.0,0.0,9.0,0.0,3.0,badajoz,Extremadura,2023,2
+1110,empresas,6.0,6.0,0.0,0.0,3.0,0.0,3.0,caceres,Extremadura,2023,2
+1227,empresas,14.0,14.0,0.0,0.0,5.0,0.0,9.0,lugo,Galicia,2023,2
+1232,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,ourense,Galicia,2023,2
+1236,empresas,21.0,21.0,0.0,0.0,14.0,0.0,7.0,pontevedra,Galicia,2023,2
+1328,empresas,206.0,198.0,7.0,1.0,67.0,33.0,106.0,madrid,Madrid,2023,2
+1430,empresas,36.0,33.0,3.0,0.0,15.0,2.0,19.0,murcia,Murcia,2023,2
+1531,empresas,15.0,15.0,0.0,0.0,12.0,0.0,3.0,navarra,Navarra,2023,2
+1601,empresas,14.0,14.0,0.0,0.0,6.0,0.0,8.0,araba alava,Pais Vasco,2023,2
+1648,empresas,48.0,47.0,1.0,0.0,17.0,8.0,23.0,bizkaia,Pais Vasco,2023,2
+1620,empresas,18.0,18.0,0.0,0.0,5.0,2.0,11.0,gipuzkoa,Pais Vasco,2023,2
+104,fisica,68.0,63.0,2.0,3.0,5.0,0.0,63.0,almeria,Andalucia,2023,3
+111,fisica,90.0,88.0,0.0,2.0,51.0,0.0,39.0,cadiz,Andalucia,2023,3
+114,fisica,27.0,25.0,0.0,2.0,7.0,0.0,20.0,cordoba,Andalucia,2023,3
+118,fisica,76.0,74.0,0.0,2.0,27.0,0.0,49.0,granada,Andalucia,2023,3
+121,fisica,26.0,26.0,0.0,0.0,4.0,0.0,22.0,huelva,Andalucia,2023,3
+123,fisica,27.0,24.0,0.0,3.0,18.0,0.0,9.0,jaen,Andalucia,2023,3
+129,fisica,92.0,92.0,0.0,0.0,37.0,1.0,54.0,malaga,Andalucia,2023,3
+141,fisica,186.0,183.0,0.0,3.0,35.0,1.0,150.0,sevilla,Andalucia,2023,3
+943,fisica,154.0,152.0,0.0,2.0,19.0,0.0,135.0,aragon,,2023,3
+222,fisica,26.0,26.0,0.0,0.0,4.0,0.0,22.0,huesca,Aragon,2023,3
+244,fisica,4.0,4.0,0.0,0.0,1.0,0.0,3.0,teruel,Aragon,2023,3
+250,fisica,124.0,122.0,0.0,2.0,14.0,0.0,110.0,zaragoza,Aragon,2023,3
+333,fisica,119.0,118.0,0.0,1.0,40.0,0.0,79.0,asturias,Asturias,2023,3
+407,fisica,254.0,253.0,1.0,0.0,20.0,0.0,234.0,balears illes,Baleares,2023,3
+639,fisica,367.0,341.0,0.0,26.0,16.0,0.0,351.0,canarias,,2023,3
+538,fisica,203.0,177.0,0.0,26.0,15.0,0.0,188.0,santa cruz de tenerife,Canarias,2023,3
+639,fisica,35.0,35.0,0.0,0.0,9.0,0.0,26.0,cantabria,Cantabria,2023,3
+705,fisica,8.0,8.0,0.0,0.0,0.0,0.0,8.0,avila,Castilla y Leon,2023,3
+709,fisica,30.0,30.0,0.0,0.0,7.0,0.0,23.0,burgos,Castilla y Leon,2023,3
+724,fisica,44.0,44.0,0.0,0.0,12.0,0.0,32.0,leon,Castilla y Leon,2023,3
+734,fisica,4.0,4.0,0.0,0.0,0.0,0.0,4.0,palencia,Castilla y Leon,2023,3
+737,fisica,23.0,23.0,0.0,0.0,3.0,0.0,20.0,salamanca,Castilla y Leon,2023,3
+740,fisica,13.0,13.0,0.0,0.0,3.0,0.0,10.0,segovia,Castilla y Leon,2023,3
+742,fisica,5.0,5.0,0.0,0.0,1.0,0.0,4.0,soria,Castilla y Leon,2023,3
+747,fisica,78.0,78.0,0.0,0.0,18.0,0.0,60.0,valladolid,Castilla y Leon,2023,3
+749,fisica,9.0,8.0,1.0,0.0,0.0,0.0,9.0,zamora,Castilla y Leon,2023,3
+802,fisica,89.0,89.0,0.0,0.0,6.0,0.0,83.0,albacete,Castilla La Mancha,2023,3
+813,fisica,53.0,50.0,0.0,3.0,1.0,0.0,52.0,ciudad real,Castilla La Mancha,2023,3
+816,fisica,34.0,34.0,0.0,0.0,3.0,0.0,31.0,cuenca,Castilla La Mancha,2023,3
+819,fisica,43.0,39.0,0.0,4.0,12.0,0.0,31.0,guadalajara,Castilla La Mancha,2023,3
+845,fisica,35.0,33.0,0.0,2.0,16.0,0.0,19.0,toledo,Castilla La Mancha,2023,3
+908,fisica,1666.0,1620.0,0.0,46.0,192.0,2.0,1472.0,barcelona,Cataluña,2023,3
+917,fisica,184.0,182.0,0.0,2.0,14.0,0.0,170.0,girona,Cataluña,2023,3
+925,fisica,91.0,91.0,0.0,0.0,12.0,0.0,79.0,lleida,Cataluña,2023,3
+943,fisica,209.0,176.0,0.0,33.0,48.0,0.0,161.0,tarragona,Cataluña,2023,3
+734,fisica,439.0,436.0,0.0,3.0,30.0,0.0,409.0,valencia,Valencia,2023,3
+1106,fisica,66.0,65.0,0.0,1.0,18.0,0.0,48.0,badajoz,Extremadura,2023,3
+1110,fisica,23.0,23.0,0.0,0.0,3.0,0.0,20.0,caceres,Extremadura,2023,3
+1227,fisica,25.0,25.0,0.0,0.0,8.0,0.0,17.0,lugo,Galicia,2023,3
+1232,fisica,13.0,13.0,0.0,0.0,3.0,0.0,10.0,ourense,Galicia,2023,3
+1236,fisica,71.0,70.0,0.0,1.0,6.0,0.0,65.0,pontevedra,Galicia,2023,3
+1328,fisica,828.0,686.0,2.0,140.0,107.0,2.0,719.0,madrid,Madrid,2023,3
+1430,fisica,350.0,347.0,1.0,2.0,32.0,0.0,318.0,murcia,Murcia,2023,3
+1531,fisica,72.0,65.0,0.0,7.0,12.0,0.0,60.0,navarra,Navarra,2023,3
+1601,fisica,27.0,27.0,0.0,0.0,2.0,0.0,25.0,araba alava,Pais Vasco,2023,3
+1648,fisica,83.0,78.0,0.0,5.0,16.0,0.0,67.0,bizkaia,Pais Vasco,2023,3
+1620,fisica,30.0,29.0,0.0,1.0,7.0,0.0,23.0,gipuzkoa,Pais Vasco,2023,3
+1851,fisica,16.0,12.0,1.0,3.0,2.0,0.0,14.0,ceuta,Ceuta,2023,3
+1952,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2023,3
+104,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,almeria,Andalucia,2023,3
+111,empresas,14.0,14.0,0.0,0.0,5.0,2.0,7.0,cadiz,Andalucia,2023,3
+114,empresas,6.0,5.0,1.0,0.0,3.0,0.0,3.0,cordoba,Andalucia,2023,3
+118,empresas,13.0,13.0,0.0,0.0,6.0,0.0,7.0,granada,Andalucia,2023,3
+121,empresas,3.0,3.0,0.0,0.0,0.0,0.0,3.0,huelva,Andalucia,2023,3
+123,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,jaen,Andalucia,2023,3
+129,empresas,18.0,18.0,0.0,0.0,5.0,4.0,9.0,malaga,Andalucia,2023,3
+141,empresas,50.0,47.0,3.0,0.0,26.0,3.0,21.0,sevilla,Andalucia,2023,3
+943,empresas,35.0,33.0,1.0,1.0,15.0,1.0,19.0,aragon,,2023,3
+222,empresas,4.0,3.0,0.0,1.0,4.0,0.0,0.0,huesca,Aragon,2023,3
+244,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,teruel,Aragon,2023,3
+250,empresas,29.0,28.0,1.0,0.0,11.0,1.0,17.0,zaragoza,Aragon,2023,3
+333,empresas,23.0,23.0,0.0,0.0,10.0,4.0,9.0,asturias,Asturias,2023,3
+407,empresas,19.0,18.0,1.0,0.0,11.0,1.0,7.0,balears illes,Baleares,2023,3
+639,empresas,30.0,30.0,0.0,0.0,12.0,5.0,13.0,canarias,,2023,3
+538,empresas,15.0,15.0,0.0,0.0,4.0,1.0,10.0,santa cruz de tenerife,Canarias,2023,3
+639,empresas,10.0,10.0,0.0,0.0,3.0,6.0,1.0,cantabria,Cantabria,2023,3
+705,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,avila,Castilla y Leon,2023,3
+709,empresas,4.0,4.0,0.0,0.0,0.0,3.0,1.0,burgos,Castilla y Leon,2023,3
+724,empresas,7.0,7.0,0.0,0.0,3.0,2.0,2.0,leon,Castilla y Leon,2023,3
+734,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,palencia,Castilla y Leon,2023,3
+737,empresas,8.0,8.0,0.0,0.0,0.0,1.0,7.0,salamanca,Castilla y Leon,2023,3
+740,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,segovia,Castilla y Leon,2023,3
+742,empresas,3.0,3.0,0.0,0.0,2.0,1.0,0.0,soria,Castilla y Leon,2023,3
+747,empresas,14.0,14.0,0.0,0.0,4.0,2.0,8.0,valladolid,Castilla y Leon,2023,3
+749,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,zamora,Castilla y Leon,2023,3
+802,empresas,19.0,18.0,1.0,0.0,3.0,0.0,16.0,albacete,Castilla La Mancha,2023,3
+813,empresas,9.0,9.0,0.0,0.0,0.0,0.0,9.0,ciudad real,Castilla La Mancha,2023,3
+816,empresas,6.0,6.0,0.0,0.0,2.0,0.0,4.0,cuenca,Castilla La Mancha,2023,3
+819,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,guadalajara,Castilla La Mancha,2023,3
+845,empresas,4.0,3.0,1.0,0.0,2.0,0.0,2.0,toledo,Castilla La Mancha,2023,3
+908,empresas,271.0,266.0,4.0,1.0,65.0,28.0,178.0,barcelona,Cataluña,2023,3
+917,empresas,26.0,26.0,0.0,0.0,2.0,3.0,21.0,girona,Cataluña,2023,3
+925,empresas,11.0,11.0,0.0,0.0,3.0,2.0,6.0,lleida,Cataluña,2023,3
+943,empresas,13.0,13.0,0.0,0.0,3.0,1.0,9.0,tarragona,Cataluña,2023,3
+734,empresas,74.0,73.0,1.0,0.0,17.0,5.0,52.0,valencia,Valencia,2023,3
+1106,empresas,15.0,15.0,0.0,0.0,8.0,2.0,5.0,badajoz,Extremadura,2023,3
+1110,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,caceres,Extremadura,2023,3
+1227,empresas,10.0,9.0,1.0,0.0,7.0,0.0,3.0,lugo,Galicia,2023,3
+1232,empresas,2.0,2.0,0.0,0.0,1.0,1.0,0.0,ourense,Galicia,2023,3
+1236,empresas,19.0,17.0,2.0,0.0,7.0,0.0,12.0,pontevedra,Galicia,2023,3
+1328,empresas,176.0,167.0,7.0,2.0,59.0,49.0,68.0,madrid,Madrid,2023,3
+1430,empresas,29.0,28.0,1.0,0.0,10.0,2.0,17.0,murcia,Murcia,2023,3
+1531,empresas,10.0,10.0,0.0,0.0,7.0,0.0,3.0,navarra,Navarra,2023,3
+1601,empresas,8.0,8.0,0.0,0.0,2.0,1.0,5.0,araba alava,Pais Vasco,2023,3
+1648,empresas,30.0,28.0,2.0,0.0,10.0,13.0,7.0,bizkaia,Pais Vasco,2023,3
+1620,empresas,19.0,19.0,0.0,0.0,8.0,0.0,11.0,gipuzkoa,Pais Vasco,2023,3
+104,fisica,197.0,196.0,0.0,1.0,38.0,2.0,157.0,almeria,Andalucia,2023,4
+111,fisica,150.0,148.0,0.0,2.0,64.0,1.0,85.0,cadiz,Andalucia,2023,4
+114,fisica,78.0,77.0,0.0,1.0,32.0,0.0,46.0,cordoba,Andalucia,2023,4
+118,fisica,83.0,81.0,1.0,1.0,36.0,3.0,44.0,granada,Andalucia,2023,4
+121,fisica,49.0,47.0,0.0,2.0,19.0,0.0,30.0,huelva,Andalucia,2023,4
+123,fisica,26.0,25.0,1.0,0.0,16.0,0.0,10.0,jaen,Andalucia,2023,4
+129,fisica,255.0,254.0,0.0,1.0,77.0,1.0,177.0,malaga,Andalucia,2023,4
+141,fisica,368.0,363.0,0.0,5.0,70.0,2.0,296.0,sevilla,Andalucia,2023,4
+943,fisica,141.0,139.0,2.0,0.0,23.0,0.0,118.0,aragon,,2023,4
+222,fisica,40.0,40.0,0.0,0.0,10.0,0.0,30.0,huesca,Aragon,2023,4
+244,fisica,11.0,11.0,0.0,0.0,1.0,0.0,10.0,teruel,Aragon,2023,4
+250,fisica,90.0,88.0,2.0,0.0,12.0,0.0,78.0,zaragoza,Aragon,2023,4
+333,fisica,180.0,178.0,0.0,2.0,64.0,0.0,116.0,asturias,Asturias,2023,4
+407,fisica,211.0,208.0,1.0,2.0,22.0,0.0,189.0,balears illes,Baleares,2023,4
+639,fisica,650.0,624.0,0.0,26.0,66.0,0.0,584.0,canarias,,2023,4
+538,fisica,249.0,223.0,0.0,26.0,43.0,0.0,206.0,santa cruz de tenerife,Canarias,2023,4
+639,fisica,107.0,107.0,0.0,0.0,20.0,1.0,86.0,cantabria,Cantabria,2023,4
+705,fisica,2.0,2.0,0.0,0.0,2.0,0.0,0.0,avila,Castilla y Leon,2023,4
+709,fisica,69.0,69.0,0.0,0.0,15.0,0.0,54.0,burgos,Castilla y Leon,2023,4
+724,fisica,62.0,62.0,0.0,0.0,9.0,0.0,53.0,leon,Castilla y Leon,2023,4
+734,fisica,5.0,5.0,0.0,0.0,0.0,0.0,5.0,palencia,Castilla y Leon,2023,4
+737,fisica,66.0,66.0,0.0,0.0,6.0,1.0,59.0,salamanca,Castilla y Leon,2023,4
+740,fisica,4.0,4.0,0.0,0.0,0.0,0.0,4.0,segovia,Castilla y Leon,2023,4
+742,fisica,6.0,6.0,0.0,0.0,0.0,1.0,5.0,soria,Castilla y Leon,2023,4
+747,fisica,77.0,77.0,0.0,0.0,17.0,0.0,60.0,valladolid,Castilla y Leon,2023,4
+749,fisica,6.0,6.0,0.0,0.0,0.0,0.0,6.0,zamora,Castilla y Leon,2023,4
+802,fisica,76.0,76.0,0.0,0.0,1.0,0.0,75.0,albacete,Castilla La Mancha,2023,4
+813,fisica,47.0,47.0,0.0,0.0,1.0,0.0,46.0,ciudad real,Castilla La Mancha,2023,4
+816,fisica,19.0,18.0,1.0,0.0,8.0,0.0,11.0,cuenca,Castilla La Mancha,2023,4
+819,fisica,73.0,70.0,0.0,3.0,15.0,0.0,58.0,guadalajara,Castilla La Mancha,2023,4
+845,fisica,101.0,100.0,0.0,1.0,14.0,1.0,86.0,toledo,Castilla La Mancha,2023,4
+908,fisica,1612.0,1575.0,0.0,37.0,235.0,1.0,1376.0,barcelona,Cataluña,2023,4
+917,fisica,221.0,219.0,0.0,2.0,14.0,0.0,207.0,girona,Cataluña,2023,4
+925,fisica,144.0,144.0,0.0,0.0,7.0,0.0,137.0,lleida,Cataluña,2023,4
+943,fisica,338.0,323.0,0.0,15.0,30.0,0.0,308.0,tarragona,Cataluña,2023,4
+734,fisica,692.0,681.0,0.0,11.0,71.0,1.0,620.0,valencia,Valencia,2023,4
+1106,fisica,122.0,122.0,0.0,0.0,51.0,0.0,71.0,badajoz,Extremadura,2023,4
+1110,fisica,68.0,68.0,0.0,0.0,1.0,0.0,67.0,caceres,Extremadura,2023,4
+1227,fisica,27.0,27.0,0.0,0.0,3.0,0.0,24.0,lugo,Galicia,2023,4
+1232,fisica,25.0,25.0,0.0,0.0,1.0,0.0,24.0,ourense,Galicia,2023,4
+1236,fisica,113.0,113.0,0.0,0.0,29.0,0.0,84.0,pontevedra,Galicia,2023,4
+1328,fisica,1130.0,1013.0,1.0,116.0,134.0,5.0,991.0,madrid,Madrid,2023,4
+1430,fisica,469.0,465.0,0.0,4.0,50.0,0.0,419.0,murcia,Murcia,2023,4
+1531,fisica,85.0,84.0,1.0,0.0,11.0,0.0,74.0,navarra,Navarra,2023,4
+1601,fisica,34.0,34.0,0.0,0.0,2.0,0.0,32.0,araba alava,Pais Vasco,2023,4
+1648,fisica,100.0,100.0,0.0,0.0,13.0,1.0,86.0,bizkaia,Pais Vasco,2023,4
+1620,fisica,34.0,34.0,0.0,0.0,2.0,0.0,32.0,gipuzkoa,Pais Vasco,2023,4
+1851,fisica,17.0,14.0,0.0,3.0,0.0,0.0,17.0,ceuta,Ceuta,2023,4
+1952,fisica,3.0,3.0,0.0,0.0,1.0,0.0,2.0,melilla,Melilla,2023,4
+104,empresas,15.0,14.0,1.0,0.0,4.0,0.0,11.0,almeria,Andalucia,2023,4
+111,empresas,22.0,21.0,1.0,0.0,11.0,2.0,9.0,cadiz,Andalucia,2023,4
+114,empresas,10.0,10.0,0.0,0.0,3.0,0.0,7.0,cordoba,Andalucia,2023,4
+118,empresas,10.0,10.0,0.0,0.0,3.0,6.0,1.0,granada,Andalucia,2023,4
+121,empresas,9.0,8.0,1.0,0.0,7.0,0.0,2.0,huelva,Andalucia,2023,4
+123,empresas,7.0,7.0,0.0,0.0,1.0,1.0,5.0,jaen,Andalucia,2023,4
+129,empresas,25.0,24.0,1.0,0.0,13.0,0.0,12.0,malaga,Andalucia,2023,4
+141,empresas,52.0,52.0,0.0,0.0,18.0,5.0,29.0,sevilla,Andalucia,2023,4
+943,empresas,26.0,26.0,0.0,0.0,10.0,4.0,12.0,aragon,,2023,4
+222,empresas,8.0,8.0,0.0,0.0,1.0,3.0,4.0,huesca,Aragon,2023,4
+244,empresas,2.0,2.0,0.0,0.0,1.0,1.0,0.0,teruel,Aragon,2023,4
+250,empresas,16.0,16.0,0.0,0.0,8.0,0.0,8.0,zaragoza,Aragon,2023,4
+333,empresas,22.0,20.0,2.0,0.0,9.0,2.0,11.0,asturias,Asturias,2023,4
+407,empresas,27.0,26.0,1.0,0.0,14.0,0.0,13.0,balears illes,Baleares,2023,4
+639,empresas,34.0,34.0,0.0,0.0,13.0,4.0,17.0,canarias,,2023,4
+538,empresas,12.0,12.0,0.0,0.0,7.0,0.0,5.0,santa cruz de tenerife,Canarias,2023,4
+639,empresas,11.0,11.0,0.0,0.0,4.0,4.0,3.0,cantabria,Cantabria,2023,4
+705,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,avila,Castilla y Leon,2023,4
+709,empresas,12.0,10.0,2.0,0.0,4.0,2.0,6.0,burgos,Castilla y Leon,2023,4
+724,empresas,7.0,7.0,0.0,0.0,1.0,3.0,3.0,leon,Castilla y Leon,2023,4
+734,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,palencia,Castilla y Leon,2023,4
+737,empresas,9.0,9.0,0.0,0.0,2.0,2.0,5.0,salamanca,Castilla y Leon,2023,4
+740,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,segovia,Castilla y Leon,2023,4
+742,empresas,1.0,0.0,1.0,0.0,0.0,0.0,1.0,soria,Castilla y Leon,2023,4
+747,empresas,13.0,13.0,0.0,0.0,5.0,1.0,7.0,valladolid,Castilla y Leon,2023,4
+749,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2023,4
+802,empresas,20.0,20.0,0.0,0.0,3.0,1.0,16.0,albacete,Castilla La Mancha,2023,4
+813,empresas,12.0,12.0,0.0,0.0,5.0,0.0,7.0,ciudad real,Castilla La Mancha,2023,4
+816,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,cuenca,Castilla La Mancha,2023,4
+819,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,guadalajara,Castilla La Mancha,2023,4
+845,empresas,16.0,16.0,0.0,0.0,13.0,1.0,2.0,toledo,Castilla La Mancha,2023,4
+908,empresas,320.0,312.0,8.0,0.0,64.0,41.0,215.0,barcelona,Cataluña,2023,4
+917,empresas,19.0,16.0,3.0,0.0,7.0,0.0,12.0,girona,Cataluña,2023,4
+925,empresas,16.0,16.0,0.0,0.0,6.0,0.0,10.0,lleida,Cataluña,2023,4
+943,empresas,29.0,28.0,1.0,0.0,8.0,3.0,18.0,tarragona,Cataluña,2023,4
+734,empresas,115.0,114.0,1.0,0.0,28.0,16.0,71.0,valencia,Valencia,2023,4
+1106,empresas,13.0,13.0,0.0,0.0,8.0,0.0,5.0,badajoz,Extremadura,2023,4
+1110,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,caceres,Extremadura,2023,4
+1227,empresas,13.0,13.0,0.0,0.0,8.0,0.0,5.0,lugo,Galicia,2023,4
+1232,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,ourense,Galicia,2023,4
+1236,empresas,34.0,33.0,1.0,0.0,14.0,1.0,19.0,pontevedra,Galicia,2023,4
+1328,empresas,286.0,272.0,12.0,2.0,59.0,110.0,117.0,madrid,Madrid,2023,4
+1430,empresas,54.0,53.0,1.0,0.0,21.0,11.0,22.0,murcia,Murcia,2023,4
+1531,empresas,12.0,12.0,0.0,0.0,4.0,0.0,8.0,navarra,Navarra,2023,4
+1601,empresas,4.0,4.0,0.0,0.0,0.0,1.0,3.0,araba alava,Pais Vasco,2023,4
+1648,empresas,38.0,38.0,0.0,0.0,7.0,16.0,15.0,bizkaia,Pais Vasco,2023,4
+1620,empresas,15.0,15.0,0.0,0.0,7.0,0.0,8.0,gipuzkoa,Pais Vasco,2023,4
+1851,,1.0,1.0,0.0,0.0,0.0,1.0,0.0,ceuta,Ceuta,2023,4
+1952,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,melilla,Melilla,2023,4
+104,fisica,92.0,92.0,0.0,0.0,8.0,1.0,83.0,almeria,Andalucia,2024,1
+111,fisica,134.0,133.0,0.0,1.0,30.0,3.0,101.0,cadiz,Andalucia,2024,1
+114,fisica,33.0,33.0,0.0,0.0,3.0,0.0,30.0,cordoba,Andalucia,2024,1
+118,fisica,102.0,102.0,0.0,0.0,26.0,1.0,75.0,granada,Andalucia,2024,1
+121,fisica,56.0,56.0,0.0,0.0,12.0,0.0,44.0,huelva,Andalucia,2024,1
+123,fisica,19.0,19.0,0.0,0.0,8.0,0.0,11.0,jaen,Andalucia,2024,1
+129,fisica,156.0,154.0,0.0,2.0,31.0,1.0,124.0,malaga,Andalucia,2024,1
+141,fisica,300.0,300.0,0.0,0.0,20.0,0.0,280.0,sevilla,Andalucia,2024,1
+943,fisica,116.0,115.0,0.0,1.0,20.0,0.0,96.0,aragon,,2024,1
+222,fisica,16.0,15.0,0.0,1.0,4.0,0.0,12.0,huesca,Aragon,2024,1
+244,fisica,9.0,9.0,0.0,0.0,4.0,0.0,5.0,teruel,Aragon,2024,1
+250,fisica,91.0,91.0,0.0,0.0,12.0,0.0,79.0,zaragoza,Aragon,2024,1
+333,fisica,153.0,152.0,1.0,0.0,54.0,0.0,99.0,asturias,Asturias,2024,1
+407,fisica,63.0,63.0,0.0,0.0,2.0,0.0,61.0,balears illes,Baleares,2024,1
+639,fisica,385.0,385.0,0.0,0.0,8.0,0.0,377.0,canarias,,2024,1
+538,fisica,151.0,151.0,0.0,0.0,4.0,0.0,147.0,santa cruz de tenerife,Canarias,2024,1
+639,fisica,46.0,46.0,0.0,0.0,12.0,0.0,34.0,cantabria,Cantabria,2024,1
+705,fisica,6.0,6.0,0.0,0.0,0.0,0.0,6.0,avila,Castilla y Leon,2024,1
+709,fisica,16.0,16.0,0.0,0.0,1.0,0.0,15.0,burgos,Castilla y Leon,2024,1
+724,fisica,55.0,55.0,0.0,0.0,14.0,2.0,39.0,leon,Castilla y Leon,2024,1
+734,fisica,4.0,4.0,0.0,0.0,0.0,0.0,4.0,palencia,Castilla y Leon,2024,1
+737,fisica,25.0,25.0,0.0,0.0,3.0,0.0,22.0,salamanca,Castilla y Leon,2024,1
+740,fisica,10.0,10.0,0.0,0.0,2.0,0.0,8.0,segovia,Castilla y Leon,2024,1
+742,fisica,1.0,1.0,0.0,0.0,0.0,0.0,1.0,soria,Castilla y Leon,2024,1
+747,fisica,62.0,62.0,0.0,0.0,6.0,1.0,55.0,valladolid,Castilla y Leon,2024,1
+749,fisica,15.0,15.0,0.0,0.0,0.0,0.0,15.0,zamora,Castilla y Leon,2024,1
+802,fisica,43.0,43.0,0.0,0.0,1.0,1.0,41.0,albacete,Castilla La Mancha,2024,1
+813,fisica,13.0,13.0,0.0,0.0,0.0,0.0,13.0,ciudad real,Castilla La Mancha,2024,1
+816,fisica,14.0,14.0,0.0,0.0,1.0,0.0,13.0,cuenca,Castilla La Mancha,2024,1
+819,fisica,34.0,33.0,0.0,1.0,1.0,1.0,32.0,guadalajara,Castilla La Mancha,2024,1
+845,fisica,109.0,104.0,2.0,3.0,9.0,0.0,100.0,toledo,Castilla La Mancha,2024,1
+908,fisica,1343.0,1329.0,0.0,14.0,166.0,0.0,1177.0,barcelona,Cataluña,2024,1
+917,fisica,139.0,139.0,0.0,0.0,8.0,0.0,131.0,girona,Cataluña,2024,1
+925,fisica,123.0,123.0,0.0,0.0,0.0,0.0,123.0,lleida,Cataluña,2024,1
+943,fisica,135.0,132.0,0.0,3.0,2.0,0.0,133.0,tarragona,Cataluña,2024,1
+734,fisica,496.0,492.0,0.0,4.0,56.0,5.0,435.0,valencia,Valencia,2024,1
+1106,fisica,70.0,70.0,0.0,0.0,27.0,0.0,43.0,badajoz,Extremadura,2024,1
+1110,fisica,20.0,20.0,0.0,0.0,1.0,0.0,19.0,caceres,Extremadura,2024,1
+1227,fisica,20.0,20.0,0.0,0.0,3.0,0.0,17.0,lugo,Galicia,2024,1
+1232,fisica,11.0,11.0,0.0,0.0,1.0,0.0,10.0,ourense,Galicia,2024,1
+1236,fisica,68.0,68.0,0.0,0.0,8.0,0.0,60.0,pontevedra,Galicia,2024,1
+1328,fisica,970.0,893.0,0.0,77.0,83.0,16.0,871.0,madrid,Madrid,2024,1
+1430,fisica,397.0,395.0,0.0,2.0,31.0,2.0,364.0,murcia,Murcia,2024,1
+1531,fisica,58.0,58.0,0.0,0.0,2.0,1.0,55.0,navarra,Navarra,2024,1
+1601,fisica,40.0,40.0,0.0,0.0,2.0,0.0,38.0,araba alava,Pais Vasco,2024,1
+1648,fisica,81.0,81.0,0.0,0.0,9.0,0.0,72.0,bizkaia,Pais Vasco,2024,1
+1620,fisica,51.0,51.0,0.0,0.0,5.0,0.0,46.0,gipuzkoa,Pais Vasco,2024,1
+1851,fisica,15.0,13.0,0.0,2.0,0.0,0.0,15.0,ceuta,Ceuta,2024,1
+1952,fisica,5.0,5.0,0.0,0.0,0.0,0.0,5.0,melilla,Melilla,2024,1
+104,empresas,10.0,10.0,0.0,0.0,3.0,1.0,6.0,almeria,Andalucia,2024,1
+111,empresas,9.0,9.0,0.0,0.0,3.0,4.0,2.0,cadiz,Andalucia,2024,1
+114,empresas,15.0,15.0,0.0,0.0,6.0,0.0,9.0,cordoba,Andalucia,2024,1
+118,empresas,15.0,14.0,1.0,0.0,6.0,6.0,3.0,granada,Andalucia,2024,1
+121,empresas,7.0,7.0,0.0,0.0,6.0,0.0,1.0,huelva,Andalucia,2024,1
+123,empresas,6.0,5.0,1.0,0.0,4.0,0.0,2.0,jaen,Andalucia,2024,1
+129,empresas,33.0,31.0,2.0,0.0,9.0,6.0,18.0,malaga,Andalucia,2024,1
+141,empresas,35.0,33.0,2.0,0.0,12.0,0.0,23.0,sevilla,Andalucia,2024,1
+943,empresas,33.0,31.0,2.0,0.0,9.0,0.0,24.0,aragon,,2024,1
+222,empresas,3.0,2.0,1.0,0.0,2.0,0.0,1.0,huesca,Aragon,2024,1
+244,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,teruel,Aragon,2024,1
+250,empresas,28.0,27.0,1.0,0.0,7.0,0.0,21.0,zaragoza,Aragon,2024,1
+333,empresas,27.0,25.0,2.0,0.0,8.0,4.0,15.0,asturias,Asturias,2024,1
+407,empresas,18.0,18.0,0.0,0.0,8.0,0.0,10.0,balears illes,Baleares,2024,1
+639,empresas,27.0,27.0,0.0,0.0,9.0,6.0,12.0,canarias,,2024,1
+538,empresas,13.0,13.0,0.0,0.0,4.0,3.0,6.0,santa cruz de tenerife,Canarias,2024,1
+639,empresas,17.0,17.0,0.0,0.0,4.0,12.0,1.0,cantabria,Cantabria,2024,1
+705,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,avila,Castilla y Leon,2024,1
+709,empresas,8.0,8.0,0.0,0.0,3.0,2.0,3.0,burgos,Castilla y Leon,2024,1
+724,empresas,7.0,7.0,0.0,0.0,4.0,0.0,3.0,leon,Castilla y Leon,2024,1
+734,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,palencia,Castilla y Leon,2024,1
+737,empresas,8.0,7.0,1.0,0.0,1.0,2.0,5.0,salamanca,Castilla y Leon,2024,1
+740,empresas,4.0,4.0,0.0,0.0,2.0,1.0,1.0,segovia,Castilla y Leon,2024,1
+742,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,soria,Castilla y Leon,2024,1
+747,empresas,16.0,14.0,2.0,0.0,6.0,5.0,5.0,valladolid,Castilla y Leon,2024,1
+749,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,zamora,Castilla y Leon,2024,1
+802,empresas,12.0,12.0,0.0,0.0,1.0,0.0,11.0,albacete,Castilla La Mancha,2024,1
+813,empresas,5.0,5.0,0.0,0.0,2.0,0.0,3.0,ciudad real,Castilla La Mancha,2024,1
+816,empresas,5.0,5.0,0.0,0.0,3.0,0.0,2.0,cuenca,Castilla La Mancha,2024,1
+819,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,guadalajara,Castilla La Mancha,2024,1
+845,empresas,9.0,9.0,0.0,0.0,2.0,0.0,7.0,toledo,Castilla La Mancha,2024,1
+908,empresas,337.0,330.0,7.0,0.0,83.0,24.0,230.0,barcelona,Cataluña,2024,1
+917,empresas,15.0,15.0,0.0,0.0,5.0,1.0,9.0,girona,Cataluña,2024,1
+925,empresas,15.0,14.0,1.0,0.0,5.0,1.0,9.0,lleida,Cataluña,2024,1
+943,empresas,19.0,18.0,1.0,0.0,6.0,0.0,13.0,tarragona,Cataluña,2024,1
+734,empresas,128.0,127.0,1.0,0.0,37.0,38.0,53.0,valencia,Valencia,2024,1
+1106,empresas,8.0,7.0,1.0,0.0,1.0,4.0,3.0,badajoz,Extremadura,2024,1
+1110,empresas,4.0,4.0,0.0,0.0,1.0,1.0,2.0,caceres,Extremadura,2024,1
+1227,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,lugo,Galicia,2024,1
+1232,empresas,3.0,2.0,0.0,1.0,2.0,0.0,1.0,ourense,Galicia,2024,1
+1236,empresas,26.0,26.0,0.0,0.0,13.0,2.0,11.0,pontevedra,Galicia,2024,1
+1328,empresas,354.0,347.0,6.0,1.0,101.0,150.0,103.0,madrid,Madrid,2024,1
+1430,empresas,45.0,43.0,2.0,0.0,19.0,5.0,21.0,murcia,Murcia,2024,1
+1531,empresas,16.0,15.0,1.0,0.0,8.0,0.0,8.0,navarra,Navarra,2024,1
+1601,empresas,6.0,6.0,0.0,0.0,3.0,0.0,3.0,araba alava,Pais Vasco,2024,1
+1648,empresas,48.0,48.0,0.0,0.0,14.0,15.0,19.0,bizkaia,Pais Vasco,2024,1
+1620,empresas,32.0,32.0,0.0,0.0,5.0,6.0,21.0,gipuzkoa,Pais Vasco,2024,1
+104,fisica,171.0,170.0,0.0,1.0,17.0,2.0,152.0,almeria,Andalucia,2024,2
+111,fisica,188.0,188.0,0.0,0.0,18.0,1.0,169.0,cadiz,Andalucia,2024,2
+114,fisica,67.0,67.0,0.0,0.0,16.0,0.0,51.0,cordoba,Andalucia,2024,2
+118,fisica,157.0,157.0,0.0,0.0,27.0,4.0,126.0,granada,Andalucia,2024,2
+121,fisica,30.0,30.0,0.0,0.0,9.0,0.0,21.0,huelva,Andalucia,2024,2
+123,fisica,11.0,10.0,0.0,1.0,7.0,0.0,4.0,jaen,Andalucia,2024,2
+129,fisica,175.0,175.0,0.0,0.0,21.0,2.0,152.0,malaga,Andalucia,2024,2
+141,fisica,195.0,195.0,0.0,0.0,6.0,0.0,189.0,sevilla,Andalucia,2024,2
+943,fisica,166.0,166.0,0.0,0.0,23.0,1.0,142.0,aragon,,2024,2
+222,fisica,25.0,25.0,0.0,0.0,5.0,1.0,19.0,huesca,Aragon,2024,2
+244,fisica,6.0,6.0,0.0,0.0,1.0,0.0,5.0,teruel,Aragon,2024,2
+250,fisica,135.0,135.0,0.0,0.0,17.0,0.0,118.0,zaragoza,Aragon,2024,2
+333,fisica,182.0,181.0,1.0,0.0,38.0,0.0,144.0,asturias,Asturias,2024,2
+407,fisica,241.0,241.0,0.0,0.0,36.0,0.0,205.0,balears illes,Baleares,2024,2
+639,fisica,528.0,526.0,1.0,1.0,34.0,1.0,493.0,canarias,,2024,2
+538,fisica,99.0,98.0,0.0,1.0,8.0,0.0,91.0,santa cruz de tenerife,Canarias,2024,2
+639,fisica,49.0,49.0,0.0,0.0,1.0,0.0,48.0,cantabria,Cantabria,2024,2
+705,fisica,3.0,3.0,0.0,0.0,0.0,0.0,3.0,avila,Castilla y Leon,2024,2
+709,fisica,9.0,9.0,0.0,0.0,2.0,0.0,7.0,burgos,Castilla y Leon,2024,2
+724,fisica,83.0,81.0,2.0,0.0,17.0,0.0,66.0,leon,Castilla y Leon,2024,2
+734,fisica,13.0,13.0,0.0,0.0,0.0,0.0,13.0,palencia,Castilla y Leon,2024,2
+737,fisica,30.0,30.0,0.0,0.0,3.0,0.0,27.0,salamanca,Castilla y Leon,2024,2
+740,fisica,13.0,13.0,0.0,0.0,1.0,0.0,12.0,segovia,Castilla y Leon,2024,2
+742,fisica,9.0,9.0,0.0,0.0,1.0,0.0,8.0,soria,Castilla y Leon,2024,2
+747,fisica,85.0,84.0,1.0,0.0,16.0,0.0,69.0,valladolid,Castilla y Leon,2024,2
+749,fisica,6.0,6.0,0.0,0.0,1.0,2.0,3.0,zamora,Castilla y Leon,2024,2
+802,fisica,60.0,60.0,0.0,0.0,3.0,0.0,57.0,albacete,Castilla La Mancha,2024,2
+813,fisica,28.0,28.0,0.0,0.0,0.0,0.0,28.0,ciudad real,Castilla La Mancha,2024,2
+816,fisica,26.0,26.0,0.0,0.0,4.0,0.0,22.0,cuenca,Castilla La Mancha,2024,2
+819,fisica,43.0,43.0,0.0,0.0,1.0,1.0,41.0,guadalajara,Castilla La Mancha,2024,2
+845,fisica,71.0,68.0,1.0,2.0,12.0,0.0,59.0,toledo,Castilla La Mancha,2024,2
+908,fisica,1667.0,1660.0,2.0,5.0,208.0,3.0,1456.0,barcelona,Cataluña,2024,2
+917,fisica,111.0,111.0,0.0,0.0,10.0,1.0,100.0,girona,Cataluña,2024,2
+925,fisica,137.0,135.0,2.0,0.0,7.0,0.0,130.0,lleida,Cataluña,2024,2
+943,fisica,203.0,201.0,0.0,2.0,11.0,0.0,192.0,tarragona,Cataluña,2024,2
+734,fisica,554.0,554.0,0.0,0.0,63.0,4.0,487.0,valencia,Valencia,2024,2
+1106,fisica,96.0,96.0,0.0,0.0,37.0,0.0,59.0,badajoz,Extremadura,2024,2
+1110,fisica,15.0,15.0,0.0,0.0,0.0,0.0,15.0,caceres,Extremadura,2024,2
+1227,fisica,54.0,53.0,0.0,1.0,5.0,0.0,49.0,lugo,Galicia,2024,2
+1232,fisica,27.0,27.0,0.0,0.0,2.0,0.0,25.0,ourense,Galicia,2024,2
+1236,fisica,86.0,86.0,0.0,0.0,19.0,0.0,67.0,pontevedra,Galicia,2024,2
+1328,fisica,1146.0,1072.0,0.0,74.0,91.0,12.0,1043.0,madrid,Madrid,2024,2
+1430,fisica,491.0,489.0,1.0,1.0,34.0,2.0,455.0,murcia,Murcia,2024,2
+1531,fisica,77.0,77.0,0.0,0.0,3.0,0.0,74.0,navarra,Navarra,2024,2
+1601,fisica,41.0,41.0,0.0,0.0,3.0,0.0,38.0,araba alava,Pais Vasco,2024,2
+1648,fisica,130.0,130.0,0.0,0.0,11.0,0.0,119.0,bizkaia,Pais Vasco,2024,2
+1620,fisica,56.0,56.0,0.0,0.0,10.0,0.0,46.0,gipuzkoa,Pais Vasco,2024,2
+1851,fisica,16.0,14.0,0.0,2.0,0.0,0.0,16.0,ceuta,Ceuta,2024,2
+1952,fisica,8.0,8.0,0.0,0.0,2.0,0.0,6.0,melilla,Melilla,2024,2
+104,empresas,8.0,7.0,1.0,0.0,5.0,1.0,2.0,almeria,Andalucia,2024,2
+111,empresas,24.0,24.0,0.0,0.0,5.0,2.0,17.0,cadiz,Andalucia,2024,2
+114,empresas,9.0,9.0,0.0,0.0,4.0,0.0,5.0,cordoba,Andalucia,2024,2
+118,empresas,25.0,25.0,0.0,0.0,4.0,12.0,9.0,granada,Andalucia,2024,2
+121,empresas,8.0,8.0,0.0,0.0,3.0,2.0,3.0,huelva,Andalucia,2024,2
+123,empresas,5.0,5.0,0.0,0.0,4.0,1.0,0.0,jaen,Andalucia,2024,2
+129,empresas,35.0,33.0,2.0,0.0,9.0,4.0,22.0,malaga,Andalucia,2024,2
+141,empresas,34.0,31.0,3.0,0.0,15.0,5.0,14.0,sevilla,Andalucia,2024,2
+943,empresas,33.0,33.0,0.0,0.0,6.0,3.0,24.0,aragon,,2024,2
+222,empresas,5.0,5.0,0.0,0.0,1.0,3.0,1.0,huesca,Aragon,2024,2
+244,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,teruel,Aragon,2024,2
+250,empresas,27.0,27.0,0.0,0.0,5.0,0.0,22.0,zaragoza,Aragon,2024,2
+333,empresas,36.0,36.0,0.0,0.0,6.0,14.0,16.0,asturias,Asturias,2024,2
+407,empresas,19.0,19.0,0.0,0.0,10.0,0.0,9.0,balears illes,Baleares,2024,2
+639,empresas,30.0,29.0,1.0,0.0,9.0,8.0,13.0,canarias,,2024,2
+538,empresas,11.0,11.0,0.0,0.0,3.0,4.0,4.0,santa cruz de tenerife,Canarias,2024,2
+639,empresas,10.0,10.0,0.0,0.0,2.0,8.0,0.0,cantabria,Cantabria,2024,2
+705,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,avila,Castilla y Leon,2024,2
+709,empresas,4.0,4.0,0.0,0.0,0.0,1.0,3.0,burgos,Castilla y Leon,2024,2
+724,empresas,10.0,10.0,0.0,0.0,3.0,4.0,3.0,leon,Castilla y Leon,2024,2
+734,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,palencia,Castilla y Leon,2024,2
+737,empresas,6.0,6.0,0.0,0.0,0.0,1.0,5.0,salamanca,Castilla y Leon,2024,2
+740,empresas,3.0,3.0,0.0,0.0,2.0,1.0,0.0,segovia,Castilla y Leon,2024,2
+742,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,soria,Castilla y Leon,2024,2
+747,empresas,11.0,11.0,0.0,0.0,4.0,3.0,4.0,valladolid,Castilla y Leon,2024,2
+749,empresas,2.0,2.0,0.0,0.0,0.0,1.0,1.0,zamora,Castilla y Leon,2024,2
+802,empresas,20.0,20.0,0.0,0.0,5.0,1.0,14.0,albacete,Castilla La Mancha,2024,2
+813,empresas,8.0,7.0,1.0,0.0,2.0,0.0,6.0,ciudad real,Castilla La Mancha,2024,2
+816,empresas,1.0,0.0,1.0,0.0,1.0,0.0,0.0,cuenca,Castilla La Mancha,2024,2
+819,empresas,3.0,3.0,0.0,0.0,1.0,1.0,1.0,guadalajara,Castilla La Mancha,2024,2
+845,empresas,11.0,11.0,0.0,0.0,2.0,1.0,8.0,toledo,Castilla La Mancha,2024,2
+908,empresas,325.0,321.0,4.0,0.0,74.0,28.0,223.0,barcelona,Cataluña,2024,2
+917,empresas,16.0,15.0,1.0,0.0,2.0,3.0,11.0,girona,Cataluña,2024,2
+925,empresas,18.0,18.0,0.0,0.0,4.0,3.0,11.0,lleida,Cataluña,2024,2
+943,empresas,23.0,23.0,0.0,0.0,1.0,2.0,20.0,tarragona,Cataluña,2024,2
+734,empresas,97.0,94.0,3.0,0.0,22.0,26.0,49.0,valencia,Valencia,2024,2
+1106,empresas,9.0,7.0,2.0,0.0,4.0,2.0,3.0,badajoz,Extremadura,2024,2
+1110,empresas,6.0,6.0,0.0,0.0,2.0,0.0,4.0,caceres,Extremadura,2024,2
+1227,empresas,12.0,12.0,0.0,0.0,9.0,1.0,2.0,lugo,Galicia,2024,2
+1232,empresas,2.0,1.0,0.0,1.0,1.0,1.0,0.0,ourense,Galicia,2024,2
+1236,empresas,30.0,28.0,2.0,0.0,15.0,0.0,15.0,pontevedra,Galicia,2024,2
+1328,empresas,317.0,303.0,11.0,3.0,69.0,140.0,108.0,madrid,Madrid,2024,2
+1430,empresas,45.0,41.0,4.0,0.0,23.0,6.0,16.0,murcia,Murcia,2024,2
+1531,empresas,12.0,12.0,0.0,0.0,5.0,0.0,7.0,navarra,Navarra,2024,2
+1601,empresas,15.0,15.0,0.0,0.0,7.0,2.0,6.0,araba alava,Pais Vasco,2024,2
+1648,empresas,42.0,40.0,2.0,0.0,17.0,10.0,15.0,bizkaia,Pais Vasco,2024,2
+1620,empresas,16.0,16.0,0.0,0.0,4.0,1.0,11.0,gipuzkoa,Pais Vasco,2024,2
+104,fisica,98.0,97.0,0.0,1.0,12.0,0.0,86.0,almeria,Andalucia,2024,3
+111,fisica,264.0,264.0,0.0,0.0,18.0,0.0,246.0,cadiz,Andalucia,2024,3
+114,fisica,52.0,52.0,0.0,0.0,6.0,0.0,46.0,cordoba,Andalucia,2024,3
+118,fisica,94.0,93.0,1.0,0.0,17.0,2.0,75.0,granada,Andalucia,2024,3
+121,fisica,80.0,80.0,0.0,0.0,19.0,0.0,61.0,huelva,Andalucia,2024,3
+123,fisica,114.0,113.0,0.0,1.0,44.0,2.0,68.0,jaen,Andalucia,2024,3
+129,fisica,182.0,182.0,0.0,0.0,29.0,6.0,147.0,malaga,Andalucia,2024,3
+141,fisica,413.0,413.0,0.0,0.0,52.0,2.0,359.0,sevilla,Andalucia,2024,3
+943,fisica,134.0,134.0,0.0,0.0,17.0,2.0,115.0,aragon,,2024,3
+222,fisica,39.0,39.0,0.0,0.0,3.0,0.0,36.0,huesca,Aragon,2024,3
+244,fisica,8.0,8.0,0.0,0.0,0.0,2.0,6.0,teruel,Aragon,2024,3
+250,fisica,87.0,87.0,0.0,0.0,14.0,0.0,73.0,zaragoza,Aragon,2024,3
+333,fisica,141.0,141.0,0.0,0.0,55.0,0.0,86.0,asturias,Asturias,2024,3
+407,fisica,225.0,223.0,2.0,0.0,22.0,0.0,203.0,balears illes,Baleares,2024,3
+639,fisica,449.0,448.0,0.0,1.0,50.0,0.0,399.0,canarias,,2024,3
+538,fisica,154.0,153.0,0.0,1.0,11.0,0.0,143.0,santa cruz de tenerife,Canarias,2024,3
+639,fisica,92.0,92.0,0.0,0.0,12.0,2.0,78.0,cantabria,Cantabria,2024,3
+705,fisica,16.0,16.0,0.0,0.0,1.0,0.0,15.0,avila,Castilla y Leon,2024,3
+709,fisica,21.0,21.0,0.0,0.0,8.0,0.0,13.0,burgos,Castilla y Leon,2024,3
+724,fisica,68.0,66.0,2.0,0.0,21.0,1.0,46.0,leon,Castilla y Leon,2024,3
+734,fisica,10.0,10.0,0.0,0.0,0.0,0.0,10.0,palencia,Castilla y Leon,2024,3
+737,fisica,50.0,50.0,0.0,0.0,1.0,1.0,48.0,salamanca,Castilla y Leon,2024,3
+740,fisica,8.0,8.0,0.0,0.0,1.0,1.0,6.0,segovia,Castilla y Leon,2024,3
+742,fisica,13.0,13.0,0.0,0.0,2.0,0.0,11.0,soria,Castilla y Leon,2024,3
+747,fisica,82.0,82.0,0.0,0.0,2.0,1.0,79.0,valladolid,Castilla y Leon,2024,3
+749,fisica,6.0,5.0,1.0,0.0,0.0,0.0,6.0,zamora,Castilla y Leon,2024,3
+802,fisica,57.0,57.0,0.0,0.0,3.0,0.0,54.0,albacete,Castilla La Mancha,2024,3
+813,fisica,4.0,4.0,0.0,0.0,1.0,0.0,3.0,ciudad real,Castilla La Mancha,2024,3
+816,fisica,13.0,13.0,0.0,0.0,0.0,0.0,13.0,cuenca,Castilla La Mancha,2024,3
+819,fisica,59.0,58.0,0.0,1.0,7.0,0.0,52.0,guadalajara,Castilla La Mancha,2024,3
+845,fisica,57.0,57.0,0.0,0.0,3.0,0.0,54.0,toledo,Castilla La Mancha,2024,3
+908,fisica,1801.0,1796.0,2.0,3.0,230.0,0.0,1571.0,barcelona,Cataluña,2024,3
+917,fisica,131.0,131.0,0.0,0.0,5.0,0.0,126.0,girona,Cataluña,2024,3
+925,fisica,168.0,168.0,0.0,0.0,4.0,0.0,164.0,lleida,Cataluña,2024,3
+943,fisica,201.0,200.0,1.0,0.0,14.0,0.0,187.0,tarragona,Cataluña,2024,3
+734,fisica,702.0,702.0,0.0,0.0,84.0,10.0,608.0,valencia,Valencia,2024,3
+1106,fisica,82.0,81.0,1.0,0.0,27.0,0.0,55.0,badajoz,Extremadura,2024,3
+1110,fisica,68.0,67.0,1.0,0.0,4.0,0.0,64.0,caceres,Extremadura,2024,3
+1227,fisica,35.0,35.0,0.0,0.0,7.0,0.0,28.0,lugo,Galicia,2024,3
+1232,fisica,17.0,17.0,0.0,0.0,0.0,0.0,17.0,ourense,Galicia,2024,3
+1236,fisica,100.0,100.0,0.0,0.0,13.0,1.0,86.0,pontevedra,Galicia,2024,3
+1328,fisica,1019.0,1005.0,0.0,14.0,93.0,8.0,918.0,madrid,Madrid,2024,3
+1430,fisica,506.0,506.0,0.0,0.0,27.0,3.0,476.0,murcia,Murcia,2024,3
+1531,fisica,56.0,56.0,0.0,0.0,6.0,0.0,50.0,navarra,Navarra,2024,3
+1601,fisica,43.0,43.0,0.0,0.0,2.0,0.0,41.0,araba alava,Pais Vasco,2024,3
+1648,fisica,64.0,64.0,0.0,0.0,9.0,0.0,55.0,bizkaia,Pais Vasco,2024,3
+1620,fisica,57.0,57.0,0.0,0.0,5.0,0.0,52.0,gipuzkoa,Pais Vasco,2024,3
+1851,fisica,,,,,,,,ceuta,Ceuta,2024,3
+1952,fisica,,,,,,,,melilla,Melilla,2024,3
+104,empresas,8.0,7.0,1.0,0.0,5.0,0.0,3.0,almeria,Andalucia,2024,3
+111,empresas,19.0,19.0,0.0,0.0,9.0,0.0,10.0,cadiz,Andalucia,2024,3
+114,empresas,16.0,15.0,1.0,0.0,4.0,0.0,12.0,cordoba,Andalucia,2024,3
+118,empresas,13.0,13.0,0.0,0.0,5.0,1.0,7.0,granada,Andalucia,2024,3
+121,empresas,9.0,9.0,0.0,0.0,3.0,5.0,1.0,huelva,Andalucia,2024,3
+123,empresas,12.0,12.0,0.0,0.0,4.0,4.0,4.0,jaen,Andalucia,2024,3
+129,empresas,24.0,22.0,2.0,0.0,8.0,4.0,12.0,malaga,Andalucia,2024,3
+141,empresas,54.0,54.0,0.0,0.0,28.0,1.0,25.0,sevilla,Andalucia,2024,3
+943,empresas,22.0,22.0,0.0,0.0,12.0,1.0,9.0,aragon,,2024,3
+222,empresas,3.0,3.0,0.0,0.0,1.0,1.0,1.0,huesca,Aragon,2024,3
+244,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,teruel,Aragon,2024,3
+250,empresas,18.0,18.0,0.0,0.0,11.0,0.0,7.0,zaragoza,Aragon,2024,3
+333,empresas,27.0,27.0,0.0,0.0,6.0,5.0,16.0,asturias,Asturias,2024,3
+407,empresas,24.0,21.0,3.0,0.0,12.0,1.0,11.0,balears illes,Baleares,2024,3
+639,empresas,25.0,25.0,0.0,0.0,7.0,10.0,8.0,canarias,,2024,3
+538,empresas,10.0,10.0,0.0,0.0,4.0,1.0,5.0,santa cruz de tenerife,Canarias,2024,3
+639,empresas,5.0,5.0,0.0,0.0,2.0,1.0,2.0,cantabria,Cantabria,2024,3
+705,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,avila,Castilla y Leon,2024,3
+709,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,burgos,Castilla y Leon,2024,3
+724,empresas,9.0,9.0,0.0,0.0,1.0,5.0,3.0,leon,Castilla y Leon,2024,3
+734,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,palencia,Castilla y Leon,2024,3
+737,empresas,7.0,7.0,0.0,0.0,1.0,0.0,6.0,salamanca,Castilla y Leon,2024,3
+740,empresas,3.0,3.0,0.0,0.0,0.0,3.0,0.0,segovia,Castilla y Leon,2024,3
+742,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,soria,Castilla y Leon,2024,3
+747,empresas,15.0,15.0,0.0,0.0,5.0,4.0,6.0,valladolid,Castilla y Leon,2024,3
+749,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,zamora,Castilla y Leon,2024,3
+802,empresas,15.0,13.0,2.0,0.0,0.0,0.0,15.0,albacete,Castilla La Mancha,2024,3
+813,empresas,5.0,5.0,0.0,0.0,1.0,0.0,4.0,ciudad real,Castilla La Mancha,2024,3
+816,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,cuenca,Castilla La Mancha,2024,3
+819,empresas,7.0,7.0,0.0,0.0,0.0,1.0,6.0,guadalajara,Castilla La Mancha,2024,3
+845,empresas,6.0,6.0,0.0,0.0,1.0,0.0,5.0,toledo,Castilla La Mancha,2024,3
+908,empresas,254.0,251.0,3.0,0.0,56.0,17.0,181.0,barcelona,Cataluña,2024,3
+917,empresas,25.0,25.0,0.0,0.0,0.0,0.0,25.0,girona,Cataluña,2024,3
+925,empresas,7.0,7.0,0.0,0.0,3.0,0.0,4.0,lleida,Cataluña,2024,3
+943,empresas,11.0,11.0,0.0,0.0,6.0,1.0,4.0,tarragona,Cataluña,2024,3
+734,empresas,112.0,110.0,2.0,0.0,26.0,55.0,31.0,valencia,Valencia,2024,3
+1106,empresas,11.0,11.0,0.0,0.0,3.0,5.0,3.0,badajoz,Extremadura,2024,3
+1110,empresas,9.0,9.0,0.0,0.0,1.0,0.0,8.0,caceres,Extremadura,2024,3
+1227,empresas,9.0,9.0,0.0,0.0,3.0,1.0,5.0,lugo,Galicia,2024,3
+1232,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,ourense,Galicia,2024,3
+1236,empresas,32.0,32.0,0.0,0.0,14.0,1.0,17.0,pontevedra,Galicia,2024,3
+1328,empresas,183.0,181.0,2.0,0.0,57.0,86.0,40.0,madrid,Madrid,2024,3
+1430,empresas,46.0,45.0,1.0,0.0,8.0,12.0,26.0,murcia,Murcia,2024,3
+1531,empresas,7.0,6.0,1.0,0.0,6.0,0.0,1.0,navarra,Navarra,2024,3
+1601,empresas,11.0,11.0,0.0,0.0,5.0,2.0,4.0,araba alava,Pais Vasco,2024,3
+1648,empresas,29.0,29.0,0.0,0.0,5.0,13.0,11.0,bizkaia,Pais Vasco,2024,3
+1620,empresas,22.0,22.0,0.0,0.0,4.0,4.0,14.0,gipuzkoa,Pais Vasco,2024,3
+104,fisica,156.0,156.0,0.0,0.0,25.0,3.0,128.0,almeria,Andalucia,2024,4
+111,fisica,238.0,238.0,0.0,0.0,18.0,2.0,218.0,cadiz,Andalucia,2024,4
+114,fisica,137.0,137.0,0.0,0.0,19.0,0.0,118.0,cordoba,Andalucia,2024,4
+118,fisica,169.0,169.0,0.0,0.0,53.0,2.0,114.0,granada,Andalucia,2024,4
+121,fisica,57.0,57.0,0.0,0.0,25.0,0.0,32.0,huelva,Andalucia,2024,4
+123,fisica,78.0,78.0,0.0,0.0,48.0,0.0,30.0,jaen,Andalucia,2024,4
+129,fisica,334.0,334.0,0.0,0.0,47.0,5.0,282.0,malaga,Andalucia,2024,4
+141,fisica,328.0,328.0,0.0,0.0,19.0,3.0,306.0,sevilla,Andalucia,2024,4
+943,fisica,186.0,186.0,0.0,0.0,28.0,0.0,158.0,aragon,,2024,4
+222,fisica,40.0,40.0,0.0,0.0,6.0,0.0,34.0,huesca,Aragon,2024,4
+244,fisica,15.0,15.0,0.0,0.0,1.0,0.0,14.0,teruel,Aragon,2024,4
+250,fisica,131.0,131.0,0.0,0.0,21.0,0.0,110.0,zaragoza,Aragon,2024,4
+333,fisica,237.0,237.0,0.0,0.0,52.0,0.0,185.0,asturias,Asturias,2024,4
+407,fisica,318.0,316.0,0.0,2.0,12.0,0.0,306.0,balears illes,Baleares,2024,4
+639,fisica,665.0,665.0,0.0,0.0,33.0,2.0,630.0,canarias,,2024,4
+538,fisica,308.0,308.0,0.0,0.0,22.0,2.0,284.0,santa cruz de tenerife,Canarias,2024,4
+639,fisica,89.0,89.0,0.0,0.0,12.0,0.0,77.0,cantabria,Cantabria,2024,4
+705,fisica,37.0,37.0,0.0,0.0,0.0,0.0,37.0,avila,Castilla y Leon,2024,4
+709,fisica,40.0,40.0,0.0,0.0,8.0,0.0,32.0,burgos,Castilla y Leon,2024,4
+724,fisica,109.0,109.0,0.0,0.0,18.0,3.0,88.0,leon,Castilla y Leon,2024,4
+734,fisica,28.0,28.0,0.0,0.0,0.0,0.0,28.0,palencia,Castilla y Leon,2024,4
+737,fisica,62.0,62.0,0.0,0.0,8.0,0.0,54.0,salamanca,Castilla y Leon,2024,4
+740,fisica,26.0,26.0,0.0,0.0,3.0,1.0,22.0,segovia,Castilla y Leon,2024,4
+742,fisica,11.0,11.0,0.0,0.0,0.0,0.0,11.0,soria,Castilla y Leon,2024,4
+747,fisica,77.0,77.0,0.0,0.0,11.0,1.0,65.0,valladolid,Castilla y Leon,2024,4
+749,fisica,7.0,7.0,0.0,0.0,0.0,0.0,7.0,zamora,Castilla y Leon,2024,4
+802,fisica,100.0,100.0,0.0,0.0,9.0,0.0,91.0,albacete,Castilla La Mancha,2024,4
+813,fisica,4.0,4.0,0.0,0.0,2.0,0.0,2.0,ciudad real,Castilla La Mancha,2024,4
+816,fisica,25.0,25.0,0.0,0.0,0.0,0.0,25.0,cuenca,Castilla La Mancha,2024,4
+819,fisica,17.0,17.0,0.0,0.0,2.0,0.0,15.0,guadalajara,Castilla La Mancha,2024,4
+845,fisica,187.0,187.0,0.0,0.0,19.0,4.0,164.0,toledo,Castilla La Mancha,2024,4
+908,fisica,2306.0,2304.0,2.0,0.0,369.0,2.0,1935.0,barcelona,Cataluña,2024,4
+917,fisica,303.0,303.0,0.0,0.0,28.0,0.0,275.0,girona,Cataluña,2024,4
+925,fisica,214.0,214.0,0.0,0.0,16.0,1.0,197.0,lleida,Cataluña,2024,4
+943,fisica,298.0,297.0,0.0,1.0,20.0,0.0,278.0,tarragona,Cataluña,2024,4
+734,fisica,843.0,842.0,1.0,0.0,111.0,12.0,720.0,valencia,Valencia,2024,4
+1106,fisica,127.0,127.0,0.0,0.0,46.0,1.0,80.0,badajoz,Extremadura,2024,4
+1110,fisica,37.0,37.0,0.0,0.0,7.0,0.0,30.0,caceres,Extremadura,2024,4
+1227,fisica,40.0,40.0,0.0,0.0,13.0,0.0,27.0,lugo,Galicia,2024,4
+1232,fisica,36.0,36.0,0.0,0.0,8.0,0.0,28.0,ourense,Galicia,2024,4
+1236,fisica,128.0,127.0,1.0,0.0,16.0,0.0,112.0,pontevedra,Galicia,2024,4
+1328,fisica,2007.0,2005.0,1.0,1.0,136.0,30.0,1841.0,madrid,Madrid,2024,4
+1430,fisica,661.0,660.0,1.0,0.0,49.0,3.0,609.0,murcia,Murcia,2024,4
+1531,fisica,96.0,96.0,0.0,0.0,7.0,0.0,89.0,navarra,Navarra,2024,4
+1601,fisica,48.0,48.0,0.0,0.0,5.0,0.0,43.0,araba alava,Pais Vasco,2024,4
+1648,fisica,139.0,139.0,0.0,0.0,7.0,0.0,132.0,bizkaia,Pais Vasco,2024,4
+1620,fisica,84.0,84.0,0.0,0.0,9.0,0.0,75.0,gipuzkoa,Pais Vasco,2024,4
+1851,fisica,9.0,9.0,0.0,0.0,0.0,0.0,9.0,ceuta,Ceuta,2024,4
+1952,fisica,9.0,9.0,0.0,0.0,1.0,0.0,8.0,melilla,Melilla,2024,4
+104,empresas,10.0,10.0,0.0,0.0,3.0,3.0,4.0,almeria,Andalucia,2024,4
+111,empresas,25.0,24.0,1.0,0.0,13.0,2.0,10.0,cadiz,Andalucia,2024,4
+114,empresas,12.0,12.0,0.0,0.0,3.0,0.0,9.0,cordoba,Andalucia,2024,4
+118,empresas,10.0,10.0,0.0,0.0,4.0,3.0,3.0,granada,Andalucia,2024,4
+121,empresas,4.0,4.0,0.0,0.0,1.0,1.0,2.0,huelva,Andalucia,2024,4
+123,empresas,8.0,8.0,0.0,0.0,5.0,1.0,2.0,jaen,Andalucia,2024,4
+129,empresas,41.0,37.0,4.0,0.0,15.0,3.0,23.0,malaga,Andalucia,2024,4
+141,empresas,56.0,56.0,0.0,0.0,14.0,3.0,39.0,sevilla,Andalucia,2024,4
+943,empresas,24.0,24.0,0.0,0.0,9.0,1.0,14.0,aragon,,2024,4
+222,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,huesca,Aragon,2024,4
+244,empresas,4.0,4.0,0.0,0.0,3.0,0.0,1.0,teruel,Aragon,2024,4
+250,empresas,19.0,19.0,0.0,0.0,6.0,1.0,12.0,zaragoza,Aragon,2024,4
+333,empresas,23.0,22.0,1.0,0.0,4.0,4.0,15.0,asturias,Asturias,2024,4
+407,empresas,9.0,8.0,1.0,0.0,4.0,0.0,5.0,balears illes,Baleares,2024,4
+639,empresas,40.0,39.0,1.0,0.0,16.0,9.0,15.0,canarias,,2024,4
+538,empresas,17.0,17.0,0.0,0.0,7.0,0.0,10.0,santa cruz de tenerife,Canarias,2024,4
+639,empresas,12.0,11.0,1.0,0.0,3.0,7.0,2.0,cantabria,Cantabria,2024,4
+705,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,avila,Castilla y Leon,2024,4
+709,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,burgos,Castilla y Leon,2024,4
+724,empresas,7.0,7.0,0.0,0.0,4.0,3.0,0.0,leon,Castilla y Leon,2024,4
+734,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,palencia,Castilla y Leon,2024,4
+737,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,salamanca,Castilla y Leon,2024,4
+740,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,segovia,Castilla y Leon,2024,4
+742,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,soria,Castilla y Leon,2024,4
+747,empresas,6.0,6.0,0.0,0.0,0.0,1.0,5.0,valladolid,Castilla y Leon,2024,4
+749,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,zamora,Castilla y Leon,2024,4
+802,empresas,9.0,9.0,0.0,0.0,3.0,0.0,6.0,albacete,Castilla La Mancha,2024,4
+813,empresas,8.0,8.0,0.0,0.0,2.0,0.0,6.0,ciudad real,Castilla La Mancha,2024,4
+816,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,cuenca,Castilla La Mancha,2024,4
+819,empresas,3.0,3.0,0.0,0.0,0.0,0.0,3.0,guadalajara,Castilla La Mancha,2024,4
+845,empresas,12.0,12.0,0.0,0.0,7.0,2.0,3.0,toledo,Castilla La Mancha,2024,4
+908,empresas,308.0,305.0,3.0,0.0,92.0,19.0,197.0,barcelona,Cataluña,2024,4
+917,empresas,16.0,14.0,2.0,0.0,3.0,1.0,12.0,girona,Cataluña,2024,4
+925,empresas,12.0,12.0,0.0,0.0,3.0,0.0,9.0,lleida,Cataluña,2024,4
+943,empresas,15.0,14.0,1.0,0.0,2.0,2.0,11.0,tarragona,Cataluña,2024,4
+734,empresas,91.0,90.0,1.0,0.0,18.0,48.0,25.0,valencia,Valencia,2024,4
+1106,empresas,10.0,10.0,0.0,0.0,4.0,2.0,4.0,badajoz,Extremadura,2024,4
+1110,empresas,9.0,7.0,2.0,0.0,5.0,0.0,4.0,caceres,Extremadura,2024,4
+1227,empresas,8.0,8.0,0.0,0.0,3.0,0.0,5.0,lugo,Galicia,2024,4
+1232,empresas,2.0,2.0,0.0,0.0,2.0,0.0,0.0,ourense,Galicia,2024,4
+1236,empresas,21.0,20.0,1.0,0.0,13.0,0.0,8.0,pontevedra,Galicia,2024,4
+1328,empresas,356.0,340.0,16.0,0.0,89.0,156.0,111.0,madrid,Madrid,2024,4
+1430,empresas,46.0,45.0,1.0,0.0,12.0,13.0,21.0,murcia,Murcia,2024,4
+1531,empresas,11.0,11.0,0.0,0.0,5.0,1.0,5.0,navarra,Navarra,2024,4
+1601,empresas,15.0,15.0,0.0,0.0,5.0,4.0,6.0,araba alava,Pais Vasco,2024,4
+1648,empresas,34.0,33.0,1.0,0.0,12.0,7.0,15.0,bizkaia,Pais Vasco,2024,4
+1620,empresas,19.0,19.0,0.0,0.0,5.0,10.0,4.0,gipuzkoa,Pais Vasco,2024,4
+104,fisica,259.0,259.0,0.0,0.0,20.0,6.0,233.0,almeria,Andalucia,2025,1
+111,fisica,338.0,338.0,0.0,0.0,50.0,0.0,288.0,cadiz,Andalucia,2025,1
+114,fisica,111.0,111.0,0.0,0.0,12.0,0.0,99.0,cordoba,Andalucia,2025,1
+118,fisica,201.0,201.0,0.0,0.0,61.0,7.0,133.0,granada,Andalucia,2025,1
+121,fisica,119.0,119.0,0.0,0.0,34.0,0.0,85.0,huelva,Andalucia,2025,1
+123,fisica,36.0,36.0,0.0,0.0,17.0,0.0,19.0,jaen,Andalucia,2025,1
+129,fisica,383.0,383.0,0.0,0.0,53.0,6.0,324.0,malaga,Andalucia,2025,1
+141,fisica,498.0,497.0,1.0,0.0,24.0,0.0,474.0,sevilla,Andalucia,2025,1
+943,fisica,204.0,204.0,0.0,0.0,20.0,1.0,183.0,aragon,,2025,1
+222,fisica,62.0,62.0,0.0,0.0,6.0,1.0,55.0,huesca,Aragon,2025,1
+244,fisica,15.0,15.0,0.0,0.0,0.0,0.0,15.0,teruel,Aragon,2025,1
+250,fisica,127.0,127.0,0.0,0.0,14.0,0.0,113.0,zaragoza,Aragon,2025,1
+333,fisica,212.0,212.0,0.0,0.0,49.0,0.0,163.0,asturias,Asturias,2025,1
+407,fisica,306.0,304.0,0.0,2.0,17.0,0.0,289.0,balears illes,Baleares,2025,1
+639,fisica,607.0,607.0,0.0,0.0,80.0,5.0,522.0,canarias,,2025,1
+538,fisica,316.0,316.0,0.0,0.0,44.0,4.0,268.0,santa cruz de tenerife,Canarias,2025,1
+639,fisica,82.0,82.0,0.0,0.0,7.0,0.0,75.0,cantabria,Cantabria,2025,1
+705,fisica,23.0,23.0,0.0,0.0,0.0,0.0,23.0,avila,Castilla y Leon,2025,1
+709,fisica,30.0,30.0,0.0,0.0,6.0,0.0,24.0,burgos,Castilla y Leon,2025,1
+724,fisica,104.0,103.0,1.0,0.0,16.0,2.0,86.0,leon,Castilla y Leon,2025,1
+734,fisica,31.0,31.0,0.0,0.0,0.0,0.0,31.0,palencia,Castilla y Leon,2025,1
+737,fisica,70.0,70.0,0.0,0.0,3.0,0.0,67.0,salamanca,Castilla y Leon,2025,1
+740,fisica,21.0,20.0,0.0,1.0,7.0,0.0,14.0,segovia,Castilla y Leon,2025,1
+742,fisica,18.0,18.0,0.0,0.0,4.0,0.0,14.0,soria,Castilla y Leon,2025,1
+747,fisica,218.0,218.0,0.0,0.0,38.0,4.0,176.0,valladolid,Castilla y Leon,2025,1
+749,fisica,20.0,20.0,0.0,0.0,0.0,0.0,20.0,zamora,Castilla y Leon,2025,1
+802,fisica,95.0,95.0,0.0,0.0,0.0,0.0,95.0,albacete,Castilla La Mancha,2025,1
+813,fisica,4.0,4.0,0.0,0.0,0.0,0.0,4.0,ciudad real,Castilla La Mancha,2025,1
+816,fisica,14.0,14.0,0.0,0.0,0.0,0.0,14.0,cuenca,Castilla La Mancha,2025,1
+819,fisica,75.0,75.0,0.0,0.0,15.0,1.0,59.0,guadalajara,Castilla La Mancha,2025,1
+845,fisica,106.0,106.0,0.0,0.0,4.0,4.0,98.0,toledo,Castilla La Mancha,2025,1
+908,fisica,2801.0,2800.0,1.0,0.0,413.0,1.0,2387.0,barcelona,Cataluña,2025,1
+917,fisica,205.0,205.0,0.0,0.0,10.0,0.0,195.0,girona,Cataluña,2025,1
+925,fisica,225.0,225.0,0.0,0.0,22.0,0.0,203.0,lleida,Cataluña,2025,1
+943,fisica,319.0,319.0,0.0,0.0,21.0,0.0,298.0,tarragona,Cataluña,2025,1
+734,fisica,777.0,777.0,0.0,0.0,88.0,12.0,677.0,valencia,Valencia,2025,1
+1106,fisica,107.0,107.0,0.0,0.0,37.0,0.0,70.0,badajoz,Extremadura,2025,1
+1110,fisica,72.0,72.0,0.0,0.0,11.0,0.0,61.0,caceres,Extremadura,2025,1
+1227,fisica,79.0,79.0,0.0,0.0,8.0,0.0,71.0,lugo,Galicia,2025,1
+1232,fisica,22.0,22.0,0.0,0.0,1.0,0.0,21.0,ourense,Galicia,2025,1
+1236,fisica,154.0,154.0,0.0,0.0,41.0,0.0,113.0,pontevedra,Galicia,2025,1
+1328,fisica,2361.0,2360.0,1.0,0.0,226.0,27.0,2108.0,madrid,Madrid,2025,1
+1430,fisica,791.0,791.0,0.0,0.0,66.0,5.0,720.0,murcia,Murcia,2025,1
+1531,fisica,170.0,170.0,0.0,0.0,19.0,0.0,151.0,navarra,Navarra,2025,1
+1601,fisica,63.0,63.0,0.0,0.0,7.0,0.0,56.0,araba alava,Pais Vasco,2025,1
+1648,fisica,178.0,178.0,0.0,0.0,12.0,0.0,166.0,bizkaia,Pais Vasco,2025,1
+1620,fisica,86.0,86.0,0.0,0.0,6.0,1.0,79.0,gipuzkoa,Pais Vasco,2025,1
+1851,fisica,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ceuta,Ceuta,2025,1
+1952,fisica,10.0,10.0,0.0,0.0,8.0,0.0,2.0,melilla,Melilla,2025,1
+104,empresas,17.0,13.0,4.0,0.0,7.0,6.0,4.0,almeria,Andalucia,2025,1
+111,empresas,18.0,18.0,0.0,0.0,9.0,1.0,8.0,cadiz,Andalucia,2025,1
+114,empresas,6.0,6.0,0.0,0.0,1.0,0.0,5.0,cordoba,Andalucia,2025,1
+118,empresas,21.0,19.0,2.0,0.0,9.0,5.0,7.0,granada,Andalucia,2025,1
+121,empresas,6.0,6.0,0.0,0.0,4.0,0.0,2.0,huelva,Andalucia,2025,1
+123,empresas,5.0,5.0,0.0,0.0,2.0,2.0,1.0,jaen,Andalucia,2025,1
+129,empresas,42.0,42.0,0.0,0.0,12.0,2.0,28.0,malaga,Andalucia,2025,1
+141,empresas,63.0,59.0,4.0,0.0,20.0,4.0,39.0,sevilla,Andalucia,2025,1
+943,empresas,27.0,27.0,0.0,0.0,13.0,2.0,12.0,aragon,,2025,1
+222,empresas,6.0,6.0,0.0,0.0,3.0,1.0,2.0,huesca,Aragon,2025,1
+244,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,teruel,Aragon,2025,1
+250,empresas,20.0,20.0,0.0,0.0,9.0,1.0,10.0,zaragoza,Aragon,2025,1
+333,empresas,31.0,31.0,0.0,0.0,9.0,7.0,15.0,asturias,Asturias,2025,1
+407,empresas,39.0,36.0,3.0,0.0,25.0,1.0,13.0,balears illes,Baleares,2025,1
+639,empresas,28.0,28.0,0.0,0.0,6.0,12.0,10.0,canarias,,2025,1
+538,empresas,12.0,12.0,0.0,0.0,4.0,4.0,4.0,santa cruz de tenerife,Canarias,2025,1
+639,empresas,10.0,9.0,1.0,0.0,4.0,4.0,2.0,cantabria,Cantabria,2025,1
+705,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,avila,Castilla y Leon,2025,1
+709,empresas,5.0,5.0,0.0,0.0,1.0,0.0,4.0,burgos,Castilla y Leon,2025,1
+724,empresas,3.0,2.0,1.0,0.0,1.0,2.0,0.0,leon,Castilla y Leon,2025,1
+734,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,palencia,Castilla y Leon,2025,1
+737,empresas,6.0,6.0,0.0,0.0,2.0,0.0,4.0,salamanca,Castilla y Leon,2025,1
+740,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,segovia,Castilla y Leon,2025,1
+742,empresas,1.0,1.0,0.0,0.0,1.0,0.0,0.0,soria,Castilla y Leon,2025,1
+747,empresas,10.0,10.0,0.0,0.0,1.0,5.0,4.0,valladolid,Castilla y Leon,2025,1
+749,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,zamora,Castilla y Leon,2025,1
+802,empresas,12.0,12.0,0.0,0.0,3.0,0.0,9.0,albacete,Castilla La Mancha,2025,1
+813,empresas,19.0,19.0,0.0,0.0,2.0,0.0,17.0,ciudad real,Castilla La Mancha,2025,1
+816,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,cuenca,Castilla La Mancha,2025,1
+819,empresas,5.0,5.0,0.0,0.0,2.0,1.0,2.0,guadalajara,Castilla La Mancha,2025,1
+845,empresas,6.0,6.0,0.0,0.0,1.0,1.0,4.0,toledo,Castilla La Mancha,2025,1
+908,empresas,386.0,378.0,8.0,0.0,101.0,20.0,265.0,barcelona,Cataluña,2025,1
+917,empresas,15.0,15.0,0.0,0.0,0.0,1.0,14.0,girona,Cataluña,2025,1
+925,empresas,16.0,16.0,0.0,0.0,5.0,1.0,10.0,lleida,Cataluña,2025,1
+943,empresas,33.0,32.0,1.0,0.0,11.0,3.0,19.0,tarragona,Cataluña,2025,1
+734,empresas,84.0,81.0,3.0,0.0,24.0,43.0,17.0,valencia,Valencia,2025,1
+1106,empresas,22.0,22.0,0.0,0.0,8.0,5.0,9.0,badajoz,Extremadura,2025,1
+1110,empresas,3.0,3.0,0.0,0.0,0.0,0.0,3.0,caceres,Extremadura,2025,1
+1227,empresas,14.0,14.0,0.0,0.0,9.0,0.0,5.0,lugo,Galicia,2025,1
+1232,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,ourense,Galicia,2025,1
+1236,empresas,15.0,15.0,0.0,0.0,6.0,0.0,9.0,pontevedra,Galicia,2025,1
+1328,empresas,375.0,373.0,2.0,0.0,69.0,182.0,124.0,madrid,Madrid,2025,1
+1430,empresas,63.0,62.0,1.0,0.0,22.0,10.0,31.0,murcia,Murcia,2025,1
+1531,empresas,17.0,15.0,2.0,0.0,9.0,0.0,8.0,navarra,Navarra,2025,1
+1601,empresas,13.0,13.0,0.0,0.0,4.0,2.0,7.0,araba alava,Pais Vasco,2025,1
+1648,empresas,49.0,49.0,0.0,0.0,17.0,20.0,12.0,bizkaia,Pais Vasco,2025,1
+1620,empresas,20.0,19.0,1.0,0.0,6.0,4.0,10.0,gipuzkoa,Pais Vasco,2025,1
+1851,fisica,2.0,2.0,0.0,0.0,0.0,0.0,2.0,ceuta,Ceuta,2025,2
+1952,fisica,17.0,17.0,0.0,0.0,4.0,0.0,13.0,melilla,Melilla,2025,2
+104,fisica,190.0,190.0,0.0,0.0,21.0,9.0,160.0,almeria,Andalucia,2025,2
+111,fisica,282.0,282.0,0.0,0.0,15.0,0.0,267.0,cadiz,Andalucia,2025,2
+114,fisica,94.0,94.0,0.0,0.0,14.0,0.0,80.0,cordoba,Andalucia,2025,2
+118,fisica,159.0,159.0,0.0,0.0,44.0,6.0,109.0,granada,Andalucia,2025,2
+121,fisica,54.0,54.0,0.0,0.0,12.0,0.0,42.0,huelva,Andalucia,2025,2
+123,fisica,11.0,11.0,0.0,0.0,7.0,0.0,4.0,jaen,Andalucia,2025,2
+129,fisica,186.0,186.0,0.0,0.0,19.0,7.0,160.0,malaga,Andalucia,2025,2
+141,fisica,435.0,435.0,0.0,0.0,46.0,6.0,383.0,sevilla,Andalucia,2025,2
+943,fisica,159.0,159.0,0.0,0.0,23.0,1.0,135.0,aragon,,2025,2
+222,fisica,40.0,40.0,0.0,0.0,4.0,1.0,35.0,huesca,Aragon,2025,2
+244,fisica,19.0,19.0,0.0,0.0,3.0,0.0,16.0,teruel,Aragon,2025,2
+250,fisica,100.0,100.0,0.0,0.0,16.0,0.0,84.0,zaragoza,Aragon,2025,2
+333,fisica,189.0,189.0,0.0,0.0,34.0,2.0,153.0,asturias,Asturias,2025,2
+407,fisica,452.0,452.0,0.0,0.0,22.0,0.0,430.0,balears illes,Baleares,2025,2
+639,fisica,793.0,793.0,0.0,0.0,83.0,4.0,706.0,canarias,,2025,2
+538,fisica,196.0,196.0,0.0,0.0,27.0,2.0,167.0,santa cruz de tenerife,Canarias,2025,2
+639,fisica,69.0,69.0,0.0,0.0,9.0,0.0,60.0,cantabria,Cantabria,2025,2
+705,fisica,21.0,21.0,0.0,0.0,1.0,0.0,20.0,avila,Castilla y Leon,2025,2
+709,fisica,29.0,29.0,0.0,0.0,1.0,0.0,28.0,burgos,Castilla y Leon,2025,2
+724,fisica,76.0,76.0,0.0,0.0,14.0,1.0,61.0,leon,Castilla y Leon,2025,2
+734,fisica,10.0,10.0,0.0,0.0,0.0,0.0,10.0,palencia,Castilla y Leon,2025,2
+737,fisica,44.0,44.0,0.0,0.0,2.0,0.0,42.0,salamanca,Castilla y Leon,2025,2
+740,fisica,27.0,27.0,0.0,0.0,8.0,0.0,19.0,segovia,Castilla y Leon,2025,2
+742,fisica,9.0,9.0,0.0,0.0,3.0,0.0,6.0,soria,Castilla y Leon,2025,2
+747,fisica,107.0,107.0,0.0,0.0,3.0,0.0,104.0,valladolid,Castilla y Leon,2025,2
+749,fisica,3.0,3.0,0.0,0.0,0.0,0.0,3.0,zamora,Castilla y Leon,2025,2
+802,fisica,96.0,96.0,0.0,0.0,0.0,0.0,96.0,albacete,Castilla La Mancha,2025,2
+813,fisica,2.0,2.0,0.0,0.0,1.0,0.0,1.0,ciudad real,Castilla La Mancha,2025,2
+816,fisica,27.0,27.0,0.0,0.0,3.0,0.0,24.0,cuenca,Castilla La Mancha,2025,2
+819,fisica,67.0,67.0,0.0,0.0,6.0,2.0,59.0,guadalajara,Castilla La Mancha,2025,2
+845,fisica,152.0,152.0,0.0,0.0,16.0,1.0,135.0,toledo,Castilla La Mancha,2025,2
+908,fisica,1920.0,1918.0,2.0,0.0,272.0,3.0,1645.0,barcelona,Cataluña,2025,2
+917,fisica,228.0,228.0,0.0,0.0,9.0,0.0,219.0,girona,Cataluña,2025,2
+925,fisica,203.0,203.0,0.0,0.0,14.0,1.0,188.0,lleida,Cataluña,2025,2
+943,fisica,207.0,207.0,0.0,0.0,18.0,0.0,189.0,tarragona,Cataluña,2025,2
+734,fisica,714.0,714.0,0.0,0.0,97.0,24.0,593.0,valencia,Valencia,2025,2
+1106,fisica,101.0,101.0,0.0,0.0,42.0,0.0,59.0,badajoz,Extremadura,2025,2
+1110,fisica,50.0,50.0,0.0,0.0,13.0,1.0,36.0,caceres,Extremadura,2025,2
+1227,fisica,72.0,72.0,0.0,0.0,12.0,1.0,59.0,lugo,Galicia,2025,2
+1232,fisica,31.0,31.0,0.0,0.0,2.0,0.0,29.0,ourense,Galicia,2025,2
+1236,fisica,178.0,178.0,0.0,0.0,25.0,0.0,153.0,pontevedra,Galicia,2025,2
+1328,fisica,1400.0,1400.0,0.0,0.0,73.0,48.0,1279.0,madrid,Madrid,2025,2
+1430,fisica,637.0,637.0,0.0,0.0,65.0,7.0,565.0,murcia,Murcia,2025,2
+1531,fisica,84.0,84.0,0.0,0.0,12.0,0.0,72.0,navarra,Navarra,2025,2
+1601,fisica,39.0,39.0,0.0,0.0,2.0,0.0,37.0,araba alava,Pais Vasco,2025,2
+1648,fisica,142.0,142.0,0.0,0.0,13.0,0.0,129.0,bizkaia,Pais Vasco,2025,2
+1620,fisica,68.0,68.0,0.0,0.0,7.0,0.0,61.0,gipuzkoa,Pais Vasco,2025,2
+104,empresas,18.0,18.0,0.0,0.0,6.0,3.0,9.0,almeria,Andalucia,2025,2
+111,empresas,13.0,12.0,1.0,0.0,6.0,0.0,7.0,cadiz,Andalucia,2025,2
+114,empresas,11.0,11.0,0.0,0.0,4.0,0.0,7.0,cordoba,Andalucia,2025,2
+118,empresas,14.0,13.0,1.0,0.0,4.0,7.0,3.0,granada,Andalucia,2025,2
+121,empresas,4.0,4.0,0.0,0.0,1.0,3.0,0.0,huelva,Andalucia,2025,2
+123,empresas,4.0,4.0,0.0,0.0,2.0,0.0,2.0,jaen,Andalucia,2025,2
+129,empresas,37.0,37.0,0.0,0.0,8.0,2.0,27.0,malaga,Andalucia,2025,2
+141,empresas,36.0,35.0,1.0,0.0,12.0,3.0,21.0,sevilla,Andalucia,2025,2
+943,empresas,24.0,23.0,1.0,0.0,10.0,4.0,10.0,aragon,,2025,2
+222,empresas,4.0,4.0,0.0,0.0,1.0,3.0,0.0,huesca,Aragon,2025,2
+244,empresas,2.0,2.0,0.0,0.0,1.0,0.0,1.0,teruel,Aragon,2025,2
+250,empresas,18.0,17.0,1.0,0.0,8.0,1.0,9.0,zaragoza,Aragon,2025,2
+333,empresas,20.0,20.0,0.0,0.0,5.0,7.0,8.0,asturias,Asturias,2025,2
+407,empresas,30.0,29.0,1.0,0.0,16.0,0.0,14.0,balears illes,Baleares,2025,2
+639,empresas,23.0,23.0,0.0,0.0,4.0,11.0,8.0,canarias,,2025,2
+538,empresas,10.0,10.0,0.0,0.0,3.0,5.0,2.0,santa cruz de tenerife,Canarias,2025,2
+639,empresas,4.0,4.0,0.0,0.0,1.0,2.0,1.0,cantabria,Cantabria,2025,2
+705,empresas,0.0,0.0,0.0,0.0,0.0,0.0,0.0,avila,Castilla y Leon,2025,2
+709,empresas,5.0,5.0,0.0,0.0,0.0,1.0,4.0,burgos,Castilla y Leon,2025,2
+724,empresas,4.0,3.0,1.0,0.0,1.0,2.0,1.0,leon,Castilla y Leon,2025,2
+734,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,palencia,Castilla y Leon,2025,2
+737,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,salamanca,Castilla y Leon,2025,2
+740,empresas,4.0,4.0,0.0,0.0,0.0,3.0,1.0,segovia,Castilla y Leon,2025,2
+742,empresas,1.0,1.0,0.0,0.0,0.0,0.0,1.0,soria,Castilla y Leon,2025,2
+747,empresas,5.0,5.0,0.0,0.0,2.0,1.0,2.0,valladolid,Castilla y Leon,2025,2
+749,empresas,6.0,6.0,0.0,0.0,3.0,1.0,2.0,zamora,Castilla y Leon,2025,2
+802,empresas,14.0,12.0,2.0,0.0,5.0,2.0,7.0,albacete,Castilla La Mancha,2025,2
+813,empresas,9.0,9.0,0.0,0.0,1.0,0.0,8.0,ciudad real,Castilla La Mancha,2025,2
+816,empresas,2.0,2.0,0.0,0.0,0.0,0.0,2.0,cuenca,Castilla La Mancha,2025,2
+819,empresas,7.0,7.0,0.0,0.0,1.0,3.0,3.0,guadalajara,Castilla La Mancha,2025,2
+845,empresas,16.0,13.0,3.0,0.0,8.0,1.0,7.0,toledo,Castilla La Mancha,2025,2
+908,empresas,328.0,320.0,8.0,0.0,95.0,25.0,208.0,barcelona,Cataluña,2025,2
+917,empresas,19.0,18.0,1.0,0.0,4.0,1.0,14.0,girona,Cataluña,2025,2
+925,empresas,13.0,12.0,1.0,0.0,4.0,0.0,9.0,lleida,Cataluña,2025,2
+943,empresas,16.0,15.0,1.0,0.0,2.0,1.0,13.0,tarragona,Cataluña,2025,2
+734,empresas,100.0,97.0,3.0,0.0,24.0,48.0,28.0,valencia,Valencia,2025,2
+1106,empresas,11.0,11.0,0.0,0.0,5.0,0.0,6.0,badajoz,Extremadura,2025,2
+1110,empresas,4.0,4.0,0.0,0.0,1.0,0.0,3.0,caceres,Extremadura,2025,2
+1227,empresas,8.0,8.0,0.0,0.0,5.0,0.0,3.0,lugo,Galicia,2025,2
+1232,empresas,3.0,3.0,0.0,0.0,1.0,0.0,2.0,ourense,Galicia,2025,2
+1236,empresas,36.0,35.0,1.0,0.0,18.0,0.0,18.0,pontevedra,Galicia,2025,2
+1328,empresas,280.0,264.0,16.0,0.0,56.0,141.0,83.0,madrid,Madrid,2025,2
+1430,empresas,41.0,40.0,1.0,0.0,17.0,4.0,20.0,murcia,Murcia,2025,2
+1531,empresas,12.0,12.0,0.0,0.0,7.0,0.0,5.0,navarra,Navarra,2025,2
+1601,empresas,10.0,10.0,0.0,0.0,3.0,2.0,5.0,araba alava,Pais Vasco,2025,2
+1648,empresas,42.0,41.0,1.0,0.0,14.0,12.0,16.0,bizkaia,Pais Vasco,2025,2
+1620,empresas,25.0,24.0,1.0,0.0,8.0,6.0,11.0,gipuzkoa,Pais Vasco,2025,2
